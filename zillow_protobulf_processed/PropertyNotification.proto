@@ -1,0 +1,41 @@
+syntax = "proto2";
+
+package PropertyNotification;
+
+import "home-info/HomeInfo.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "PropertyNotification";
+option java_package = "com.zillow.mobile.webservices.notification";
+
+message Notification {
+    optional HomeInfo.Home snapshot = 1;
+    optional HomeInfo.Home current = 2;
+    optional NotificationChangeType changeType = 3;
+    optional string changeStatusDisplay = 4;
+    optional int64 ordinal = 5;
+    optional bool read = 6;
+    optional int64 time_stamp = 7;
+}
+
+enum NotificationChangeType {
+    INVALID_CHANGE = -1;
+    FALSE_ALARM = 0;
+    ADD_LISTING = 1;
+    PRICE_CHANGE = 2;
+    LISTING_STATUS_CHANGE = 3;
+    OPEN_HOUSE_CHANGE = 4;
+    SALE = 5;
+    SPECIAL_OFFER = 6;
+    RENT_CHANGE = 7;
+    SOL_AMOUNT_CHANGE = 8;
+    MMM_PRICE_CHANGE = 9;
+    NEW_DEFAULT = 10;
+    NEW_NONRETAIL_AUCTION = 11;
+    NEW_FORECLOSURE = 12;
+    NEW_VIDEO = 15;
+    UNDER_CONSTRUCTION = 16;
+    MOVE_IN_READY = 17;
+    NEW_CONSTRUCTION_PROMOTION = 18;
+    MOVE_IN_MONTHS_AWAY = 19;
+}

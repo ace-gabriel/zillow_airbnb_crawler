@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.UInt32Value
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message UInt32Value {
+    optional uint32 value = 1;
+}

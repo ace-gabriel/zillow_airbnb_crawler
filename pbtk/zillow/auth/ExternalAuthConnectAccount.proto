@@ -1,0 +1,14 @@
+syntax = "proto2";
+
+package ExternalAuthConnectAcccountResult;
+
+option objc_class_prefix = "ProtobufExternalAuthConnectAccount";
+option java_outer_classname = "ExternalAuthConnectAccountResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message Result {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string zuid = 4;
+}

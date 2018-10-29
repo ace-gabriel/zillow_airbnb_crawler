@@ -1,0 +1,49 @@
+syntax = "proto2";
+
+package ZList;
+
+option objc_class_prefix = "ProtobufZ";
+option java_outer_classname = "ZListResult";
+option java_package = "com.zillow.mobile.webservices.listsync";
+
+message ListUser {
+    required int32 zuid = 1;
+    optional string display_name = 2;
+}
+
+message ListItem {
+    required string item_id = 1;
+    required ItemType item_type = 2;
+    required ListUser creator = 3;
+    optional string image_url = 4;
+    optional string note = 5;
+}
+
+message ListHome {
+    required int32 zpid = 1;
+    optional string street_address = 2;
+    optional string zipcode = 3;
+    optional string city = 4;
+    optional string state = 5;
+    optional double latitude = 6;
+    optional double longitude = 7;
+    repeated ListItem items = 8;
+}
+
+message List {
+    required string list_id = 1;
+    optional string list_name = 2;
+}
+
+enum ItemType {
+    UKNOWN = 0;
+    PROPERTY = 1;
+    PROPERTY_IMAGE = 2;
+    PROPERTY_NOTE = 3;
+}
+
+enum PermissionType {
+    OWNER = 0;
+    EDITOR = 1;
+    VIEWER = 2;
+}

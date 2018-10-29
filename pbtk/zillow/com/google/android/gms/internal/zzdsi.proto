@@ -1,0 +1,26 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdsi
+ * com.google.android.gms.internal.zzdsk
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdsg.proto";
+
+message Zzdsi {
+    optional uint32 zzltn = 1;
+    
+    optional Zzdsk zzlux = 2;
+    message Zzdsk {
+        optional uint32 zzltn = 1;
+        optional Zzdsg zzlur = 2;
+        optional bytes zzluz = 3;
+        optional bytes zzlva = 4;
+    }
+    
+    optional bytes zzltv = 3;
+}

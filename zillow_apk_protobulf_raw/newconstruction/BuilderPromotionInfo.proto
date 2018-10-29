@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package NewConstruction;
+
+option objc_class_prefix = "ProtobufNewConstruction";
+option java_outer_classname = "NewConstruction";
+option java_package = "com.zillow.mobile.webservices";
+
+message BuilderPromotionInfo {
+    optional string headline = 1;
+    optional string description = 2;
+}

@@ -1,0 +1,41 @@
+syntax = "proto2";
+
+package SaveSearchNotification;
+
+import "home-info/FilterInfo.proto";
+import "schools/SchoolFilterInfo.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "SaveSearchNotification";
+option java_package = "com.zillow.mobile.webservices";
+
+message SavedSearch {
+    optional string searchId = 1 [deprecated = true];
+    optional string description = 2;
+    optional int32 count = 3;
+    optional string mobile_search_id = 4;
+    optional FilterInfo.Filter search_filter = 7;
+    optional bool emailIncluded = 8;
+    optional SavedSearchType type = 9;
+    optional Schools.SchoolFilter school_filter = 10;
+    optional string filterParamString = 11;
+    optional string clipPolygonParamString = 12;
+    optional string satelliteImageLink = 13;
+}
+
+message SaveSearchNotificationResult {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string searchId = 4 [deprecated = true];
+    repeated SavedSearch searchList = 5;
+    optional bool moreSearchesAvailable = 6;
+}
+
+enum SavedSearchType {
+    Web = 1;
+    Mobile = 2;
+    FavoriteHomes = 3;
+    Inferred = 4;
+    Accountless = 6;
+}

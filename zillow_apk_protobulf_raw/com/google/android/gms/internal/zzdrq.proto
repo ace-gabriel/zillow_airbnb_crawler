@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdrq
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzdrq {
+    optional uint32 zzltz = 1;
+}

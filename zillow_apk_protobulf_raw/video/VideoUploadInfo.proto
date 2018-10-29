@@ -1,0 +1,30 @@
+syntax = "proto2";
+
+package VideoUploadInfo;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "VideoUploadInfo";
+option java_package = "com.zillow.mobile.webservices";
+
+message AWSTempCredentials {
+    required string awsAccessKey = 1;
+    required string awsSecretKey = 2;
+    required string awsSessionToken = 3;
+}
+
+message S3UploadDetails {
+    required AWSTempCredentials awsTempCredentials = 1;
+    required string rawVideoPrefix = 2;
+    required string bucket = 3;
+    required string region = 4;
+    optional string thumbnailsPrefix = 5;
+}
+
+message MobileVideoUploadInfo {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional int32 videoId = 4;
+    optional S3UploadDetails s3UploadDetails = 5;
+    optional AWSTempCredentials awsTempCredentials = 6;
+}

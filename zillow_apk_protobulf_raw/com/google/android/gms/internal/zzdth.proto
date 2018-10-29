@@ -1,0 +1,41 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdth
+ * com.google.android.gms.internal.zzdsy$zzb
+ * com.google.android.gms.internal.zzdsy
+ * com.google.android.gms.internal.zzdth$zzb
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdtt.proto";
+import "com/google/android/gms/internal/zzdtb.proto";
+
+message Zzdth {
+    optional uint32 zzlwz = 1;
+    
+    repeated Zzb zzlxa = 2;
+    message Zzb {
+        optional Zzdsy zzlxc = 1;
+        message Zzdsy {
+            optional string zzlwa = 1;
+            optional bytes zzlwb = 2;
+            
+            optional Zzb zzlwc = 3;
+            enum Zzb {
+                UNKNOWN_KEYMATERIAL = 0;
+                SYMMETRIC = 1;
+                ASYMMETRIC_PRIVATE = 2;
+                ASYMMETRIC_PUBLIC = 3;
+                REMOTE = 4;
+            }
+        }
+        
+        optional Zzdtb zzlxd = 2;
+        optional uint32 zzlxe = 3;
+        optional Zzdtt zzlwr = 4;
+    }
+}

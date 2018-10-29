@@ -1,0 +1,54 @@
+syntax = "proto2";
+
+package LocationAPI;
+
+import "HomeInfo.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "LocationLookup";
+option java_package = "com.zillow.mobile.webservices";
+
+message Region {
+    required int32 regionId = 1;
+    required RegionType regionType = 2;
+}
+
+message LocationDisambiguationHomeList {
+    repeated HomeInfo.Home homes = 1;
+}
+
+message LocationResult {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional double westLongitude = 4;
+    optional double southLatitude = 5;
+    optional double eastLongitude = 6;
+    optional double northLatitude = 7;
+    optional LocationDisambiguationHomeList locationDisambiguationHomes = 8;
+    optional Region region = 9;
+}
+
+enum RegionType {
+    continent = 0;
+    country = 1;
+    state = 2;
+    county = 4;
+    city = 6;
+    zipcode = 7;
+    borough = 17;
+    neighborhood = 8;
+    flex = 31;
+    place = 9;
+    unknown = 255;
+    subdivision = 19;
+    community = 18;
+    metro = 14;
+    dma = 10;
+    schoolDistrict = 21;
+    elementarySchool = 22;
+    middleSchool = 23;
+    highSchool = 24;
+    schoolFragment = 25;
+    university = 26;
+}

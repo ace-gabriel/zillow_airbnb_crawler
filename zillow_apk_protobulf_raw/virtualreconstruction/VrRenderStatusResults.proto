@@ -1,0 +1,29 @@
+syntax = "proto2";
+
+package VrRenderStatusResults;
+
+option java_outer_classname = "VrRenderStatusResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message VrRenderStatusResult {
+    option deprecated = true;
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string vrModelId = 4;
+    optional string vrModelGuid = 5;
+    repeated PanoStatus pano = 6;
+    optional ConnectionStatus connection = 7;
+}
+
+message PanoStatus {
+    option deprecated = true;
+    optional int32 taskStatusTypeId = 1;
+    optional string thumbnailUrl = 2;
+    optional string panoViewerUrl = 3;
+}
+
+message ConnectionStatus {
+    option deprecated = true;
+    optional int32 taskStatusTypeId = 1;
+}

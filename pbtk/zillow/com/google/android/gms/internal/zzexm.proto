@@ -1,0 +1,50 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzexm
+ * com.google.android.gms.internal.zzexl
+ * com.google.android.gms.internal.zzexj
+ * com.google.android.gms.internal.zzexi
+ * com.google.android.gms.internal.zzexk
+ * com.google.android.gms.internal.zzexn
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzexm {
+    optional Zzexi zzohm = 1;
+    message Zzexi {
+        repeated Zzexl zzohd = 1;
+        message Zzexl {
+            optional string zzjrg = 1;
+            
+            repeated Zzexj zzohl = 2;
+            message Zzexj {
+                optional string key = 1;
+                optional bytes zzohg = 2;
+            }
+        }
+        
+        repeated fixed64 timestamp = 2;
+        repeated bytes zzohe = 3;
+    }
+    
+    optional Zzexi zzohn = 2;
+    optional Zzexi zzoho = 3;
+    
+    optional Zzexk zzohp = 4;
+    message Zzexk {
+        optional int32 zzohh = 1;
+        optional bool zzohi = 2;
+        optional fixed64 zzohj = 3;
+    }
+    
+    repeated Zzexn zzohq = 5;
+    message Zzexn {
+        optional int32 resource_id = 1;
+        optional fixed64 zzohs = 2;
+        optional string zzjrg = 3;
+    }
+}

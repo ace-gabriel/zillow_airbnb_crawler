@@ -1,0 +1,34 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzjc
+ * com.google.android.gms.internal.zzjd
+ * com.google.android.gms.internal.zzjb
+ * com.google.android.gms.internal.zzja
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzjc {
+    optional string zzbcw = 10;
+    repeated int64 zzbcx = 14;
+    
+    optional Zzjb zzbcy = 15;
+    message Zzjb {
+        optional string zzbcu = 1;
+        
+        optional Zzjd zzbcv = 4;
+        message Zzjd {
+            optional int32 zzbda = 1;
+            optional int32 zzbdb = 2;
+            optional int32 zzbdc = 3;
+        }
+    }
+    
+    optional Zzja zzbcz = 18;
+    message Zzja {
+        optional int32 zzbct = 7;
+    }
+}

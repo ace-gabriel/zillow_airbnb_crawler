@@ -1,0 +1,30 @@
+syntax = "proto2";
+
+package PropertyTags;
+
+option objc_class_prefix = "ProtobufPropertyTags";
+option java_outer_classname = "PropertyTags";
+option java_package = "com.zillow.mobile.webservices";
+
+message PropertyTag {
+    optional string propertyTagID = 1;
+    optional string ownerZuid = 2;
+    optional string displayText = 3;
+}
+
+message List {
+    repeated PropertyTag propertyTags = 1;
+}
+
+message PropertyList {
+    repeated int32 zpid = 1;
+}
+
+message Result {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional List propertyTags = 4;
+    map<int32, List> appliedPropertyTags = 5;
+    map<string, PropertyList> taggedProperties = 6;
+}

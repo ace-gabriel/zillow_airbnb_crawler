@@ -1,0 +1,16 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzbf
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzbf {
+    repeated bytes zzgq = 1;
+    optional bytes zzgl = 2;
+    optional int32 zzgr = 3;
+    optional int32 zzgs = 4;
+}

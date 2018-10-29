@@ -1,0 +1,17 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdtt
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+enum Zzdtt {
+    UNKNOWN_PREFIX = 0;
+    TINK = 1;
+    LEGACY = 2;
+    RAW = 3;
+    CRUNCHY = 4;
+}

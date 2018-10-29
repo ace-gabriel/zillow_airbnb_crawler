@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.Int64Value
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message Int64Value {
+    optional int64 value = 1;
+}

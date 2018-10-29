@@ -1,0 +1,20 @@
+syntax = "proto2";
+
+package Schools;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "SchoolFilterInfo";
+option java_package = "com.zillow.mobile.webservices";
+
+message SchoolFilter {
+    optional int32 minRating = 1;
+    optional bool includePublic = 2;
+    optional bool includePrivate = 3;
+    optional bool includeCharter = 4;
+    optional bool includeElementary = 5;
+    optional bool includeMiddle = 6;
+    optional bool includeHigh = 7;
+    optional bool includeUnrated = 8;
+    optional bool restrictPropertySearchToBounds = 9;
+    repeated int32 fragmentIds = 10;
+}

@@ -1,0 +1,77 @@
+syntax = "proto2";
+
+package FilterInfo;
+
+import "geolookup/LocationLookup.proto";
+
+option objc_class_prefix = "ProtobufFilterAPI";
+option java_outer_classname = "FilterInfo";
+option java_package = "com.zillow.mobile.webservices";
+
+message LatLong {
+    optional double latitude = 1;
+    optional double longitude = 2;
+}
+
+message Polygon {
+    repeated LatLong lat_long = 1;
+}
+
+message PolygonList {
+    repeated Polygon polygon = 1;
+}
+
+message Keywords {
+    repeated string keyword = 1;
+}
+
+message Filter {
+    optional LatLong northeast = 1;
+    optional LatLong southwest = 2;
+    optional PolygonList polygonList = 3;
+    optional bool is_for_sale_on = 4;
+    optional bool is_make_me_move_on = 5;
+    optional bool is_recently_sold_on = 6;
+    optional bool is_for_rent_on = 7;
+    optional bool is_zestimate_on = 8;
+    optional bool is_fsba_on = 9;
+    optional bool is_fsbo_on = 10;
+    optional bool is_new_construction_on = 11;
+    optional bool is_foreclosure_on = 12;
+    optional bool is_coming_soon_on = 42;
+    optional bool is_condo_on = 13;
+    optional bool is_single_family_on = 14;
+    optional bool is_multi_family_on = 15;
+    optional bool is_manufactured_on = 16;
+    optional bool is_lots_land_on = 17;
+    optional int32 price_min = 18;
+    optional int32 price_max = 19;
+    optional int32 monthly_min = 20;
+    optional int32 monthly_max = 21;
+    optional bool is_show_only_photos_on = 22;
+    optional bool is_show_only_price_reductions_on = 23;
+    optional bool is_show_only_open_houses_on = 24;
+    optional bool is_show_only_zillow_specials_on = 25;
+    optional double bathrooms = 26;
+    optional int32 bedrooms = 27;
+    optional int32 sqft_min = 28;
+    optional int32 sqft_max = 29;
+    optional int32 lot_size_min = 30;
+    optional int32 lot_size_max = 31;
+    optional int32 year_built_min = 32;
+    optional int32 year_built_max = 33;
+    optional int32 days_on_zillow = 34;
+    optional Keywords keywords = 35;
+    optional int32 is_pets_allowed = 36;
+    optional bool is_foreclosed_on = 37;
+    optional bool is_pre_foreclosure_on = 38;
+    optional bool in_unit_laundry = 39;
+    optional bool assigned_parking = 40;
+    optional LocationAPI.Region region = 41;
+    optional bool is_town_home_on = 43;
+    optional bool is_apartment_home_on = 44;
+    optional bool income_restricted = 45;
+    optional int32 hoa_fee_max = 46;
+    optional bool is_single_story_on = 47;
+    optional int32 bedrooms_max = 48;
+}

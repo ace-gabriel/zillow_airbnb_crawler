@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+package push;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "PushRegistrationResults";
+option java_package = "com.zillow.mobile.webservices.push";
+
+message PushRegistration {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+}

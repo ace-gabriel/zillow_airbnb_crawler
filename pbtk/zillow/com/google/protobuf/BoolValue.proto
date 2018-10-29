@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.BoolValue
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message BoolValue {
+    optional bool value = 1;
+}

@@ -1,0 +1,16 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdsw
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdsq.proto";
+
+message Zzdsw {
+    optional Zzdsq zzlvx = 1;
+    optional uint32 zzlvy = 2;
+}

@@ -1,0 +1,26 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzclt
+ * com.google.android.gms.internal.zzclw
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzclu.proto";
+
+message Zzclt {
+    optional Zzclw zzjkc = 1;
+    message Zzclw {
+        optional int32 zzjko = 1;
+        optional string zzjkp = 2;
+        repeated bool zzjkq = 3;
+        repeated string zzjkr = 4;
+    }
+    
+    optional Zzclu zzjkd = 2;
+    optional bool zzjke = 3;
+    optional string zzjkf = 4;
+}

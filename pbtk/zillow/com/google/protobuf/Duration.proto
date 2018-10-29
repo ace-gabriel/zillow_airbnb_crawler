@@ -1,0 +1,14 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.Duration
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message Duration {
+    optional int64 seconds = 1;
+    optional int32 nanos = 2;
+}

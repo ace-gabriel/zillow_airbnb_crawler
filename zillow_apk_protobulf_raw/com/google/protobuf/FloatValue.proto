@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.FloatValue
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message FloatValue {
+    optional float value = 1;
+}

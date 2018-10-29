@@ -1,0 +1,29 @@
+syntax = "proto2";
+
+package GetUserStatusResult;
+
+option objc_class_prefix = "ProtobufGetUserStatus";
+option java_outer_classname = "GetUserStatusResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message Result {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional UserStatus userStatus = 4;
+    repeated ExternalAuthType externalAuthTypes = 5;
+    optional bool isCanadian = 6;
+}
+
+enum UserStatus {
+    STATUS_UNKNOWN = 0;
+    ZILLOW_ACCOUNT_WITH_PASSWORD = 1;
+    ZILLOW_FREEPASS_ACCOUNT = 2;
+    EXTERNAL_AUTH_ACCOUNT = 3;
+    NO_ACCOUNT = 4;
+}
+
+enum ExternalAuthType {
+    FACEBOOK = 0;
+    GOOGLE = 1;
+}

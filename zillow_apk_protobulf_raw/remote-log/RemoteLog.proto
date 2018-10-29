@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+package RemoteLogResult;
+
+option objc_class_prefix = "ProtobufRemoteLog";
+option java_outer_classname = "RemoteLogResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message Result {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+}

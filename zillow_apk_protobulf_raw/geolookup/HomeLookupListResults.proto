@@ -1,0 +1,19 @@
+syntax = "proto2";
+
+package HomeLookupListResults;
+
+import "home-info/HomeInfo.proto";
+import "search/GroupResult.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "HomeLookupListResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message HomeListResults {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    repeated HomeInfo.Home homes = 4;
+    optional int64 ordinal = 5;
+    repeated SearchResults.PropertyGroup groups = 6;
+}

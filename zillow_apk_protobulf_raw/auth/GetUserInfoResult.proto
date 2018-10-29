@@ -1,0 +1,21 @@
+syntax = "proto2";
+
+package GetUserInfoResult;
+
+option objc_class_prefix = "ProtobufGetUserAPI";
+option java_outer_classname = "GetUserInfoResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message Result {
+    optional int32 apiVersion = 1;
+    optional int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional UserInfo userInfo = 4;
+}
+
+message UserInfo {
+    optional string emailAddress = 1;
+    optional string displayName = 2;
+    optional string zuid = 3;
+    optional bool isProfessionalUser = 4;
+}

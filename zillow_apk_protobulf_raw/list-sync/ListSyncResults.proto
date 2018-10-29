@@ -1,0 +1,23 @@
+syntax = "proto2";
+
+package ListSyncResults;
+
+import "list-sync/ZList.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "ListSyncResults";
+option java_package = "com.zillow.mobile.webservices.listsync";
+
+message ListsResults {
+    required int32 api_version = 1;
+    required int32 response_code = 2;
+    optional string response_message = 3;
+    repeated ZList.List lists = 4;
+}
+
+message ListInfoResults {
+    required int32 api_version = 1;
+    required int32 response_code = 2;
+    optional string response_message = 3;
+    repeated ZList.ListHome homes = 4;
+}

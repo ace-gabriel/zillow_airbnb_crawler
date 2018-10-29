@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.StringValue
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message StringValue {
+    optional string value = 1;
+}

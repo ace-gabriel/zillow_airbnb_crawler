@@ -1,0 +1,29 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.ListValue
+ * com.google.protobuf.Value
+ * com.google.protobuf.Struct
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message ListValue {
+    repeated Value_ values = 1;
+    message Value_ {
+        oneof kind {
+            int32 a = 1;
+            double b = 2;
+            string c = 3;
+            bool d = 4;
+            Struct_ e = 5;
+            ListValue f = 6;
+        }
+        
+        message Struct_ {
+            repeated bytes fields = 1;
+        }
+    }
+}

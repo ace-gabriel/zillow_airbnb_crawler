@@ -1,0 +1,30 @@
+syntax = "proto2";
+
+package FavoriteListResults;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "FavoriteListResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message FavoritePropertyList {
+    repeated string zpid = 1;
+}
+
+message FavoritePropertyTypeList {
+    repeated FavoritePropertyType type = 1;
+}
+
+message FavoritePropertyResultsList {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional FavoritePropertyList favorites = 4;
+    optional FavoritePropertyTypeList favoriteTypes = 5;
+    optional bool moreFavoritesAvailable = 6;
+}
+
+enum FavoritePropertyType {
+    SAVED = 0;
+    CLAIMED = 1;
+    ASSOCIATED = 2;
+}

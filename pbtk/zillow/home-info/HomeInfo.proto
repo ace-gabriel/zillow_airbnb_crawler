@@ -1,0 +1,171 @@
+syntax = "proto2";
+
+package HomeInfo;
+
+import "home-info/HomeTypes.proto";
+import "home-info/RentalInfo.proto";
+import "favorites/PropertyNoteListResults.proto";
+import "personalization/PersonalizedProperty.proto";
+import "savedsearch/HomeInfoPropertyNotification.proto";
+import "home-info/OpenHouseDetails.proto";
+import "property-images/PropertyImageListResults.proto";
+import "newconstruction/BuilderPromotionInfo.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "HomeInfo";
+option java_package = "com.zillow.mobile.webservices";
+
+message ListingAccount {
+    optional string name = 1;
+    optional string email = 2;
+    optional string phone = 3;
+    optional string phoneExtension = 4;
+    optional string profilePhotoUrl = 5;
+}
+
+message Home {
+    required int32 zpid = 1;
+    optional string streetAddress = 2;
+    optional string zipcode = 3;
+    optional string city = 4;
+    optional string state = 5;
+    optional double latitude = 6;
+    optional double longitude = 7;
+    optional double price = 8;
+    optional int64 dateSold = 9;
+    optional int64 datePriceChanged = 10;
+    optional bool newPrice = 11;
+    optional double bathrooms = 12;
+    optional double bedrooms = 13;
+    optional double livingArea = 14;
+    optional int32 yearBuilt = 15;
+    optional double lotSize = 16;
+    optional HomeType homeType = 17;
+    optional HomeStatus homeStatus = 18;
+    optional int32 photoCount = 19;
+    optional string imageLink = 20;
+    optional int32 daysOnZillow = 21;
+    optional bool isFeatured = 22;
+    optional bool shouldHighlight = 23;
+    optional int32 brokerId = 24;
+    optional string contactPhone = 25;
+    optional string contactEmail = 26;
+    optional int32 renovator = 27;
+    optional bool isRentalWithBasePrice = 28;
+    optional GroupType group_type = 29;
+    optional int32 grouping_id = 30;
+    optional string grouping_name = 31;
+    optional int32 zestimate = 32;
+    optional int32 rentZestimate = 33;
+    optional HomeTypes.ListingSubType listing_sub_type = 34;
+    optional string solTagline = 35;
+    optional string openHouse = 36;
+    optional string priceReduction = 37;
+    optional string priceSuffix = 38;
+    optional bool isUnmappable = 39;
+    optional string title = 40;
+    optional int64 rentalDateAvailable = 41;
+    optional int32 rentZestimateRangeHigh = 42;
+    optional int32 rentZestimateRangeLow = 43;
+    optional int32 rentalLeaseTerm = 44;
+    optional int32 rentalPetsFlags = 45;
+    optional int32 rentalUtilitiesFlags = 46;
+    optional string description = 47;
+    optional string rentalDepositsAndFees = 48;
+    optional PropertyNoteListResults.PropertyNote favoriteNote = 49;
+    optional string contactImageUrl = 50;
+    optional string contactName = 51;
+    optional string brokerageName = 52;
+    optional string yahooShareLink = 53;
+    optional int32 rentalAmenitiesFlags = 54;
+    optional int32 uploadedPhotoCount = 55;
+    optional PersonalizedProperty.PropertyState property_state = 56;
+    optional string mediumImageLink = 57;
+    optional bool isPreforeclosureAuction = 58;
+    optional HomeStatus homeStatusForHDP = 59;
+    optional double priceForHDP = 60;
+    optional int32 festimate = 61;
+    optional HomeInfoPropertyNotification.HomeInfoNotification notification = 62;
+    optional RentalInfo.RentalPropertyInfo rentalInfo = 63;
+    optional OpenHouseDetails.OpenHouseInfo open_house_info = 64;
+    optional int32 priceChange = 65;
+    optional int32 camo_source_zpid = 66;
+    optional bool imageIsGeneratedPhoto = 67;
+    optional int64 comingSoonOnMarketDate = 68;
+    optional bool isRefreshed = 69;
+    optional bool isListingOwnedByCurrentSignedInAgent = 70;
+    optional int64 timeOnZillow = 71;
+    optional bool isListingClaimedByCurrentSignedInUser = 72;
+    optional int64 savedDate = 73;
+    optional int64 rentalRefreshTime = 74;
+    optional string hiResImageLink = 75;
+    optional string watchImageLink = 76;
+    optional string contactPhoneExtension = 77;
+    optional int32 lotId = 78;
+    optional string uniqueHomeUrl = 79;
+    optional GetPropertyImagesListResults.PropertyImageList images = 80;
+    optional ListingAccount listingAccount = 81;
+    optional string listingProvidedBySource = 82;
+    optional string mlsId = 83;
+    optional int32 viewsSincePosting = 84;
+    optional string tvImageLink = 85;
+    optional string tvCollectionImageLink = 86;
+    optional string tvHighResImageLink = 87;
+    optional int32 commuteTime = 88;
+    optional int32 videoCount = 89;
+    optional bool zillowHasRightsToImages = 90;
+    optional int64 lotId64 = 91;
+    optional string providerListingID = 92;
+    optional double hoaFee = 93;
+    optional NewConstructionType newConstructionType = 94;
+    optional string desktopWebHdpImageLink = 95;
+    optional int32 claimType = 96;
+    optional bool isNonOwnerOccupied = 97;
+    optional bool submittedLandlordUpsell = 98;
+    optional NewConstruction.BuilderPromotionInfo builderPromotionInfo = 99;
+    optional string homeDetailsUri = 100;
+    optional string streetviewImageLink = 101;
+    optional string satelliteImageLink = 102;
+    optional string streetviewMetadataUrl = 103;
+    optional bool hasVRModel = 104;
+    optional bool hideZestimate = 105;
+    optional bool isPremierBuilder = 106;
+    optional bool isZillowOwned = 107;
+}
+
+enum HomeStatus {
+    STATUS_UNKNOWN = 0;
+    PENDING = 1;
+    RECENTLY_SOLD = 2;
+    FOR_SALE = 3;
+    FOR_RENT = 4;
+    MMM = 5;
+    SOLD = 6;
+    OTHER = 7;
+    FORECLOSED = 8;
+    PRE_FORECLOSURE = 9;
+}
+
+enum HomeType {
+    HOME_TYPE_UNKNOWN = 0;
+    SINGLE_FAMILY = 1;
+    MULTI_FAMILY = 2;
+    CONDO = 3;
+    MANUFACTURED = 4;
+    LOT = 5;
+    TOWNHOUSE = 6;
+    APARTMENT = 7;
+}
+
+enum GroupType {
+    GROUP_TYPE_UNKNOWN = 0;
+    BUILDER_COMMUNITY = 1;
+    APARTMENT_COMPLEX = 2;
+}
+
+enum NewConstructionType {
+    NEW_CONSTRUCTION_TYPE_OTHER = 0;
+    BUILDER_PLAN = 1;
+    BUILDER_SPEC = 2;
+    BUILDER_LOT_AND_PRIMARY_PLAN_FACTS = 3;
+}

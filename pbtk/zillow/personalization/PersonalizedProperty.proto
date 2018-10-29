@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package PersonalizedProperty;
+
+option objc_class_prefix = "ProtobufPersonalized";
+option java_outer_classname = "PersonalizedProperty";
+option java_package = "com.zillow.mobile.webservices.personalization";
+
+message PropertyState {
+    optional bool viewed = 1;
+    optional bool hidden = 2;
+}

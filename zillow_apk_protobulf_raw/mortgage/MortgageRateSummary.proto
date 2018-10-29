@@ -1,0 +1,27 @@
+syntax = "proto2";
+
+package MortgageRateSummary;
+
+option objc_class_prefix = "ProtobufMortgageSummary";
+option java_outer_classname = "MortgageRateSummary";
+option java_package = "com.zillow.mobile.webservices.mortgage";
+
+message Rate {
+    optional RateType type = 1;
+    optional int32 count = 2;
+    optional double interest_rate = 3;
+}
+
+message Result {
+    required int32 api_version = 1;
+    required int32 response_code = 2;
+    optional string response_message = 3;
+    repeated Rate today_rates = 4;
+    repeated Rate last_week_rates = 5;
+}
+
+enum RateType {
+    thirty_year_fixed = 0;
+    fifteen_year_fixed = 1;
+    five_ONE_ARM = 2;
+}

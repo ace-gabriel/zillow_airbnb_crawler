@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.SourceContext
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message SourceContext {
+    optional string file_name = 1;
+}

@@ -1,0 +1,96 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzcmd
+ * com.google.android.gms.internal.zzcmf
+ * com.google.android.gms.internal.zzcmc
+ * com.google.android.gms.internal.zzcme
+ * com.google.android.gms.internal.zzcmb
+ * com.google.android.gms.internal.zzcmg
+ * com.google.android.gms.internal.zzcma
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzcmd {
+    repeated Zzcme zzjlm = 1;
+    message Zzcme {
+        optional int32 zzjlo = 1;
+        
+        repeated Zzcmb zzjlp = 2;
+        message Zzcmb {
+            repeated Zzcmc zzjlh = 1;
+            message Zzcmc {
+                optional string name = 1;
+                optional string zzgcc = 2;
+                optional int64 zzjll = 3;
+                optional float zzjjk = 4;
+                optional double zzjjl = 5;
+            }
+            
+            optional string name = 2;
+            optional int64 zzjli = 3;
+            optional int64 zzjlj = 4;
+            optional int32 count = 5;
+        }
+        
+        repeated Zzcmg zzjlq = 3;
+        message Zzcmg {
+            optional int64 zzjms = 1;
+            optional string name = 2;
+            optional string zzgcc = 3;
+            optional int64 zzjll = 4;
+            optional float zzjjk = 5;
+            optional double zzjjl = 6;
+        }
+        
+        optional int64 zzjlr = 4;
+        optional int64 zzjls = 5;
+        optional int64 zzjlt = 6;
+        optional int64 zzjlv = 7;
+        optional string zzjlw = 8;
+        optional string zzdb = 9;
+        optional string zzjlx = 10;
+        optional string zzjly = 11;
+        optional int32 zzjlz = 12;
+        optional string zzixt = 13;
+        optional string zzcn = 14;
+        optional string zzifm = 16;
+        optional int64 zzjma = 17;
+        optional int64 zzjmb = 18;
+        optional string zzjmc = 19;
+        optional bool zzjmd = 20;
+        optional string zzjme = 21;
+        optional int64 zzjmf = 22;
+        optional int32 zzjmg = 23;
+        optional string zzixw = 24;
+        optional string zzixs = 25;
+        optional int64 zzjlu = 26;
+        optional bool zzjmh = 28;
+        
+        repeated Zzcma zzjmi = 29;
+        message Zzcma {
+            optional int32 zzjjs = 1;
+            
+            optional Zzcmf zzjld = 2;
+            message Zzcmf {
+                repeated int64 zzjmp = 1;
+                repeated int64 zzjmq = 2;
+            }
+            
+            optional Zzcmf zzjle = 3;
+            optional bool zzjlf = 4;
+        }
+        
+        optional string zziya = 30;
+        optional int32 zzjmj = 31;
+        optional int32 zzjmk = 32;
+        optional int32 zzjml = 33;
+        optional string zzjmm = 34;
+        optional int64 zzjmn = 35;
+        optional int64 zzfkk = 36;
+        optional string zzjmo = 37;
+    }
+}

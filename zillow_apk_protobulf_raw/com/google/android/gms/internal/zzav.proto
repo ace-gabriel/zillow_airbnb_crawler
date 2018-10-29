@@ -1,0 +1,22 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzav
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzav {
+    optional string zzcn = 1;
+    optional int64 zzco = 2;
+    optional string stack_trace = 3;
+    optional string zzcp = 4;
+    optional string zzcq = 5;
+    optional int64 zzcr = 6;
+    optional int64 zzcs = 7;
+    optional string zzct = 8;
+    optional int64 zzcu = 9;
+    optional string zzcv = 10;
+}

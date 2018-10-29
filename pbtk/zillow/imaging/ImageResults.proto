@@ -1,0 +1,21 @@
+syntax = "proto2";
+
+package ImageResults;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "ImageResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message Image {
+    optional int64 imageId = 1;
+    optional string url = 2;
+    optional string highResUrl = 3;
+    optional string watchUrl = 4;
+}
+
+message ImageResult {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional Image image = 4;
+}

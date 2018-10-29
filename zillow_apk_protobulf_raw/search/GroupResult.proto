@@ -1,0 +1,51 @@
+syntax = "proto2";
+
+package SearchResults;
+
+import "home-info/HomeInfo.proto";
+import "home-info/RentalInfo.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "GroupResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message UnitGroup {
+    optional int32 bedrooms = 1;
+    optional int32 minPrice = 2;
+}
+
+message PropertyGroup {
+    required int32 matchingHomeCount = 1;
+    repeated HomeInfo.Home home = 2;
+    optional int32 groupId = 3;
+    optional HomeInfo.GroupType groupType = 4;
+    optional HomeInfo.HomeStatus homeStatus = 5;
+    optional double latitude = 6;
+    optional double longitude = 7;
+    optional string title = 8;
+    optional bool isFeatured = 9;
+    optional string streetAddress = 10;
+    optional string zipcode = 11;
+    optional string city = 12;
+    optional string state = 13;
+    optional double minPrice = 14;
+    optional double maxPrice = 15;
+    optional int32 photoCount = 16;
+    optional int64 rentalRefreshTime = 17;
+    optional int32 lotId = 18;
+    repeated UnitGroup unitGroup = 19;
+    optional string imageLink = 20;
+    optional string mediumImageLink = 21;
+    optional string hiResImageLink = 22;
+    optional string watchImageLink = 23;
+    optional int32 bestResultZpid = 24;
+    optional int64 timeOnZillow = 25;
+    optional int32 commuteTime = 26;
+    optional int32 videoCount = 27;
+    optional int64 lotId64 = 28;
+    optional string streetviewImageLink = 29;
+    optional string satelliteImageLink = 30;
+    optional string streetviewMetadataUrl = 31;
+    optional bool hasVRModel = 32;
+    optional bool imageIsGeneratedPhoto = 33;
+}

@@ -1,0 +1,15 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdse
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdsg.proto";
+
+message Zzdse {
+    optional Zzdsg zzlur = 1;
+}

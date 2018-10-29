@@ -1,0 +1,17 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzax
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzax {
+    optional string zzcw = 1;
+    optional string zzcx = 2;
+    optional string zzcy = 3;
+    optional string zzcz = 4;
+    optional string zzda = 5;
+}

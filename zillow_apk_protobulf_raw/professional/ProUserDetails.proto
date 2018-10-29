@@ -1,0 +1,28 @@
+syntax = "proto2";
+
+package ProfessionalUser;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "ProfessionalUser";
+option java_package = "com.zillow.mobile.webservices";
+
+message ProUserDetails {
+    required ProType proType = 1;
+    optional string displayName = 2;
+    optional string companyName = 3;
+    optional string phoneNumber = 4;
+    optional double starRating = 5;
+    optional int32 numberOfReviews = 6;
+    optional int32 numberOfRecentSales = 7;
+    optional string imageLink = 8;
+    optional bool isPremierAgent = 9;
+    optional bool hasBiddingEnabled = 10;
+    optional string screenName = 11;
+}
+
+enum ProType {
+    AGENT = 0;
+    LENDER = 1;
+    HOME_IMPROVEMENT_PRO = 2;
+    OTHER = 3;
+}

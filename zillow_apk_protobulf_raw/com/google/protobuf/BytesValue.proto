@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.BytesValue
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message BytesValue {
+    optional bytes value = 1;
+}

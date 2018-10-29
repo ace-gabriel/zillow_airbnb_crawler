@@ -1,0 +1,13 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.Syntax
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+enum Syntax {
+    
+}

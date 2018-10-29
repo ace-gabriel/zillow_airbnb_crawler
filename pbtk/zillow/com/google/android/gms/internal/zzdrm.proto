@@ -1,0 +1,17 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdrm
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdrq.proto";
+
+message Zzdrm {
+    optional uint32 zzltn = 1;
+    optional Zzdrq zzlub = 2;
+    optional bytes zzltv = 3;
+}

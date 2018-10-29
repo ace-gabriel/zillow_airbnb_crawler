@@ -1,0 +1,41 @@
+syntax = "proto2";
+
+package Schools;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "Schools";
+option java_package = "com.zillow.mobile.webservices";
+
+message SchoolInfo {
+    optional int32 region_id = 1;
+    optional int32 students_per_teacher = 2;
+    optional string grades = 3;
+    optional string link = 4;
+    optional int32 size = 5;
+    optional string name = 6;
+    repeated SchoolLevel level = 7;
+    optional double latitude = 8;
+    optional double longitude = 9;
+    optional int32 gs_rating = 10;
+    optional SchoolType type = 11;
+    optional int32 school_id = 12;
+    repeated int32 fragment_ids = 13;
+}
+
+message SchoolSearchResults {
+    repeated SchoolInfo schools = 1;
+    repeated int32 fragment_ids = 2;
+    optional int32 total_schools = 3;
+}
+
+enum SchoolType {
+    PUBLIC = 0;
+    PRIVATE = 1;
+    CHARTER = 2;
+}
+
+enum SchoolLevel {
+    ELEMENTARY = 0;
+    MIDDLE = 1;
+    HIGH = 2;
+}

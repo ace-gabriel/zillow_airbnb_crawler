@@ -1,0 +1,19 @@
+syntax = "proto2";
+
+package HomeTypes;
+
+option objc_class_prefix = "ProtobufHome";
+option java_outer_classname = "HomeTypes";
+option java_package = "com.zillow.mobile.webservices";
+
+message ListingSubType {
+    optional bool is_FSBO = 1;
+    optional bool is_pending = 2;
+    optional bool is_newHome = 3;
+    optional bool is_foreclosure = 4;
+    optional bool is_bankOwned = 5;
+    optional bool is_forAuction = 6;
+    optional bool is_SOL = 7;
+    optional bool is_openHouse = 8;
+    optional bool is_comingSoon = 9;
+}

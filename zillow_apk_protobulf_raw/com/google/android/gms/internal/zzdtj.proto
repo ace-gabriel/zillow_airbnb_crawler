@@ -1,0 +1,25 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdtj
+ * com.google.android.gms.internal.zzdtj$zzb
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdtt.proto";
+import "com/google/android/gms/internal/zzdtb.proto";
+
+message Zzdtj {
+    optional uint32 zzlwz = 1;
+    
+    repeated Zzb zzlxg = 2;
+    message Zzb {
+        optional string zzlwa = 1;
+        optional Zzdtb zzlxd = 2;
+        optional uint32 zzlxe = 3;
+        optional Zzdtt zzlwr = 4;
+    }
+}

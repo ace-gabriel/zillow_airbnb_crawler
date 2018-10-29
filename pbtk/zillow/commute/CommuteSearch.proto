@@ -1,0 +1,16 @@
+syntax = "proto2";
+
+package Commute;
+
+import "home-info/FilterInfo.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "Commute";
+option java_package = "com.zillow.mobile.webservices";
+
+message CommuteSearchInfo {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional FilterInfo.PolygonList polygonList = 4;
+}

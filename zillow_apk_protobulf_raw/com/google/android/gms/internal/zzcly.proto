@@ -1,0 +1,58 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzcly
+ * com.google.android.gms.internal.zzclv
+ * com.google.android.gms.internal.zzcls
+ * com.google.android.gms.internal.zzclz
+ * com.google.android.gms.internal.zzclx
+ * com.google.android.gms.internal.zzclr
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzclt.proto";
+import "com/google/android/gms/internal/zzclu.proto";
+
+message Zzcly {
+    optional int64 zzjkw = 1;
+    optional string zzixs = 2;
+    optional int32 zzjkx = 3;
+    
+    repeated Zzclz zzjky = 4;
+    message Zzclz {
+        optional string key = 1;
+        optional string value = 2;
+    }
+    
+    repeated Zzclx zzjkz = 5;
+    message Zzclx {
+        optional string name = 1;
+        optional bool zzjkt = 2;
+        optional bool zzjku = 3;
+        optional int32 zzjkv = 4;
+    }
+    
+    repeated Zzclr zzjla = 6;
+    message Zzclr {
+        optional int32 zzjjs = 1;
+        
+        repeated Zzclv zzjjt = 2;
+        message Zzclv {
+            optional int32 zzjjw = 1;
+            optional string zzjkm = 2;
+            optional Zzclt zzjkn = 3;
+        }
+        
+        repeated Zzcls zzjju = 3;
+        message Zzcls {
+            optional int32 zzjjw = 1;
+            optional string zzjjx = 2;
+            repeated Zzclt zzjjy = 3;
+            optional bool zzjjz = 4;
+            optional Zzclu zzjka = 5;
+        }
+    }
+}

@@ -1,0 +1,6549 @@
+[
+  {
+    "region": "New York City",
+    "southwest": "40.495865,-74.255641",
+    "northeast": "40.915281,-73.700272",
+    "regiontype": 6,
+    "regionid": 6181,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Hempstead, New York",
+    "southwest": "40.67875,-73.643172",
+    "northeast": "40.721374,-73.598489",
+    "regiontype": 6,
+    "regionid": 398567,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Newark, New Jersey",
+    "southwest": "40.673902,-74.251323",
+    "northeast": "40.788663,-74.112787",
+    "regiontype": 6,
+    "regionid": 12970,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Jersey City, New Jersey",
+    "southwest": "40.661622,-74.117056",
+    "northeast": "40.768867,-74.020404",
+    "regiontype": 6,
+    "regionid": 25320,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Yonkers, New York",
+    "southwest": "40.900478,-73.917904",
+    "northeast": "40.988342,-73.810423",
+    "regiontype": 6,
+    "regionid": 34937,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Paterson, New Jersey",
+    "southwest": "40.888682,-74.206196",
+    "northeast": "40.942153,-74.128949",
+    "regiontype": 6,
+    "regionid": 19873,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Elizabeth, New Jersey",
+    "southwest": "40.634165,-74.254215",
+    "northeast": "40.690428,-74.14017",
+    "regiontype": 6,
+    "regionid": 31388,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Edison, New Jersey",
+    "southwest": "40.470627,-74.436146",
+    "northeast": "40.605502,-74.316072",
+    "regiontype": 6,
+    "regionid": 11267,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Woodbridge Township, New Jersey",
+    "southwest": "40.493038,-74.337175",
+    "northeast": "40.602249,-74.228288",
+    "regiontype": 6,
+    "regionid": 395557,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "New Rochelle, New York",
+    "southwest": "40.876586,-73.807735",
+    "northeast": "40.976376,-73.755082",
+    "regiontype": 6,
+    "regionid": 26114,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Mount Vernon, New York",
+    "southwest": "40.88975,-73.853527",
+    "northeast": "40.934118,-73.805022",
+    "regiontype": 6,
+    "regionid": 32991,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "White Plains, New York",
+    "southwest": "40.982445,-73.789847",
+    "northeast": "41.069796,-73.719523",
+    "regiontype": 6,
+    "regionid": 34819,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Passaic, New Jersey",
+    "southwest": "40.834887,-74.146703",
+    "northeast": "40.876812,-74.1063",
+    "regiontype": 6,
+    "regionid": 19870,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Union Township, Union County, New Jersey",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Wayne, New Jersey",
+    "southwest": "40.882851,-74.289185",
+    "northeast": "41.013613,-74.19554",
+    "regiontype": 6,
+    "regionid": 27808,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Trenton, New Jersey",
+    "southwest": "40.183809,-74.819506",
+    "northeast": "40.248298,-74.728903",
+    "regiontype": 6,
+    "regionid": 41279,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Ewing, New Jersey",
+    "southwest": "40.23284,-74.856507",
+    "northeast": "40.292208,-74.748805",
+    "regiontype": 6,
+    "regionid": 51954,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Bridgeport, Connecticut",
+    "southwest": "41.1414,-73.244167",
+    "northeast": "41.253663,-73.153519",
+    "regiontype": 6,
+    "regionid": 3806,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Stamford, Connecticut",
+    "southwest": "40.96346,-73.633827",
+    "northeast": "41.179684,-73.495165",
+    "regiontype": 6,
+    "regionid": 27239,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Norwalk, Connecticut",
+    "southwest": "41.046908,-73.474564",
+    "northeast": "41.17126,-73.379087",
+    "regiontype": 6,
+    "regionid": 26222,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Danbury, Connecticut",
+    "southwest": "41.325772,-73.543416",
+    "northeast": "41.463834,-73.400824",
+    "regiontype": 6,
+    "regionid": 31166,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Stratford, Connecticut",
+    "southwest": "41.146795,-73.172195",
+    "northeast": "41.268582,-73.086751",
+    "regiontype": 6,
+    "regionid": 14016,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "New Haven, Connecticut",
+    "southwest": "41.246197,-72.998047",
+    "northeast": "41.350379,-72.860143",
+    "regiontype": 6,
+    "regionid": 6155,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Waterbury, Connecticut",
+    "southwest": "41.51344,-73.093852",
+    "northeast": "41.615574,-72.956787",
+    "regiontype": 6,
+    "regionid": 34671,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Milford, Connecticut",
+    "southwest": "41.168605,-73.122452",
+    "northeast": "41.276141,-72.986786",
+    "regiontype": 6,
+    "regionid": 12725,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Allentown, Pennsylvania",
+    "southwest": "40.534005,-75.548002",
+    "northeast": "40.635982,-75.419697",
+    "regiontype": 6,
+    "regionid": 16726,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Bethlehem, Pennsylvania",
+    "southwest": "40.578004,-75.430415",
+    "northeast": "40.672574,-75.266508",
+    "regiontype": 6,
+    "regionid": 17008,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Easton, Pennsylvania",
+    "southwest": "40.641134,-75.283021",
+    "northeast": "40.716607,-75.190209",
+    "regiontype": 6,
+    "regionid": 4502,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Poughkeepsie (city), New York",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Newburgh, New York",
+    "southwest": "41.489593,-74.133602",
+    "northeast": "41.586817,-73.96705",
+    "regiontype": 6,
+    "regionid": 395560,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Middletown, Orange County, New York",
+    "southwest": "41.417408,-74.452907",
+    "northeast": "41.474347,-74.392805",
+    "regiontype": 6,
+    "regionid": 5937,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Kingston, New York",
+    "southwest": "41.902063,-74.089419",
+    "northeast": "42.01004,-73.953708",
+    "regiontype": 6,
+    "regionid": 5437,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Torrington, Connecticut",
+    "southwest": "41.775481,-73.201835",
+    "northeast": "41.894275,-73.053533",
+    "regiontype": 6,
+    "regionid": 27445,
+    "regiontype_name": "city",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA MSA"
+  },
+  {
+    "region": "Los Angeles, California",
+    "southwest": "33.703652,-118.668176",
+    "northeast": "34.337306,-118.155289",
+    "regiontype": 6,
+    "regionid": 12447,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Long Beach, California",
+    "southwest": "33.690593,-118.248966",
+    "northeast": "33.885459,-118.063252",
+    "regiontype": 6,
+    "regionid": 46298,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Anaheim, California",
+    "southwest": "33.788916,-118.017595",
+    "northeast": "33.879057,-117.674604",
+    "regiontype": 6,
+    "regionid": 16764,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Santa Ana, California",
+    "southwest": "33.692293,-117.944042",
+    "northeast": "33.783814,-117.830784",
+    "regiontype": 6,
+    "regionid": 47568,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Irvine, California",
+    "southwest": "33.599523,-117.870041",
+    "northeast": "33.774477,-117.678463",
+    "regiontype": 6,
+    "regionid": 52650,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Glendale, California",
+    "southwest": "34.118761,-118.307848",
+    "northeast": "34.267232,-118.182004",
+    "regiontype": 6,
+    "regionid": 45457,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Huntington Beach, California",
+    "southwest": "33.628652,-118.100002",
+    "northeast": "33.75642,-117.940346",
+    "regiontype": 6,
+    "regionid": 25218,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Santa Clarita, California",
+    "southwest": "34.323112,-118.673626",
+    "northeast": "34.503937,-118.300227",
+    "regiontype": 6,
+    "regionid": 54311,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Garden Grove, California",
+    "southwest": "33.732208,-118.042941",
+    "northeast": "33.803115,-117.894584",
+    "regiontype": 6,
+    "regionid": 24832,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Lancaster, California",
+    "southwest": "34.616467,-118.790685",
+    "northeast": "34.867648,-117.628712",
+    "regiontype": 6,
+    "regionid": 5534,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Palmdale, California",
+    "southwest": "34.289242,-118.378183",
+    "northeast": "34.668244,-117.659991",
+    "regiontype": 6,
+    "regionid": 40227,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Fullerton, California",
+    "southwest": "33.853514,-117.985421",
+    "northeast": "33.924013,-117.864045",
+    "regiontype": 6,
+    "regionid": 24812,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "El Monte, California",
+    "southwest": "34.036099,-118.073076",
+    "northeast": "34.105566,-117.997464",
+    "regiontype": 6,
+    "regionid": 51861,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Downey, California",
+    "southwest": "33.902455,-118.170583",
+    "northeast": "33.972899,-118.090261",
+    "regiontype": 6,
+    "regionid": 4406,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Inglewood, California",
+    "southwest": "33.923654,-118.378843",
+    "northeast": "33.982965,-118.3177",
+    "regiontype": 6,
+    "regionid": 45888,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "West Covina, California",
+    "southwest": "34.001595,-117.967137",
+    "northeast": "34.092493,-117.85826",
+    "regiontype": 6,
+    "regionid": 14542,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Norwalk, California",
+    "southwest": "33.880312,-118.111905",
+    "northeast": "33.935257,-118.042077",
+    "regiontype": 6,
+    "regionid": 53636,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Compton, California",
+    "southwest": "33.846073,-118.265285",
+    "northeast": "33.924628,-118.184949",
+    "regiontype": 6,
+    "regionid": 24174,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "South Gate, California",
+    "southwest": "33.909964,-118.231504",
+    "northeast": "33.96585,-118.156225",
+    "regiontype": 6,
+    "regionid": 47762,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Mission Viejo, California",
+    "southwest": "33.534914,-117.695251",
+    "northeast": "33.6735,-117.619773",
+    "regiontype": 6,
+    "regionid": 12773,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Westminster, California",
+    "southwest": "33.720127,-118.049829",
+    "northeast": "33.774115,-117.944627",
+    "regiontype": 6,
+    "regionid": 34780,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Whittier, California",
+    "southwest": "33.928165,-118.072246",
+    "northeast": "34.034319,-117.965575",
+    "regiontype": 6,
+    "regionid": 14634,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Hawthorne, California",
+    "southwest": "33.894657,-118.378686",
+    "northeast": "33.932138,-118.31339",
+    "regiontype": 6,
+    "regionid": 42150,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Alhambra, California",
+    "southwest": "34.058533,-118.165015",
+    "northeast": "34.111146,-118.108186",
+    "regiontype": 6,
+    "regionid": 50677,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Buena Park, California",
+    "southwest": "33.80983,-118.037359",
+    "northeast": "33.898405,-117.976219",
+    "regiontype": 6,
+    "regionid": 10608,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Lakewood, California",
+    "southwest": "33.821591,-118.16764",
+    "northeast": "33.869582,-118.058206",
+    "regiontype": 6,
+    "regionid": 12292,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Lake Forest, California",
+    "southwest": "33.607223,-117.725684",
+    "northeast": "33.711956,-117.621569",
+    "regiontype": 6,
+    "regionid": 32380,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Bellflower, California",
+    "southwest": "33.865574,-118.151294",
+    "northeast": "33.910453,-118.106462",
+    "regiontype": 6,
+    "regionid": 44116,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Baldwin Park, California",
+    "southwest": "34.055155,-118.007427",
+    "northeast": "34.10707,-117.942952",
+    "regiontype": 6,
+    "regionid": 10241,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Lynwood, California",
+    "southwest": "33.903556,-118.230053",
+    "northeast": "33.945441,-118.176287",
+    "regiontype": 6,
+    "regionid": 32616,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Redondo Beach, California",
+    "southwest": "33.804118,-118.40195",
+    "northeast": "33.894653,-118.352332",
+    "regiontype": 6,
+    "regionid": 33612,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Yorba Linda, California",
+    "southwest": "33.862942,-117.846137",
+    "northeast": "33.933834,-117.668984",
+    "regiontype": 6,
+    "regionid": 21412,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "San Clemente, California",
+    "southwest": "33.386628,-117.66625",
+    "northeast": "33.490833,-117.562973",
+    "regiontype": 6,
+    "regionid": 13693,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Laguna Niguel, California",
+    "southwest": "33.487251,-117.740922",
+    "northeast": "33.57358,-117.672673",
+    "regiontype": 6,
+    "regionid": 25459,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Pico Rivera, California",
+    "southwest": "33.95046,-118.123725",
+    "northeast": "34.02844,-118.052438",
+    "regiontype": 6,
+    "regionid": 26483,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Montebello, California",
+    "southwest": "33.972809,-118.144141",
+    "northeast": "34.044813,-118.072593",
+    "regiontype": 6,
+    "regionid": 25953,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "La Habra, California",
+    "southwest": "33.906226,-117.976696",
+    "northeast": "33.946039,-117.919022",
+    "regiontype": 6,
+    "regionid": 18874,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Huntington Park, California",
+    "southwest": "33.959218,-118.237917",
+    "northeast": "33.996358,-118.189008",
+    "regiontype": 6,
+    "regionid": 39076,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Diamond Bar, California",
+    "southwest": "33.95882,-117.86334",
+    "northeast": "34.042462,-117.767589",
+    "regiontype": 6,
+    "regionid": 24384,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Paramount, California",
+    "southwest": "33.879717,-118.188206",
+    "northeast": "33.918592,-118.142573",
+    "regiontype": 6,
+    "regionid": 6395,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Rosemead, California",
+    "southwest": "34.020488,-118.108464",
+    "northeast": "34.095209,-118.0556",
+    "regiontype": 6,
+    "regionid": 54212,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Placentia, California",
+    "southwest": "33.853714,-117.884891",
+    "northeast": "33.90988,-117.816436",
+    "regiontype": 6,
+    "regionid": 26531,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Glendora, California",
+    "southwest": "34.105506,-117.892689",
+    "northeast": "34.223236,-117.796922",
+    "regiontype": 6,
+    "regionid": 11626,
+    "regiontype_name": "city",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA MSA"
+  },
+  {
+    "region": "Chicago, Illinois",
+    "southwest": "41.644334,-87.940268",
+    "northeast": "42.023129,-87.523663",
+    "regiontype": 6,
+    "regionid": 17426,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Aurora, Illinois",
+    "southwest": "41.679754,-88.443744",
+    "northeast": "41.822191,-88.205739",
+    "regiontype": 6,
+    "regionid": 10215,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Elgin, Illinois",
+    "southwest": "41.971373,-88.449437",
+    "northeast": "42.103385,-88.222772",
+    "regiontype": 6,
+    "regionid": 17943,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Joliet, Illinois",
+    "southwest": "41.464229,-88.29452",
+    "northeast": "41.58849,-87.990778",
+    "regiontype": 6,
+    "regionid": 32238,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Kenosha, Wisconsin",
+    "southwest": "42.537744,-87.996961",
+    "northeast": "42.638125,-87.806633",
+    "regiontype": 6,
+    "regionid": 39220,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Naperville, Illinois",
+    "southwest": "41.666172,-88.244623",
+    "northeast": "41.831375,-88.057588",
+    "regiontype": 6,
+    "regionid": 39931,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Arlington Heights, Illinois",
+    "southwest": "42.032628,-88.026543",
+    "northeast": "42.159161,-87.944869",
+    "regiontype": 6,
+    "regionid": 50764,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Berwyn, Illinois",
+    "southwest": "41.821131,-87.804158",
+    "northeast": "41.865331,-87.777755",
+    "regiontype": 6,
+    "regionid": 50985,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Bolingbrook, Illinois",
+    "southwest": "41.635233,-88.173671",
+    "northeast": "41.735937,-88.02697",
+    "regiontype": 6,
+    "regionid": 10484,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Cicero, Illinois",
+    "southwest": "41.821532,-87.778956",
+    "northeast": "41.865932,-87.738553",
+    "regiontype": 6,
+    "regionid": 44597,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Des Plaines, Illinois",
+    "southwest": "41.99543,-87.950078",
+    "northeast": "42.079625,-87.860097",
+    "regiontype": 6,
+    "regionid": 17761,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Evanston, Illinois",
+    "southwest": "42.019115,-87.732455",
+    "northeast": "42.072207,-87.665365",
+    "regiontype": 6,
+    "regionid": 18025,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Gary, Indiana",
+    "southwest": "41.522457,-87.437814",
+    "northeast": "41.648793,-87.222034",
+    "regiontype": 6,
+    "regionid": 45401,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Indiana",
+    "southwest": "37.771742,-88.097891",
+    "northeast": "41.761368,-84.784661",
+    "regiontype": 2,
+    "regionid": 22,
+    "regiontype_name": "state",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Hammond, Indiana",
+    "southwest": "41.56638,-87.52543",
+    "northeast": "41.710129,-87.431539",
+    "regiontype": 6,
+    "regionid": 52390,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Indiana",
+    "southwest": "37.771742,-88.097891",
+    "northeast": "41.761368,-84.784661",
+    "regiontype": 2,
+    "regionid": 22,
+    "regiontype_name": "state",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Mount Prospect, Illinois",
+    "southwest": "42.022642,-87.974962",
+    "northeast": "42.102952,-87.885822",
+    "regiontype": 6,
+    "regionid": 39899,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Oak Lawn, Illinois",
+    "southwest": "41.683435,-87.798697",
+    "northeast": "41.734524,-87.720349",
+    "regiontype": 6,
+    "regionid": 6267,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Oak Park, Illinois",
+    "southwest": "41.86498,-87.805825",
+    "northeast": "41.909239,-87.774143",
+    "regiontype": 6,
+    "regionid": 6268,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Orland Park, Illinois",
+    "southwest": "41.552717,-87.931453",
+    "northeast": "41.658742,-87.784983",
+    "regiontype": 6,
+    "regionid": 33256,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Palatine, Illinois",
+    "southwest": "42.075402,-88.094971",
+    "northeast": "42.153848,-88.003071",
+    "regiontype": 6,
+    "regionid": 26362,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Schaumburg, Illinois",
+    "southwest": "41.986904,-88.154428",
+    "northeast": "42.084606,-88.028022",
+    "regiontype": 6,
+    "regionid": 33889,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Skokie, Illinois",
+    "southwest": "42.004553,-87.780881",
+    "northeast": "42.064995,-87.70866",
+    "regiontype": 6,
+    "regionid": 20514,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Tinley Park, Illinois",
+    "southwest": "41.524434,-87.856293",
+    "northeast": "41.603833,-87.759409",
+    "regiontype": 6,
+    "regionid": 9969,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Waukegan, Illinois",
+    "southwest": "42.319361,-87.928376",
+    "northeast": "42.432657,-87.804207",
+    "regiontype": 6,
+    "regionid": 41587,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Wheaton, Illinois",
+    "southwest": "41.813875,-88.153244",
+    "northeast": "41.890096,-88.070886",
+    "regiontype": 6,
+    "regionid": 15894,
+    "regiontype_name": "city",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI MSA"
+  },
+  {
+    "region": "Arlington, Texas",
+    "southwest": "32.586565,-97.233401",
+    "northeast": "32.817121,-97.037008",
+    "regiontype": 6,
+    "regionid": 50763,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Plano, Texas",
+    "southwest": "32.997253,-96.860228",
+    "northeast": "33.12527,-96.613021",
+    "regiontype": 6,
+    "regionid": 53915,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Iring, Texas",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Garland, Texas",
+    "southwest": "32.830275,-96.705903",
+    "northeast": "32.985415,-96.505518",
+    "regiontype": 6,
+    "regionid": 18251,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Grand Prairie, Texas",
+    "southwest": "32.498644,-97.081026",
+    "northeast": "32.81666,-96.924016",
+    "regiontype": 6,
+    "regionid": 31821,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "McKinney, Texas",
+    "southwest": "33.125343,-96.7679",
+    "northeast": "33.319615,-96.473154",
+    "regiontype": 6,
+    "regionid": 32783,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Frisco, Texas",
+    "southwest": "33.081049,-96.922838",
+    "northeast": "33.219478,-96.732758",
+    "regiontype": 6,
+    "regionid": 18208,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Mesquite, Texas",
+    "southwest": "32.681573,-96.683531",
+    "northeast": "32.849232,-96.471812",
+    "regiontype": 6,
+    "regionid": 12694,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Carrollton, Texas",
+    "southwest": "32.918028,-96.960135",
+    "northeast": "33.054703,-96.838714",
+    "regiontype": 6,
+    "regionid": 17321,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Lewisville, Texas",
+    "southwest": "32.985123,-97.045663",
+    "northeast": "33.100026,-96.865866",
+    "regiontype": 6,
+    "regionid": 39420,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Denton, Texas",
+    "southwest": "33.116875,-97.266489",
+    "northeast": "33.358306,-97.023812",
+    "regiontype": 6,
+    "regionid": 4351,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Richardson, Texas",
+    "southwest": "32.923074,-96.769024",
+    "northeast": "33.004904,-96.613077",
+    "regiontype": 6,
+    "regionid": 54121,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Addison, Texas",
+    "southwest": "32.933154,-96.855936",
+    "northeast": "32.987521,-96.82168",
+    "regiontype": 6,
+    "regionid": 50649,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Allen, Texas",
+    "southwest": "33.070811,-96.736574",
+    "northeast": "33.157566,-96.608809",
+    "regiontype": 6,
+    "regionid": 23444,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Anna, Texas",
+    "southwest": "33.272969,-96.657565",
+    "northeast": "33.407624,-96.398977",
+    "regiontype": 6,
+    "regionid": 30224,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Azle, Texas",
+    "southwest": "32.797307,-97.676799",
+    "northeast": "33.042136,-97.493281",
+    "regiontype": 6,
+    "regionid": 16859,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Balch Springs, Texas",
+    "southwest": "32.69034,-96.639269",
+    "northeast": "32.748593,-96.575406",
+    "regiontype": 6,
+    "regionid": 14959,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Bedford, Texas",
+    "southwest": "32.822091,-97.168627",
+    "northeast": "32.86778,-97.099687",
+    "regiontype": 6,
+    "regionid": 16946,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Benbrook, Texas",
+    "southwest": "32.646666,-97.501872",
+    "northeast": "32.723784,-97.411844",
+    "regiontype": 6,
+    "regionid": 23671,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Burleson, Texas",
+    "southwest": "32.458641,-97.427695",
+    "northeast": "32.571824,-97.263179",
+    "regiontype": 6,
+    "regionid": 10625,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Cedar Hill, Texas",
+    "southwest": "32.534917,-97.021229",
+    "northeast": "32.641806,-96.890434",
+    "regiontype": 6,
+    "regionid": 37799,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Celina, Texas",
+    "southwest": "33.255432,-96.894455",
+    "northeast": "33.405498,-96.607537",
+    "regiontype": 6,
+    "regionid": 28168,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Cleburne, Texas",
+    "southwest": "32.278008,-97.476237",
+    "northeast": "32.43725,-97.345793",
+    "regiontype": 6,
+    "regionid": 44633,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Colleyville, Texas",
+    "southwest": "32.860115,-97.19357",
+    "northeast": "32.92374,-97.099802",
+    "regiontype": 6,
+    "regionid": 30983,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Coppell, Texas",
+    "southwest": "32.922607,-97.032624",
+    "northeast": "32.994501,-96.932091",
+    "regiontype": 6,
+    "regionid": 44750,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Corinth, Texas",
+    "southwest": "33.119208,-97.096598",
+    "northeast": "33.163696,-97.037513",
+    "regiontype": 6,
+    "regionid": 51547,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Crowley, Texas",
+    "southwest": "32.552073,-97.386385",
+    "northeast": "32.601394,-97.334235",
+    "regiontype": 6,
+    "regionid": 31123,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "DeSoto, Texas",
+    "southwest": "32.565013,-96.90839",
+    "northeast": "32.647613,-96.822276",
+    "regiontype": 6,
+    "regionid": 44918,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Duncanville, Texas",
+    "southwest": "32.617545,-96.943313",
+    "northeast": "32.676668,-96.882965",
+    "regiontype": 6,
+    "regionid": 31277,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Ennis, Texas",
+    "southwest": "32.261395,-96.759938",
+    "northeast": "32.434629,-96.446551",
+    "regiontype": 6,
+    "regionid": 42291,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Euless, Texas",
+    "southwest": "32.810797,-97.155982",
+    "northeast": "32.881659,-97.033087",
+    "regiontype": 6,
+    "regionid": 16554,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Farmers Branch, Texas",
+    "southwest": "32.895587,-96.938693",
+    "northeast": "32.95338,-96.82147",
+    "regiontype": 6,
+    "regionid": 8653,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Fate, Texas",
+    "southwest": "32.9146,-96.418331",
+    "northeast": "32.979415,-96.343082",
+    "regiontype": 6,
+    "regionid": 24687,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Flower Mound, Texas",
+    "southwest": "32.981429,-97.234367",
+    "northeast": "33.091423,-97.0276",
+    "regiontype": 6,
+    "regionid": 24733,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Forest Hill, Texas",
+    "southwest": "32.645038,-97.291481",
+    "northeast": "32.688395,-97.241299",
+    "regiontype": 6,
+    "regionid": 42485,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Forney, Texas",
+    "southwest": "32.697955,-96.494724",
+    "northeast": "32.797963,-96.386913",
+    "regiontype": 6,
+    "regionid": 11481,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Glenn Heights, Texas",
+    "southwest": "32.518397,-96.891054",
+    "northeast": "32.568092,-96.822122",
+    "regiontype": 6,
+    "regionid": 4914,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Grapevine, Texas",
+    "southwest": "32.878493,-97.129668",
+    "northeast": "32.993643,-97.01582",
+    "regiontype": 6,
+    "regionid": 38766,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Greenville, Texas",
+    "southwest": "32.97759,-96.27686",
+    "northeast": "33.273611,-95.97342",
+    "regiontype": 6,
+    "regionid": 24961,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Haltom City, Texas",
+    "southwest": "32.779539,-97.293633",
+    "northeast": "32.86097,-97.235918",
+    "regiontype": 6,
+    "regionid": 52382,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Highland Village, Texas",
+    "southwest": "33.07151,-97.087949",
+    "northeast": "33.11771,-97.027726",
+    "regiontype": 6,
+    "regionid": 55742,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Hurst, Texas",
+    "southwest": "32.804219,-97.212387",
+    "northeast": "32.889239,-97.137257",
+    "regiontype": 6,
+    "regionid": 39084,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Keller, Texas",
+    "southwest": "32.892363,-97.26555",
+    "northeast": "32.979058,-97.176703",
+    "regiontype": 6,
+    "regionid": 39210,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Lancaster, Texas",
+    "southwest": "32.546914,-96.823127",
+    "northeast": "32.64969,-96.712061",
+    "regiontype": 6,
+    "regionid": 18942,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Little Elm, Texas",
+    "southwest": "33.099832,-97.020059",
+    "northeast": "33.23209,-96.875328",
+    "regiontype": 6,
+    "regionid": 32532,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Mansfield, Texas",
+    "southwest": "32.512742,-97.186771",
+    "northeast": "32.616025,-97.04682",
+    "regiontype": 6,
+    "regionid": 39604,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Midlothian, Texas",
+    "southwest": "32.371423,-97.086751",
+    "northeast": "32.546176,-96.887864",
+    "regiontype": 6,
+    "regionid": 36121,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Mineral Wells, Texas",
+    "southwest": "32.774896,-98.160776",
+    "northeast": "32.881568,-98.013599",
+    "regiontype": 6,
+    "regionid": 46560,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Murphy, Texas",
+    "southwest": "32.988709,-96.634231",
+    "northeast": "33.041018,-96.594652",
+    "regiontype": 6,
+    "regionid": 33015,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "North Richland Hills, Texas",
+    "southwest": "32.809162,-97.258707",
+    "northeast": "32.911958,-97.185585",
+    "regiontype": 6,
+    "regionid": 26197,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Prosper, Texas",
+    "southwest": "33.218532,-96.898065",
+    "northeast": "33.284528,-96.732167",
+    "regiontype": 6,
+    "regionid": 33547,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Red Oak, Texas",
+    "southwest": "32.456175,-96.839517",
+    "northeast": "32.54715,-96.650839",
+    "regiontype": 6,
+    "regionid": 47316,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Rockwall, Texas",
+    "southwest": "32.862304,-96.495705",
+    "northeast": "32.982438,-96.349654",
+    "regiontype": 6,
+    "regionid": 33716,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Rowlett, Texas",
+    "southwest": "32.869788,-96.593134",
+    "northeast": "32.975361,-96.501786",
+    "regiontype": 6,
+    "regionid": 33758,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Royse City, Texas",
+    "southwest": "32.832665,-96.419828",
+    "northeast": "33.069294,-96.200221",
+    "regiontype": 6,
+    "regionid": 20262,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Sachse, Texas",
+    "southwest": "32.941501,-96.613798",
+    "northeast": "32.999848,-96.550424",
+    "regiontype": 6,
+    "regionid": 6876,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Saginaw, Texas",
+    "southwest": "32.816814,-97.392651",
+    "northeast": "32.886006,-97.325627",
+    "regiontype": 6,
+    "regionid": 40681,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Seagoville, Texas",
+    "southwest": "32.615524,-96.622197",
+    "northeast": "32.694166,-96.484271",
+    "regiontype": 6,
+    "regionid": 29393,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Southlake, Texas",
+    "southwest": "32.91406,-97.203214",
+    "northeast": "33.011104,-97.098659",
+    "regiontype": 6,
+    "regionid": 47783,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Terrell, Texas",
+    "southwest": "32.62594,-96.393491",
+    "northeast": "32.905113,-96.040872",
+    "regiontype": 6,
+    "regionid": 34254,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "The Colony, Texas",
+    "southwest": "33.046636,-96.960169",
+    "northeast": "33.139502,-96.842366",
+    "regiontype": 6,
+    "regionid": 27398,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Trophy Club, Texas",
+    "southwest": "32.984667,-97.217164",
+    "northeast": "33.022806,-97.16721",
+    "regiontype": 6,
+    "regionid": 48046,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "University Park, Texas",
+    "southwest": "32.836543,-96.814878",
+    "northeast": "32.865633,-96.770397",
+    "regiontype": 6,
+    "regionid": 48098,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Watauga, Texas",
+    "southwest": "32.85304,-97.272508",
+    "northeast": "32.894578,-97.237723",
+    "regiontype": 6,
+    "regionid": 50054,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Waxahachie, Texas",
+    "southwest": "32.236407,-97.029603",
+    "northeast": "32.50763,-96.701461",
+    "regiontype": 6,
+    "regionid": 7797,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Weatherford, Texas",
+    "southwest": "32.679913,-97.863042",
+    "northeast": "32.817994,-97.659919",
+    "regiontype": 6,
+    "regionid": 27812,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "White Settlement, Texas",
+    "southwest": "32.737772,-97.480086",
+    "northeast": "32.785164,-97.429213",
+    "regiontype": 6,
+    "regionid": 41693,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Wylie, Texas",
+    "southwest": "32.968269,-96.595616",
+    "northeast": "33.10033,-96.423208",
+    "regiontype": 6,
+    "regionid": 43088,
+    "regiontype_name": "city",
+    "msa": "Dallas-Fort Worth-Arlington, TX MSA"
+  },
+  {
+    "region": "Houston, Texas",
+    "southwest": "29.523624,-95.788087",
+    "northeast": "30.110732,-95.07501",
+    "regiontype": 6,
+    "regionid": 39051,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "League City, Texas",
+    "southwest": "29.427967,-95.225426",
+    "northeast": "29.55532,-94.997634",
+    "regiontype": 6,
+    "regionid": 39386,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Pasadena, Texas",
+    "southwest": "29.590758,-95.237459",
+    "northeast": "29.739927,-95.007413",
+    "regiontype": 6,
+    "regionid": 19865,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Pearland, Texas",
+    "southwest": "29.495956,-95.45946",
+    "northeast": "29.598039,-95.20957",
+    "regiontype": 6,
+    "regionid": 13234,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Sugar Land, Texas",
+    "southwest": "29.521965,-95.751585",
+    "northeast": "29.677243,-95.546591",
+    "regiontype": 6,
+    "regionid": 41114,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Baytown, Texas",
+    "southwest": "29.662371,-95.057087",
+    "northeast": "29.829269,-94.848943",
+    "regiontype": 6,
+    "regionid": 3568,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Conroe, Texas",
+    "southwest": "30.136924,-95.592895",
+    "northeast": "30.438687,-95.242933",
+    "regiontype": 6,
+    "regionid": 44734,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Deer Park, Texas",
+    "southwest": "29.663627,-95.148799",
+    "northeast": "29.730807,-95.0879",
+    "regiontype": 6,
+    "regionid": 4324,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Friendswood, Texas",
+    "southwest": "29.453992,-95.233081",
+    "northeast": "29.572956,-95.145339",
+    "regiontype": 6,
+    "regionid": 52133,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Galveston, Texas",
+    "southwest": "29.067156,-95.122729",
+    "northeast": "29.399399,-94.623897",
+    "regiontype": 6,
+    "regionid": 4841,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Lake Jackson, Texas",
+    "southwest": "28.974693,-95.513208",
+    "northeast": "29.121193,-95.367651",
+    "regiontype": 6,
+    "regionid": 18915,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "La Porte, Texas",
+    "southwest": "29.614722,-95.112884",
+    "northeast": "29.727843,-94.991808",
+    "regiontype": 6,
+    "regionid": 18881,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Missouri City, Texas",
+    "southwest": "29.455901,-95.595184",
+    "northeast": "29.641592,-95.478048",
+    "regiontype": 6,
+    "regionid": 53360,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Rosenberg, Texas",
+    "southwest": "29.48601,-95.965869",
+    "northeast": "29.587274,-95.689447",
+    "regiontype": 6,
+    "regionid": 29513,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Texas City, Texas",
+    "southwest": "29.340998,-95.049169",
+    "northeast": "29.467335,-94.809601",
+    "regiontype": 6,
+    "regionid": 47966,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Atascocita, Texas",
+    "southwest": "29.924124,-95.249647",
+    "northeast": "30.033094,-95.134529",
+    "regiontype": 6,
+    "regionid": 50783,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Kingwood, Texas",
+    "southwest": "30.018851,-95.292911",
+    "northeast": "30.105546,-95.123645",
+    "regiontype": 8,
+    "regionid": 403542,
+    "regiontype_name": "neighborhood",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Channelview, Texas",
+    "southwest": "29.7558,-95.161207",
+    "northeast": "29.824542,-95.056175",
+    "regiontype": 6,
+    "regionid": 21536,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Mission Bend, Texas",
+    "southwest": "29.678158,-95.68814",
+    "northeast": "29.71098,-95.643709",
+    "regiontype": 6,
+    "regionid": 235643,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Spring, Texas",
+    "southwest": "30.021152,-95.520186",
+    "northeast": "30.163018,-95.268962",
+    "regiontype": 6,
+    "regionid": 7204,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Alvin, Texas",
+    "southwest": "29.36014,-95.294122",
+    "northeast": "29.47447,-95.207141",
+    "regiontype": 6,
+    "regionid": 16750,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Angleton, Texas",
+    "southwest": "29.087186,-95.459979",
+    "northeast": "29.205489,-95.393274",
+    "regiontype": 6,
+    "regionid": 37145,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Bellaire, Texas",
+    "southwest": "29.689306,-95.484571",
+    "northeast": "29.725934,-95.44738",
+    "regiontype": 6,
+    "regionid": 30401,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Clute, Texas",
+    "southwest": "29.005035,-95.422502",
+    "northeast": "29.065812,-95.339454",
+    "regiontype": 6,
+    "regionid": 4143,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Dickinson, Texas",
+    "southwest": "29.425259,-95.10998",
+    "northeast": "29.479086,-95.009783",
+    "regiontype": 6,
+    "regionid": 28717,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Freeport, Texas",
+    "southwest": "28.875848,-95.455316",
+    "northeast": "29.008181,-95.280997",
+    "regiontype": 6,
+    "regionid": 45356,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Galena Park, Texas",
+    "southwest": "29.720201,-95.254288",
+    "northeast": "29.759809,-95.211018",
+    "regiontype": 6,
+    "regionid": 38636,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Humble, Texas",
+    "southwest": "29.953841,-95.287692",
+    "northeast": "30.032508,-95.243692",
+    "regiontype": 6,
+    "regionid": 39071,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Jacinto City, Texas",
+    "southwest": "29.75879,-95.259503",
+    "northeast": "29.773837,-95.22033",
+    "regiontype": 6,
+    "regionid": 234338,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Katy, Texas",
+    "southwest": "29.733546,-95.900111",
+    "northeast": "29.95063,-95.773467",
+    "regiontype": 6,
+    "regionid": 18800,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "La Marque, Texas",
+    "southwest": "29.327243,-95.064559",
+    "northeast": "29.411012,-94.92887",
+    "regiontype": 6,
+    "regionid": 32353,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Richmond, Texas",
+    "southwest": "29.55483,-95.905795",
+    "northeast": "29.709427,-95.678829",
+    "regiontype": 6,
+    "regionid": 47379,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Santa Fe, Texas",
+    "southwest": "29.349821,-95.19234",
+    "northeast": "29.429626,-95.049267",
+    "regiontype": 6,
+    "regionid": 20353,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Seabrook, Texas",
+    "southwest": "29.547446,-95.050118",
+    "northeast": "29.601001,-94.909613",
+    "regiontype": 6,
+    "regionid": 16033,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "South Houston, Texas",
+    "southwest": "29.65089,-95.249519",
+    "northeast": "29.670376,-95.207832",
+    "regiontype": 6,
+    "regionid": 54472,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Stafford, Texas",
+    "southwest": "29.598108,-95.597823",
+    "northeast": "29.648707,-95.526965",
+    "regiontype": 6,
+    "regionid": 20616,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Tomball, Texas",
+    "southwest": "29.996601,-95.781521",
+    "northeast": "30.151783,-95.528227",
+    "regiontype": 6,
+    "regionid": 34308,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Webster, Texas",
+    "southwest": "29.506973,-95.146208",
+    "northeast": "29.55531,-95.093693",
+    "regiontype": 6,
+    "regionid": 34702,
+    "regiontype_name": "city",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "West University Place, Texas",
+    "southwest": "29.705928,-95.447383",
+    "northeast": "29.72549,-95.418283",
+    "regiontype": 8,
+    "regionid": 48439,
+    "regiontype_name": "neighborhood",
+    "msa": "Houston-The Woodlands-Sugar Land, TX MSA"
+  },
+  {
+    "region": "Washington, D.C.",
+    "southwest": "38.791644,-77.119758",
+    "northeast": "38.995547,-76.909392",
+    "regiontype": 6,
+    "regionid": 41568,
+    "regiontype_name": "city",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Arlington County, Virginia",
+    "southwest": "38.82729,-77.172168",
+    "northeast": "38.934275,-77.032142",
+    "regiontype": 4,
+    "regionid": 2619,
+    "regiontype_name": "county",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Alexandria, Virginia",
+    "southwest": "38.785215,-77.144358",
+    "northeast": "38.84501,-77.034747",
+    "regiontype": 6,
+    "regionid": 10071,
+    "regiontype_name": "city",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Bethesda, Maryland",
+    "southwest": "38.940586,-77.15856",
+    "northeast": "39.022445,-77.078581",
+    "regiontype": 6,
+    "regionid": 37406,
+    "regiontype_name": "city",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Frederick, Maryland",
+    "southwest": "39.280904,-77.525253",
+    "northeast": "39.573443,-77.226035",
+    "regiontype": 6,
+    "regionid": 4810,
+    "regiontype_name": "city",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Gaithersburg, Maryland",
+    "southwest": "39.102637,-77.252586",
+    "northeast": "39.168277,-77.171132",
+    "regiontype": 6,
+    "regionid": 45383,
+    "regiontype_name": "city",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Reston, Virginia",
+    "southwest": "38.908241,-77.393258",
+    "northeast": "39.002923,-77.30502",
+    "regiontype": 6,
+    "regionid": 6736,
+    "regiontype_name": "city",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Rockville, Maryland",
+    "southwest": "39.053153,-77.220718",
+    "northeast": "39.120713,-77.107749",
+    "regiontype": 6,
+    "regionid": 33714,
+    "regiontype_name": "city",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Silver Spring, Maryland",
+    "southwest": "38.983242,-77.099112",
+    "northeast": "39.162208,-76.927755",
+    "regiontype": 6,
+    "regionid": 7081,
+    "regiontype_name": "city",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+  },
+  {
+    "region": "Miami, Florida",
+    "southwest": "25.709042,-80.319759",
+    "northeast": "25.855773,-80.139156",
+    "regiontype": 6,
+    "regionid": 12700,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Hialeah, Florida",
+    "southwest": "25.806105,-80.373735",
+    "northeast": "25.95717,-80.252981",
+    "regiontype": 6,
+    "regionid": 25104,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Fort Lauderdale, Florida",
+    "southwest": "26.080865,-80.203969",
+    "northeast": "26.21186,-80.095739",
+    "regiontype": 6,
+    "regionid": 31606,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Pembroke Pines, Florida",
+    "southwest": "25.992169,-80.442208",
+    "northeast": "26.061021,-80.213368",
+    "regiontype": 6,
+    "regionid": 19892,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Hollywood, Florida",
+    "southwest": "25.986168,-80.248689",
+    "northeast": "26.093064,-80.102065",
+    "regiontype": 6,
+    "regionid": 32060,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Miramar, Florida",
+    "southwest": "25.95677,-80.440668",
+    "northeast": "25.995368,-80.206136",
+    "regiontype": 6,
+    "regionid": 39815,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Coral Springs, Florida",
+    "southwest": "26.22916,-80.297683",
+    "northeast": "26.310856,-80.201721",
+    "regiontype": 6,
+    "regionid": 17571,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Miami Gardens, Florida",
+    "southwest": "25.911271,-80.293139",
+    "northeast": "25.973016,-80.197674",
+    "regiontype": 6,
+    "regionid": 39767,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Pompano Beach, Florida",
+    "southwest": "26.20586,-80.19557",
+    "northeast": "26.297626,-80.081943",
+    "regiontype": 6,
+    "regionid": 26575,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "West Palm Beach, Florida",
+    "southwest": "26.644544,-80.214616",
+    "northeast": "26.839332,-80.043462",
+    "regiontype": 6,
+    "regionid": 7858,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Davie, Florida",
+    "southwest": "26.029267,-80.369074",
+    "northeast": "26.122964,-80.183661",
+    "regiontype": 6,
+    "regionid": 11049,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Boca Raton, Florida",
+    "southwest": "26.320712,-80.297671",
+    "northeast": "26.43154,-80.065565",
+    "regiontype": 6,
+    "regionid": 10477,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Sunrise, Florida",
+    "southwest": "26.101465,-80.366328",
+    "northeast": "26.194061,-80.226569",
+    "regiontype": 6,
+    "regionid": 54628,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Plantation, Florida",
+    "southwest": "26.0925,-80.330313",
+    "northeast": "26.160857,-80.197468",
+    "regiontype": 6,
+    "regionid": 33450,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Miami Beach, Florida",
+    "southwest": "25.747677,-80.17009",
+    "northeast": "25.872806,-80.110191",
+    "regiontype": 6,
+    "regionid": 5924,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Deerfield Beach, Florida",
+    "southwest": "26.274401,-80.170286",
+    "northeast": "26.327951,-80.074808",
+    "regiontype": 6,
+    "regionid": 4329,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Boynton Beach, Florida",
+    "southwest": "26.483132,-80.27215",
+    "northeast": "26.607359,-80.043276",
+    "regiontype": 6,
+    "regionid": 30559,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Lauderhill, Florida",
+    "southwest": "26.120764,-80.26777",
+    "northeast": "26.194161,-80.186067",
+    "regiontype": 6,
+    "regionid": 52899,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Weston, Florida",
+    "southwest": "26.061452,-80.450478",
+    "northeast": "26.146038,-80.362132",
+    "regiontype": 6,
+    "regionid": 7886,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Homestead, Florida",
+    "southwest": "25.395989,-80.671373",
+    "northeast": "25.549805,-80.318473",
+    "regiontype": 6,
+    "regionid": 5201,
+    "regiontype_name": "city",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+  },
+  {
+    "region": "Philadelphia",
+    "southwest": "39.867004,-75.280302",
+    "northeast": "40.137992,-74.955763",
+    "regiontype": 6,
+    "regionid": 13271,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Reading, Pennsylvania",
+    "southwest": "40.296402,-75.959797",
+    "northeast": "40.371134,-75.84108",
+    "regiontype": 6,
+    "regionid": 6696,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Upper Darby Township, Delaware County, Pennsylvania",
+    "southwest": "39.911346,-75.313249",
+    "northeast": "39.974951,-75.247652",
+    "regiontype": 6,
+    "regionid": 397013,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Camden, New Jersey",
+    "southwest": "39.898664,-75.13288",
+    "northeast": "39.968188,-75.066546",
+    "regiontype": 6,
+    "regionid": 10676,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Wilmington, Delaware",
+    "southwest": "39.694045,-75.658775",
+    "northeast": "39.838828,-75.470204",
+    "regiontype": 6,
+    "regionid": 14667,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Cherry Hill, New Jersey",
+    "southwest": "39.85935,-75.06617",
+    "northeast": "39.954188,-74.926934",
+    "regiontype": 6,
+    "regionid": 37851,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Gloucester Township, New Jersey",
+    "southwest": "39.7263,-75.0885",
+    "northeast": "39.852449,-74.96844",
+    "regiontype": 6,
+    "regionid": 31778,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Vineland, New Jersey",
+    "southwest": "39.377715,-75.087128",
+    "northeast": "39.568643,-74.896625",
+    "regiontype": 6,
+    "regionid": 34597,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Bensalem Township, Pennsylvania",
+    "southwest": "40.048944,-74.984892",
+    "northeast": "40.15338,-74.898359",
+    "regiontype": 6,
+    "regionid": 30424,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Lower Merion Township, Pennsylvania",
+    "southwest": "39.989504,-75.349401",
+    "northeast": "40.07333,-75.206285",
+    "regiontype": 6,
+    "regionid": 398868,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Abington Township, Montgomery County, Pennsylvania",
+    "southwest": "40.068989,-75.214009",
+    "northeast": "40.150868,-75.058364",
+    "regiontype": 6,
+    "regionid": 35245,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Bristol Township, Bucks County, Pennsylvania",
+    "southwest": "40.075592,-74.905257",
+    "northeast": "40.175296,-74.818774",
+    "regiontype": 6,
+    "regionid": 395680,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Haverford Township, Delaware County, Pennsylvania",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Washington Township, Gloucester County, New Jersey",
+    "southwest": "39.70763,-75.12981",
+    "northeast": "39.80415,-75.01537",
+    "regiontype": 6,
+    "regionid": 398449,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Evesham Township, New Jersey",
+    "southwest": "39.781599,-74.957329",
+    "northeast": "39.91969,-74.86264",
+    "regiontype": 6,
+    "regionid": 51952,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Middletown Township, Bucks County, Pennsylvania",
+    "southwest": "40.13199,-74.958109",
+    "northeast": "40.22472,-74.855539",
+    "regiontype": 6,
+    "regionid": 397097,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Egg Harbor Township, New Jersey",
+    "southwest": "39.292865,-74.723844",
+    "northeast": "39.46703,-74.487321",
+    "regiontype": 6,
+    "regionid": 4529,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Mount Laurel, New Jersey",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Northampton Township, Bucks County, Pennsylvania",
+    "southwest": "40.16312,-75.072659",
+    "northeast": "40.25571,-74.922319",
+    "regiontype": 6,
+    "regionid": 398411,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Winslow Township, New Jersey",
+    "southwest": "39.608269,-75.015369",
+    "northeast": "39.784815,-74.80064",
+    "regiontype": 6,
+    "regionid": 41755,
+    "regiontype_name": "city",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+  },
+  {
+    "region": "Atlanta, Georgia",
+    "southwest": "33.646176,-84.671593",
+    "northeast": "33.887618,-84.289389",
+    "regiontype": 6,
+    "regionid": 37211,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "South Fulton, Georgia",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Sandy Springs, Georgia",
+    "southwest": "33.876579,-84.447542",
+    "northeast": "34.010137,-84.258088",
+    "regiontype": 6,
+    "regionid": 13709,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Roswell, Georgia",
+    "southwest": "33.971969,-84.419133",
+    "northeast": "34.118238,-84.261558",
+    "regiontype": 6,
+    "regionid": 54219,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Johns Creek, Georgia",
+    "southwest": "33.985424,-84.286199",
+    "northeast": "34.090342,-84.097679",
+    "regiontype": 6,
+    "regionid": 397383,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Alpharetta, Georgia",
+    "southwest": "34.028136,-84.359187",
+    "northeast": "34.168971,-84.201218",
+    "regiontype": 6,
+    "regionid": 16733,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Marietta, Georgia",
+    "southwest": "33.85207,-84.686717",
+    "northeast": "34.075964,-84.374728",
+    "regiontype": 6,
+    "regionid": 12562,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Stonecrest, Georgia",
+    "southwest": "33.688965,-84.083135",
+    "northeast": "33.688966,-84.083134",
+    "regiontype": 19,
+    "regionid": 779663,
+    "regiontype_name": "subdivision",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Smyrna, Georgia",
+    "southwest": "33.798745,-84.578739",
+    "northeast": "33.912527,-84.458024",
+    "regiontype": 6,
+    "regionid": 27136,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Dunwoody, Georgia",
+    "southwest": "33.91515,-84.348024",
+    "northeast": "33.970911,-84.264887",
+    "regiontype": 6,
+    "regionid": 49352,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Brookhaven, Georgia",
+    "southwest": "33.825403,-84.348624",
+    "northeast": "33.920409,-84.308539",
+    "regiontype": 6,
+    "regionid": 23302,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Mableton, Georgia",
+    "southwest": "33.778735,-84.613016",
+    "northeast": "33.848823,-84.489366",
+    "regiontype": 6,
+    "regionid": 32619,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Peachtree City, Georgia",
+    "southwest": "33.327531,-84.62614",
+    "northeast": "33.448433,-84.521587",
+    "regiontype": 6,
+    "regionid": 26434,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Peachtree Corners, Georgia",
+    "southwest": "33.91789,-84.276822",
+    "northeast": "34.004126,-84.163609",
+    "regiontype": 6,
+    "regionid": 42728,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Gainesville, Georgia",
+    "southwest": "34.163366,-84.041583",
+    "northeast": "34.455787,-83.679066",
+    "regiontype": 6,
+    "regionid": 24822,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "East Point, Georgia",
+    "southwest": "33.625135,-84.535587",
+    "northeast": "33.705707,-84.415048",
+    "regiontype": 6,
+    "regionid": 24505,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Newnan, Georgia",
+    "southwest": "33.231313,-85.015699",
+    "northeast": "33.511319,-84.632772",
+    "regiontype": 6,
+    "regionid": 53569,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Redan, Georgia",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Milton, Georgia",
+    "southwest": "34.077165,-84.396583",
+    "northeast": "34.186289,-84.244956",
+    "regiontype": 6,
+    "regionid": 395772,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Douglasville, Georgia",
+    "southwest": "33.564963,-84.883586",
+    "northeast": "33.838386,-84.600632",
+    "regiontype": 6,
+    "regionid": 11140,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Kennesaw, Georgia",
+    "southwest": "33.888355,-84.721491",
+    "northeast": "34.076002,-84.519538",
+    "regiontype": 6,
+    "regionid": 32287,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Chamblee, Georgia",
+    "southwest": "33.876458,-84.322196",
+    "northeast": "33.90399,-84.284871",
+    "regiontype": 6,
+    "regionid": 17382,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Lawrenceville, Georgia",
+    "southwest": "33.872821,-84.132748",
+    "northeast": "34.056392,-83.84488",
+    "regiontype": 6,
+    "regionid": 5573,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Tucker, Georgia",
+    "southwest": "33.816278,-84.263185",
+    "northeast": "33.896284,-84.162935",
+    "regiontype": 6,
+    "regionid": 41298,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Duluth, Georgia",
+    "southwest": "33.929803,-84.190999",
+    "northeast": "34.08355,-84.080612",
+    "regiontype": 6,
+    "regionid": 51757,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Stockbridge, Georgia",
+    "southwest": "33.468614,-84.299157",
+    "northeast": "33.645749,-84.065808",
+    "regiontype": 6,
+    "regionid": 20665,
+    "regiontype_name": "city",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA MSA"
+  },
+  {
+    "region": "Boston, Massachusetts",
+    "southwest": "42.22788,-71.191113",
+    "northeast": "42.398867,-70.904137",
+    "regiontype": 6,
+    "regionid": 44269,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Worcester, Massachusetts",
+    "southwest": "42.209372,-71.904078",
+    "northeast": "42.341179,-71.731558",
+    "regiontype": 6,
+    "regionid": 14724,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Providence, Rhode Island",
+    "southwest": "41.772414,-71.472666",
+    "northeast": "41.861571,-71.369693",
+    "regiontype": 6,
+    "regionid": 26637,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Manchester, New Hampshire",
+    "southwest": "42.889586,-71.518324",
+    "northeast": "43.051474,-71.37266",
+    "regiontype": 6,
+    "regionid": 5772,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Lowell, Massachusetts",
+    "southwest": "42.60762,-71.382491",
+    "northeast": "42.66676,-71.268779",
+    "regiontype": 6,
+    "regionid": 25659,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Cambridge, Massachusetts",
+    "southwest": "42.352397,-71.160331",
+    "northeast": "42.404384,-71.064094",
+    "regiontype": 6,
+    "regionid": 3934,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "New Bedford, Massachusetts",
+    "southwest": "41.591322,-70.977083",
+    "northeast": "41.745747,-70.899417",
+    "regiontype": 6,
+    "regionid": 33058,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Brockton, Massachusetts",
+    "southwest": "42.04237,-71.080362",
+    "northeast": "42.126398,-70.974963",
+    "regiontype": 6,
+    "regionid": 44328,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Quincy, Massachusetts",
+    "southwest": "42.205856,-71.070505",
+    "northeast": "42.30799,-70.933305",
+    "regiontype": 6,
+    "regionid": 6665,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Lynn, Massachusetts",
+    "southwest": "42.444941,-71.010299",
+    "northeast": "42.513482,-70.922035",
+    "regiontype": 6,
+    "regionid": 39558,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Fall River, Massachusetts",
+    "southwest": "41.60349,-71.201161",
+    "northeast": "41.76754,-71.008257",
+    "regiontype": 6,
+    "regionid": 31525,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Newton, Massachusetts",
+    "southwest": "42.282774,-71.272405",
+    "northeast": "42.367972,-71.15695",
+    "regiontype": 6,
+    "regionid": 40013,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Nashua, New Hampshire",
+    "southwest": "42.699989,-71.561112",
+    "northeast": "42.805587,-71.43319",
+    "regiontype": 6,
+    "regionid": 33031,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Warwick, Rhode Island",
+    "southwest": "41.629413,-71.518913",
+    "northeast": "41.768333,-71.345877",
+    "regiontype": 6,
+    "regionid": 14478,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Cranston, Rhode Island",
+    "southwest": "41.730071,-71.55992",
+    "northeast": "41.80702,-71.384099",
+    "regiontype": 6,
+    "regionid": 31093,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Somerville, Massachusetts",
+    "southwest": "42.372966,-71.134501",
+    "northeast": "42.417838,-71.072995",
+    "regiontype": 6,
+    "regionid": 54458,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Lawrence, Massachusetts",
+    "southwest": "42.675865,-71.190964",
+    "northeast": "42.723297,-71.133583",
+    "regiontype": 6,
+    "regionid": 46179,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Pawtucket, Rhode Island",
+    "southwest": "41.856399,-71.422152",
+    "northeast": "41.898399,-71.333996",
+    "regiontype": 6,
+    "regionid": 6443,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Framingham, Massachusetts",
+    "southwest": "42.257297,-71.496832",
+    "northeast": "42.352557,-71.375652",
+    "regiontype": 6,
+    "regionid": 31635,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Waltham, Massachusetts",
+    "southwest": "42.353795,-71.2855",
+    "northeast": "42.425439,-71.19388",
+    "regiontype": 6,
+    "regionid": 34644,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Haverhill, Massachusetts",
+    "southwest": "42.732545,-71.182403",
+    "northeast": "42.833089,-70.999556",
+    "regiontype": 6,
+    "regionid": 45689,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Malden, Massachusetts",
+    "southwest": "42.409798,-71.089189",
+    "northeast": "42.446966,-71.020094",
+    "regiontype": 6,
+    "regionid": 28939,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Brookline, Massachusetts",
+    "southwest": "42.294597,-71.178942",
+    "northeast": "42.351811,-71.105696",
+    "regiontype": 6,
+    "regionid": 17188,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Plymouth, Massachusetts",
+    "southwest": "41.762844,-70.753351",
+    "northeast": "42.01514,-70.525503",
+    "regiontype": 6,
+    "regionid": 398673,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Medford, Massachusetts",
+    "southwest": "42.396103,-71.148341",
+    "northeast": "42.459383,-71.072406",
+    "regiontype": 6,
+    "regionid": 53250,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Taunton, Massachusetts",
+    "southwest": "41.837965,-71.195393",
+    "northeast": "41.9946,-70.973397",
+    "regiontype": 6,
+    "regionid": 27374,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Weymouth, Massachusetts",
+    "southwest": "42.136896,-70.980305",
+    "northeast": "42.266874,-70.914849",
+    "regiontype": 6,
+    "regionid": 14603,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Revere, Massachusetts",
+    "southwest": "42.388116,-71.03305",
+    "northeast": "42.450096,-70.959647",
+    "regiontype": 6,
+    "regionid": 54111,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Peabody, Massachusetts",
+    "southwest": "42.495048,-71.034618",
+    "northeast": "42.570233,-70.911102",
+    "regiontype": 6,
+    "regionid": 26431,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Methuen, Massachusetts",
+    "southwest": "42.656353,-71.258129",
+    "northeast": "42.794289,-71.114632",
+    "regiontype": 6,
+    "regionid": 15796,
+    "regiontype_name": "city",
+    "msa": "Boston-Cambridge-Newton, MA-NH MSA"
+  },
+  {
+    "region": "Phoenix, Arizona",
+    "southwest": "33.290259,-112.324055",
+    "northeast": "33.920569,-111.926046",
+    "regiontype": 6,
+    "regionid": 40326,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Mesa, Arizona",
+    "southwest": "33.277623,-111.89488",
+    "northeast": "33.549979,-111.580625",
+    "regiontype": 6,
+    "regionid": 19331,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Chandler, Arizona",
+    "southwest": "33.140877,-112.098963",
+    "northeast": "33.361857,-111.748636",
+    "regiontype": 6,
+    "regionid": 17384,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Gilbert, Arizona",
+    "southwest": "33.204704,-111.84241",
+    "northeast": "33.385792,-111.68259",
+    "regiontype": 6,
+    "regionid": 4888,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Glendale, Arizona",
+    "southwest": "33.507966,-112.403119",
+    "northeast": "33.69806,-112.151471",
+    "regiontype": 6,
+    "regionid": 18298,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Scottsdale, Arizona",
+    "southwest": "33.436732,-111.960815",
+    "northeast": "33.900393,-111.7174",
+    "regiontype": 6,
+    "regionid": 54346,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Tempe, Arizona",
+    "southwest": "33.319861,-111.978975",
+    "northeast": "33.463984,-111.877225",
+    "regiontype": 6,
+    "regionid": 47958,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Peoria, Arizona",
+    "southwest": "33.550699,-112.464432",
+    "northeast": "33.955304,-112.202813",
+    "regiontype": 6,
+    "regionid": 40298,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Surprise, Arizona",
+    "southwest": "33.572381,-112.611802",
+    "northeast": "33.758425,-112.298161",
+    "regiontype": 6,
+    "regionid": 7330,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Avondale, Arizona",
+    "southwest": "33.38593,-112.370076",
+    "northeast": "33.497079,-112.26858",
+    "regiontype": 6,
+    "regionid": 10226,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Goodyear, Arizona",
+    "southwest": "33.26136,-112.480011",
+    "northeast": "33.508567,-112.319161",
+    "regiontype": 6,
+    "regionid": 18329,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Buckeye, Arizona",
+    "southwest": "33.142234,-112.858244",
+    "northeast": "33.801563,-112.458507",
+    "regiontype": 6,
+    "regionid": 3869,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Apache Junction, Arizona",
+    "southwest": "33.205959,-111.607751",
+    "northeast": "33.674979,-111.039905",
+    "regiontype": 6,
+    "regionid": 30233,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "El Mirage, Arizona",
+    "southwest": "33.551141,-112.349988",
+    "northeast": "33.630806,-112.302474",
+    "regiontype": 6,
+    "regionid": 11278,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Queen Creek, Arizona",
+    "southwest": "33.045724,-111.793035",
+    "northeast": "33.307108,-111.375344",
+    "regiontype": 6,
+    "regionid": 8814,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Fountain Hills, Arizona",
+    "southwest": "33.547384,-111.787431",
+    "northeast": "33.663232,-111.700342",
+    "regiontype": 6,
+    "regionid": 38590,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Paradise Valley, Arizona",
+    "southwest": "33.509031,-112.013219",
+    "northeast": "33.582525,-111.916875",
+    "regiontype": 6,
+    "regionid": 29973,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Coolidge, Arizona",
+    "southwest": "32.834404,-111.682342",
+    "northeast": "33.121847,-111.395103",
+    "regiontype": 6,
+    "regionid": 24198,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Florence, Arizona",
+    "southwest": "32.60002,-111.533423",
+    "northeast": "33.176505,-110.887824",
+    "regiontype": 6,
+    "regionid": 38541,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Eloy, Arizona",
+    "southwest": "32.496989,-111.792641",
+    "northeast": "32.860826,-111.326591",
+    "regiontype": 6,
+    "regionid": 11312,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Casa Grande, Arizona",
+    "southwest": "32.655208,-111.963625",
+    "northeast": "33.066406,-111.513806",
+    "regiontype": 6,
+    "regionid": 10727,
+    "regiontype_name": "city",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ MSA"
+  },
+  {
+    "region": "Banning, California",
+    "southwest": "33.782674,-116.952717",
+    "northeast": "34.034113,-116.670208",
+    "regiontype": 6,
+    "regionid": 50849,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Beaumont, California",
+    "southwest": "33.854294,-117.071085",
+    "northeast": "34.016208,-116.928909",
+    "regiontype": 6,
+    "regionid": 23635,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Blythe, California",
+    "southwest": "33.387974,-114.990665",
+    "northeast": "34.10557,-114.434948",
+    "regiontype": 6,
+    "regionid": 3719,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Calimesa, California",
+    "southwest": "33.952987,-117.131951",
+    "northeast": "34.005314,-116.98982",
+    "regiontype": 6,
+    "regionid": 10665,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Canyon Lake, California",
+    "southwest": "33.670339,-117.284018",
+    "northeast": "33.714266,-117.234628",
+    "regiontype": 6,
+    "regionid": 3963,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Cathedral City, California",
+    "southwest": "33.759202,-116.493245",
+    "northeast": "33.873887,-116.422988",
+    "regiontype": 6,
+    "regionid": 30788,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Coachella, California",
+    "southwest": "33.65335,-116.233996",
+    "northeast": "33.758671,-116.066154",
+    "regiontype": 6,
+    "regionid": 50616,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Corona, California",
+    "southwest": "33.669546,-117.689845",
+    "northeast": "33.946121,-117.391135",
+    "regiontype": 6,
+    "regionid": 24225,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Desert Hot Springs, California",
+    "southwest": "33.71361,-116.596141",
+    "northeast": "34.032881,-116.09448",
+    "regiontype": 6,
+    "regionid": 51701,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Eastvale, California",
+    "southwest": "33.918508,-117.615716",
+    "northeast": "34.033475,-117.547486",
+    "regiontype": 6,
+    "regionid": 737790,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Hemet, California",
+    "southwest": "33.507728,-117.13651",
+    "northeast": "33.802118,-116.677661",
+    "regiontype": 6,
+    "regionid": 11865,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Indian Wells, California",
+    "southwest": "33.642003,-116.408119",
+    "northeast": "33.743575,-116.294915",
+    "regiontype": 6,
+    "regionid": 25246,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Indio, California",
+    "southwest": "33.671011,-116.303863",
+    "northeast": "33.794821,-116.164165",
+    "regiontype": 6,
+    "regionid": 45878,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Jurupa Valley, California",
+    "southwest": "33.947099,-117.553324",
+    "northeast": "34.03434,-117.367421",
+    "regiontype": 6,
+    "regionid": 781837,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "La Quinta, California",
+    "southwest": "33.42727,-116.42193",
+    "northeast": "33.738009,-116.233343",
+    "regiontype": 6,
+    "regionid": 18883,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Lake Elsinore, California",
+    "southwest": "33.55236,-117.517964",
+    "northeast": "33.768478,-117.223302",
+    "regiontype": 6,
+    "regionid": 52852,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Menifee, California",
+    "southwest": "33.610917,-117.258037",
+    "northeast": "33.786698,-117.118624",
+    "regiontype": 6,
+    "regionid": 46500,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Moreno Valley, California",
+    "southwest": "33.834343,-117.296523",
+    "northeast": "34.005787,-116.981028",
+    "regiontype": 6,
+    "regionid": 25981,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Murrieta, California",
+    "southwest": "33.448064,-117.509724",
+    "northeast": "33.641546,-117.100711",
+    "regiontype": 6,
+    "regionid": 6103,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Norco, California",
+    "southwest": "33.893729,-117.616162",
+    "northeast": "33.966497,-117.511692",
+    "regiontype": 6,
+    "regionid": 29737,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Palm Desert, California",
+    "southwest": "33.65592,-116.460662",
+    "northeast": "33.810362,-116.27675",
+    "regiontype": 6,
+    "regionid": 33306,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Palm Springs, California",
+    "southwest": "33.612724,-116.719658",
+    "northeast": "33.909823,-116.442845",
+    "regiontype": 6,
+    "regionid": 46965,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Perris, California",
+    "southwest": "33.698828,-117.46037",
+    "northeast": "33.869818,-117.179667",
+    "regiontype": 6,
+    "regionid": 13256,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Rancho Mirage, California",
+    "southwest": "33.69649,-116.477923",
+    "northeast": "33.826022,-116.388155",
+    "regiontype": 6,
+    "regionid": 40493,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Riverside, California",
+    "southwest": "33.832296,-117.523881",
+    "northeast": "34.019514,-117.275174",
+    "regiontype": 6,
+    "regionid": 47401,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "San Jacinto, California",
+    "southwest": "33.758485,-117.068594",
+    "northeast": "33.863545,-116.873534",
+    "regiontype": 6,
+    "regionid": 6919,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Temecula, California",
+    "southwest": "33.425915,-117.325916",
+    "northeast": "33.645659,-116.932517",
+    "regiontype": 6,
+    "regionid": 7386,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Wildomar, California",
+    "southwest": "33.583447,-117.308165",
+    "northeast": "33.656162,-117.205706",
+    "regiontype": 6,
+    "regionid": 57132,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Adelanto, California",
+    "southwest": "34.499392,-117.685545",
+    "northeast": "34.822578,-117.356379",
+    "regiontype": 6,
+    "regionid": 16684,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Apple Valley, California",
+    "southwest": "34.299995,-117.287768",
+    "northeast": "34.804454,-117.027333",
+    "regiontype": 6,
+    "regionid": 50742,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Barstow, California",
+    "southwest": "34.69198,-117.291321",
+    "northeast": "35.272307,-116.655449",
+    "regiontype": 6,
+    "regionid": 7304,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Big Bear Lake, California",
+    "southwest": "34.215147,-116.976985",
+    "northeast": "34.264454,-116.842493",
+    "regiontype": 6,
+    "regionid": 44161,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Chino, California",
+    "southwest": "33.924807,-117.743602",
+    "northeast": "34.048356,-117.599574",
+    "regiontype": 6,
+    "regionid": 44583,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Chino Hills, California",
+    "southwest": "33.885772,-117.80269",
+    "northeast": "34.024815,-117.64325",
+    "regiontype": 6,
+    "regionid": 10815,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Colton, California",
+    "southwest": "34.018715,-117.368177",
+    "northeast": "34.095611,-117.26953",
+    "regiontype": 6,
+    "regionid": 37971,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Fontana, California",
+    "southwest": "34.033443,-117.524294",
+    "northeast": "34.207111,-117.400841",
+    "regiontype": 6,
+    "regionid": 24741,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Grand Terrace, California",
+    "southwest": "34.019304,-117.337518",
+    "northeast": "34.045297,-117.291174",
+    "regiontype": 6,
+    "regionid": 45510,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Hesperia, California",
+    "southwest": "34.256249,-117.459683",
+    "northeast": "34.47274,-117.195991",
+    "regiontype": 6,
+    "regionid": 45732,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Highland, California",
+    "southwest": "34.091712,-117.261075",
+    "northeast": "34.142299,-117.087709",
+    "regiontype": 6,
+    "regionid": 28485,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Loma Linda, California",
+    "southwest": "34.018715,-117.277974",
+    "northeast": "34.076172,-117.219473",
+    "regiontype": 6,
+    "regionid": 12423,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Montclair, California",
+    "southwest": "34.046672,-117.720836",
+    "northeast": "34.096604,-117.680815",
+    "regiontype": 6,
+    "regionid": 32927,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Needles, California",
+    "southwest": "34.316925,-115.002074",
+    "northeast": "35.254819,-114.194837",
+    "regiontype": 6,
+    "regionid": 33040,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Ontario, California",
+    "southwest": "33.975316,-117.703483",
+    "northeast": "34.09259,-117.522958",
+    "regiontype": 6,
+    "regionid": 13108,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Rancho Cucamonga, California",
+    "southwest": "34.077178,-117.665587",
+    "northeast": "34.250316,-117.435513",
+    "regiontype": 6,
+    "regionid": 40492,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Redlands, California",
+    "southwest": "34.003814,-117.249873",
+    "northeast": "34.101611,-117.101963",
+    "regiontype": 6,
+    "regionid": 40524,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Rialto, California",
+    "southwest": "34.067942,-117.526591",
+    "northeast": "34.989714,-117.348585",
+    "regiontype": 6,
+    "regionid": 33645,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "San Bernardino, California",
+    "southwest": "34.050113,-117.510326",
+    "northeast": "34.315876,-117.164971",
+    "regiontype": 6,
+    "regionid": 20328,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Twentynine Palms, California",
+    "southwest": "33.990891,-116.47763",
+    "northeast": "34.492575,-115.316081",
+    "regiontype": 6,
+    "regionid": 41317,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Upland, California",
+    "southwest": "34.08691,-117.704594",
+    "northeast": "34.219958,-117.61928",
+    "regiontype": 6,
+    "regionid": 27512,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Victorville, California",
+    "southwest": "34.430619,-117.490861",
+    "northeast": "34.63031,-117.254838",
+    "regiontype": 6,
+    "regionid": 27683,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Yucaipa, California",
+    "southwest": "33.990306,-117.124772",
+    "northeast": "34.09271,-116.903481",
+    "regiontype": 6,
+    "regionid": 21417,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Yucca Valley, California",
+    "southwest": "34.027246,-116.548272",
+    "northeast": "34.276093,-116.301787",
+    "regiontype": 6,
+    "regionid": 28063,
+    "regiontype_name": "city",
+    "msa": "Riverside-San Bernardino-Ontario, CA MSA"
+  },
+  {
+    "region": "Seattle, Washington",
+    "southwest": "47.491912,-122.465159",
+    "northeast": "47.734145,-122.224432",
+    "regiontype": 6,
+    "regionid": 16037,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Tacoma, Washington",
+    "southwest": "47.166528,-122.565437",
+    "northeast": "47.331984,-122.33486",
+    "regiontype": 6,
+    "regionid": 27362,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Bellevue, Washington",
+    "southwest": "47.534469,-122.22293",
+    "northeast": "47.660897,-122.079331",
+    "regiontype": 6,
+    "regionid": 3619,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Everett, Washington",
+    "southwest": "47.878413,-122.293447",
+    "northeast": "48.035703,-122.162061",
+    "regiontype": 6,
+    "regionid": 4626,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Arlington, Washington",
+    "southwest": "48.071956,-122.278385",
+    "northeast": "48.387037,-121.621194",
+    "regiontype": 6,
+    "regionid": 37174,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Auburn, Washington",
+    "southwest": "47.237141,-122.297974",
+    "northeast": "47.357844,-122.143636",
+    "regiontype": 6,
+    "regionid": 16839,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Bainbridge Island, Washington",
+    "southwest": "47.573713,-122.593592",
+    "northeast": "47.721516,-122.477312",
+    "regiontype": 6,
+    "regionid": 23574,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Beaux Arts Village, Washington",
+    "southwest": "47.583124,-122.214733",
+    "northeast": "47.587246,-122.196547",
+    "regiontype": 6,
+    "regionid": 50922,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Bonney Lake, Washington",
+    "southwest": "47.086723,-122.232774",
+    "northeast": "47.257828,-122.099541",
+    "regiontype": 6,
+    "regionid": 23770,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Bothell, Washington",
+    "southwest": "47.732794,-122.266838",
+    "northeast": "47.85935,-122.14886",
+    "regiontype": 6,
+    "regionid": 3761,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Bremerton, Washington",
+    "southwest": "47.484004,-122.876687",
+    "northeast": "47.658136,-122.591108",
+    "regiontype": 6,
+    "regionid": 37560,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Brier, Washington",
+    "southwest": "47.777019,-122.287158",
+    "northeast": "47.808664,-122.255237",
+    "regiontype": 6,
+    "regionid": 3811,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Burien, Washington",
+    "southwest": "47.431021,-122.382955",
+    "northeast": "47.50702,-122.292564",
+    "regiontype": 6,
+    "regionid": 17229,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Covington, Washington",
+    "southwest": "47.344006,-122.144888",
+    "northeast": "47.387718,-122.058816",
+    "regiontype": 6,
+    "regionid": 51571,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Des Moines, Washington",
+    "southwest": "47.340709,-122.335799",
+    "northeast": "47.431094,-122.291059",
+    "regiontype": 6,
+    "regionid": 24372,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Duvall, Washington",
+    "southwest": "47.689155,-122.027999",
+    "northeast": "47.777223,-121.756433",
+    "regiontype": 6,
+    "regionid": 24462,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Enumclaw, Washington",
+    "southwest": "46.90347,-122.115685",
+    "northeast": "47.313727,-121.373496",
+    "regiontype": 6,
+    "regionid": 45171,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Edmonds, Washington",
+    "southwest": "47.777595,-122.434345",
+    "northeast": "47.864978,-122.296188",
+    "regiontype": 6,
+    "regionid": 24544,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Federal Way, Washington",
+    "southwest": "47.257216,-122.419072",
+    "northeast": "47.357946,-122.273551",
+    "regiontype": 6,
+    "regionid": 45255,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Gig Harbor, Washington",
+    "southwest": "47.254255,-122.802049",
+    "northeast": "47.404016,-122.538203",
+    "regiontype": 6,
+    "regionid": 45429,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Gold Bar, Washington",
+    "southwest": "47.695799,-121.784372",
+    "northeast": "47.978958,-121.239957",
+    "regiontype": 6,
+    "regionid": 31783,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Granite Falls, Washington",
+    "southwest": "47.937861,-122.046035",
+    "northeast": "48.210274,-121.358294",
+    "regiontype": 6,
+    "regionid": 24929,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Issaquah, Washington",
+    "southwest": "47.415273,-122.11",
+    "northeast": "47.587776,-121.852496",
+    "regiontype": 6,
+    "regionid": 5302,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Kenmore, Washington",
+    "southwest": "47.725901,-122.271229",
+    "northeast": "47.77757,-122.218452",
+    "regiontype": 6,
+    "regionid": 42157,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Kent, Washington",
+    "southwest": "47.302762,-122.309417",
+    "northeast": "47.441233,-122.044722",
+    "regiontype": 6,
+    "regionid": 5399,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Kirkland, Washington",
+    "southwest": "47.642327,-122.262017",
+    "northeast": "47.741042,-122.152098",
+    "regiontype": 6,
+    "regionid": 12214,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Lake Forest Park, Washington",
+    "southwest": "47.733297,-122.313094",
+    "northeast": "47.77742,-122.267494",
+    "regiontype": 6,
+    "regionid": 12265,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Lake Stevens, Washington",
+    "southwest": "47.950818,-122.152757",
+    "northeast": "48.139833,-122.009556",
+    "regiontype": 6,
+    "regionid": 39329,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Lakewood, Washington",
+    "southwest": "47.114264,-122.605354",
+    "northeast": "47.198266,-122.464063",
+    "regiontype": 6,
+    "regionid": 25489,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Lynnwood, Washington",
+    "southwest": "47.795369,-122.337943",
+    "northeast": "47.882034,-122.218903",
+    "regiontype": 6,
+    "regionid": 32615,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Maple Valley, Washington",
+    "southwest": "47.340168,-122.084904",
+    "northeast": "47.469347,-121.78192",
+    "regiontype": 6,
+    "regionid": 46405,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Marysville, Washington",
+    "southwest": "48.004878,-122.3632",
+    "northeast": "48.167105,-122.109734",
+    "regiontype": 6,
+    "regionid": 39655,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Mercer Island, Washington",
+    "southwest": "47.518421,-122.268159",
+    "northeast": "47.61362,-122.199006",
+    "regiontype": 6,
+    "regionid": 56365,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Mill Creek, Washington",
+    "southwest": "47.838699,-122.227965",
+    "northeast": "47.88099,-122.165825",
+    "regiontype": 6,
+    "regionid": 25893,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Monroe, Washington",
+    "southwest": "47.775286,-122.04271",
+    "northeast": "47.963079,-121.716055",
+    "regiontype": 6,
+    "regionid": 19429,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Mountlake Terrace, Washington",
+    "southwest": "47.777205,-122.333355",
+    "northeast": "47.81002,-122.281174",
+    "regiontype": 6,
+    "regionid": 12876,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Mukilteo, Washington",
+    "southwest": "47.873921,-122.328545",
+    "northeast": "47.952073,-122.280005",
+    "regiontype": 6,
+    "regionid": 26038,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Newcastle, Washington",
+    "southwest": "47.516034,-122.195681",
+    "northeast": "47.545799,-122.127359",
+    "regiontype": 6,
+    "regionid": 53563,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Normandy Park, Washington",
+    "southwest": "47.404412,-122.404136",
+    "northeast": "47.457339,-122.326914",
+    "regiontype": 6,
+    "regionid": 53592,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Puyallup, Washington",
+    "southwest": "47.132595,-122.357397",
+    "northeast": "47.218644,-122.212005",
+    "regiontype": 6,
+    "regionid": 6651,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Poulsbo, Washington",
+    "southwest": "47.648943,-122.72947",
+    "northeast": "47.857125,-122.519996",
+    "regiontype": 6,
+    "regionid": 22544,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Redmond, Washington",
+    "southwest": "47.602779,-122.164458",
+    "northeast": "47.733617,-121.946081",
+    "regiontype": 6,
+    "regionid": 54089,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Renton, Washington",
+    "southwest": "47.389956,-122.254883",
+    "northeast": "47.546721,-122.05075",
+    "regiontype": 6,
+    "regionid": 13480,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Sammamish, Washington",
+    "southwest": "47.554714,-122.098433",
+    "northeast": "47.657453,-121.953374",
+    "regiontype": 6,
+    "regionid": 26938,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "SeaTac, Washington",
+    "southwest": "47.395825,-122.326113",
+    "northeast": "47.488734,-122.26558",
+    "regiontype": 6,
+    "regionid": 20404,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Shoreline, Washington",
+    "southwest": "47.733751,-122.394982",
+    "northeast": "47.778019,-122.291602",
+    "regiontype": 6,
+    "regionid": 54409,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Silverdale, Washington",
+    "southwest": "47.599409,-122.78577",
+    "northeast": "47.74733,-122.656728",
+    "regiontype": 6,
+    "regionid": 13854,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Snohomish, Washington",
+    "southwest": "47.775374,-122.179373",
+    "northeast": "48.072546,-121.796774",
+    "regiontype": 6,
+    "regionid": 20536,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Stanwood, Washington",
+    "southwest": "48.116277,-122.40477",
+    "northeast": "48.324815,-122.204407",
+    "regiontype": 6,
+    "regionid": 7241,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Sultan, Washington",
+    "southwest": "47.690381,-121.835419",
+    "northeast": "47.950007,-121.584539",
+    "regiontype": 6,
+    "regionid": 27312,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Tukwila, Washington",
+    "southwest": "47.429547,-122.318353",
+    "northeast": "47.531928,-122.24112",
+    "regiontype": 6,
+    "regionid": 7482,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Woodinville, Washington",
+    "southwest": "47.70263,-122.184949",
+    "northeast": "47.819711,-122.007587",
+    "regiontype": 6,
+    "regionid": 28017,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Woodway, Washington",
+    "southwest": "47.77784,-122.442244",
+    "northeast": "47.803418,-122.374842",
+    "regiontype": 6,
+    "regionid": 57134,
+    "regiontype_name": "city",
+    "msa": "Seattle-Tacoma-Bellevue, WA MSA"
+  },
+  {
+    "region": "Minneapolis, Minesota",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Saint Paul, Minesota",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Bloomington, Minnesota",
+    "southwest": "44.785263,-93.398833",
+    "northeast": "44.864078,-93.197279",
+    "regiontype": 6,
+    "regionid": 10451,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Brooklyn Park, Minnesota",
+    "southwest": "45.065582,-93.402305",
+    "northeast": "45.152056,-93.278326",
+    "regiontype": 6,
+    "regionid": 17191,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Plymouth, Minnesota",
+    "southwest": "44.978263,-93.522651",
+    "northeast": "45.06626,-93.400369",
+    "regiontype": 6,
+    "regionid": 26561,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Eagan, Minnesota",
+    "southwest": "44.775311,-93.228114",
+    "northeast": "44.861977,-93.104811",
+    "regiontype": 6,
+    "regionid": 17845,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Woodbury, Minnesota",
+    "southwest": "44.861854,-92.985737",
+    "northeast": "44.948995,-92.86241",
+    "regiontype": 6,
+    "regionid": 14703,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Maple Grove, Minnesota",
+    "southwest": "45.064492,-93.528511",
+    "northeast": "45.155931,-93.400527",
+    "regiontype": 6,
+    "regionid": 46400,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Blaine, Minnesota",
+    "southwest": "45.118895,-93.266938",
+    "northeast": "45.211589,-93.14242",
+    "regiontype": 6,
+    "regionid": 10428,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Eden Prairie, Minnesota",
+    "southwest": "44.798329,-93.52093",
+    "northeast": "44.892845,-93.398437",
+    "regiontype": 6,
+    "regionid": 4515,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Coon Rapids, Minnesota",
+    "southwest": "45.11826,-93.373582",
+    "northeast": "45.21291,-93.265727",
+    "regiontype": 6,
+    "regionid": 10940,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Burnsville, Minnesota",
+    "southwest": "44.717207,-93.329786",
+    "northeast": "44.827001,-93.221498",
+    "regiontype": 6,
+    "regionid": 10634,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Lakeville, Minnesota",
+    "southwest": "44.543861,-93.399497",
+    "northeast": "44.717991,-93.156242",
+    "regiontype": 6,
+    "regionid": 32409,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Minnetonka, Minnesota",
+    "southwest": "44.889507,-93.523342",
+    "northeast": "44.97884,-93.399543",
+    "regiontype": 6,
+    "regionid": 12762,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Apple Valley, Minnesota",
+    "southwest": "44.717345,-93.248926",
+    "northeast": "44.776269,-93.151343",
+    "regiontype": 6,
+    "regionid": 3425,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Edina, Minnesota",
+    "southwest": "44.859791,-93.401505",
+    "northeast": "44.930599,-93.318756",
+    "regiontype": 6,
+    "regionid": 4520,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "St. Louis Park, Minnesota",
+    "southwest": "44.919566,-93.410628",
+    "northeast": "44.978702,-93.328525",
+    "regiontype": 6,
+    "regionid": 6892,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Maplewood, Minnesota",
+    "southwest": "44.890767,-93.105967",
+    "northeast": "45.036876,-92.9833",
+    "regiontype": 6,
+    "regionid": 53154,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Shakopee, Minnesota",
+    "southwest": "44.681217,-93.623901",
+    "northeast": "44.817703,-93.377997",
+    "regiontype": 6,
+    "regionid": 33953,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Richfield, Minnesota",
+    "southwest": "44.861801,-93.318824",
+    "northeast": "44.892712,-93.238921",
+    "regiontype": 6,
+    "regionid": 6746,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Cottage Grove, Minnesota",
+    "southwest": "44.766737,-93.02152",
+    "northeast": "44.862781,-92.842132",
+    "regiontype": 6,
+    "regionid": 21469,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Roseville, Minnesota",
+    "southwest": "44.991749,-93.208106",
+    "northeast": "45.035897,-93.105877",
+    "regiontype": 6,
+    "regionid": 40645,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Inver Grove Heights, Minnesota",
+    "southwest": "44.775174,-93.107089",
+    "northeast": "44.884729,-93.00471",
+    "regiontype": 6,
+    "regionid": 32156,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Andover, Minnesota",
+    "southwest": "45.211565,-93.407084",
+    "northeast": "45.298645,-93.264947",
+    "regiontype": 6,
+    "regionid": 10132,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Brooklyn Center, Minnesota",
+    "southwest": "45.039959,-93.351128",
+    "northeast": "45.087315,-93.280825",
+    "regiontype": 6,
+    "regionid": 37609,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Savage, Minnesota",
+    "southwest": "44.717501,-93.400488",
+    "northeast": "44.79118,-93.328481",
+    "regiontype": 6,
+    "regionid": 50554,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Oakdale, Minnesota",
+    "southwest": "44.948446,-92.985998",
+    "northeast": "45.034049,-92.934093",
+    "regiontype": 6,
+    "regionid": 26248,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Fridley, Minnesota",
+    "southwest": "45.035365,-93.296094",
+    "northeast": "45.124604,-93.227205",
+    "regiontype": 6,
+    "regionid": 31666,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Shoreview, Minnesota",
+    "southwest": "45.035764,-93.188705",
+    "northeast": "45.124376,-93.106213",
+    "regiontype": 6,
+    "regionid": 54410,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Ramsey, Minnesota",
+    "southwest": "45.21505,-93.512648",
+    "northeast": "45.299368,-93.367811",
+    "regiontype": 6,
+    "regionid": 54051,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Chanhassen, Minnesota",
+    "southwest": "44.825628,-93.629707",
+    "northeast": "44.891501,-93.520631",
+    "regiontype": 6,
+    "regionid": 51349,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Prior Lake, Minnesota",
+    "southwest": "44.587075,-93.486106",
+    "northeast": "44.76116,-93.31834",
+    "regiontype": 6,
+    "regionid": 40446,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "White Bear Lake, Minnesota",
+    "southwest": "45.032995,-93.056179",
+    "northeast": "45.101898,-92.980054",
+    "regiontype": 6,
+    "regionid": 9556,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "Chaska, Minnesota",
+    "southwest": "44.734811,-93.749166",
+    "northeast": "44.86997,-93.520431",
+    "regiontype": 6,
+    "regionid": 55428,
+    "regiontype_name": "city",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+  },
+  {
+    "region": "San Diego, California",
+    "southwest": "32.534855,-117.309796",
+    "northeast": "33.114249,-116.90816",
+    "regiontype": 6,
+    "regionid": 54296,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Chula Vista, California",
+    "southwest": "32.577923,-117.124262",
+    "northeast": "32.685609,-116.924796",
+    "regiontype": 6,
+    "regionid": 51405,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Oceanside, California",
+    "southwest": "33.152718,-117.59591",
+    "northeast": "33.503344,-117.238859",
+    "regiontype": 6,
+    "regionid": 6285,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Escondido, California",
+    "southwest": "33.041148,-117.201796",
+    "northeast": "33.314628,-116.876132",
+    "regiontype": 6,
+    "regionid": 11337,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Carlsbad, California",
+    "southwest": "33.060415,-117.359038",
+    "northeast": "33.183199,-117.203971",
+    "regiontype": 6,
+    "regionid": 3975,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "El Cajon, California",
+    "southwest": "32.731324,-117.00654",
+    "northeast": "32.888119,-116.785264",
+    "regiontype": 6,
+    "regionid": 38333,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Vista, California",
+    "southwest": "33.131532,-117.29024",
+    "northeast": "33.275284,-117.145152",
+    "regiontype": 6,
+    "regionid": 41517,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "San Marcos, California",
+    "southwest": "33.09104,-117.232302",
+    "northeast": "33.227893,-117.111603",
+    "regiontype": 6,
+    "regionid": 40737,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Encinitas, California",
+    "southwest": "33.009293,-117.313505",
+    "northeast": "33.089972,-117.193484",
+    "regiontype": 6,
+    "regionid": 45164,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "National City, California",
+    "southwest": "32.646545,-117.124846",
+    "northeast": "32.693288,-117.055267",
+    "regiontype": 6,
+    "regionid": 53487,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "La Mesa, California",
+    "southwest": "32.739226,-117.053762",
+    "northeast": "32.796543,-116.934204",
+    "regiontype": 6,
+    "regionid": 46089,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Santee, California",
+    "southwest": "32.814991,-117.038446",
+    "northeast": "32.903474,-116.938078",
+    "regiontype": 6,
+    "regionid": 6943,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Poway, California",
+    "southwest": "32.927158,-117.084348",
+    "northeast": "33.066401,-116.940605",
+    "regiontype": 6,
+    "regionid": 20044,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Imperial Beach, California",
+    "southwest": "32.534156,-117.133662",
+    "northeast": "32.592055,-117.099576",
+    "regiontype": 6,
+    "regionid": 5265,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Lemon Grove, California",
+    "southwest": "32.715133,-117.063448",
+    "northeast": "32.75029,-117.014089",
+    "regiontype": 6,
+    "regionid": 25547,
+    "regiontype_name": "city",
+    "msa": "San Diego-Carlsbad, CA MSA"
+  },
+  {
+    "region": "Tampa, Florida",
+    "southwest": "27.817487,-82.648819",
+    "northeast": "28.171478,-82.25974",
+    "regiontype": 6,
+    "regionid": 41176,
+    "regiontype_name": "city",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "St. Petersburg Saint Petersburg, Florida",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "Clearwater, Florida",
+    "southwest": "27.900937,-82.840422",
+    "northeast": "28.050141,-82.648614",
+    "regiontype": 6,
+    "regionid": 51447,
+    "regiontype_name": "city",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "Dunedin, Florida",
+    "southwest": "27.996657,-82.837966",
+    "northeast": "28.090731,-82.738181",
+    "regiontype": 6,
+    "regionid": 4439,
+    "regiontype_name": "city",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "Gulfport, Florida",
+    "southwest": "27.727807,-82.730701",
+    "northeast": "27.764592,-82.686327",
+    "regiontype": 6,
+    "regionid": 24990,
+    "regiontype_name": "city",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "Largo, Florida",
+    "southwest": "27.875044,-82.845413",
+    "northeast": "27.943279,-82.696278",
+    "regiontype": 6,
+    "regionid": 12317,
+    "regiontype_name": "city",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "New Port Richey, Florida",
+    "southwest": "28.173173,-82.765302",
+    "northeast": "28.339394,-82.560272",
+    "regiontype": 6,
+    "regionid": 6172,
+    "regiontype_name": "city",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "Oldsmar, Florida",
+    "southwest": "27.998185,-82.711158",
+    "northeast": "28.089845,-82.648168",
+    "regiontype": 6,
+    "regionid": 35755,
+    "regiontype_name": "city",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "Seminole, Florida",
+    "southwest": "27.81797,-82.846625",
+    "northeast": "27.880777,-82.728874",
+    "regiontype": 6,
+    "regionid": 13772,
+    "regiontype_name": "city",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL MSA"
+  },
+  {
+    "region": "Arvada, Colorado",
+    "southwest": "39.781609,-105.302542",
+    "northeast": "39.892718,-105.034505",
+    "regiontype": 6,
+    "regionid": 10181,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Aurora, Colorado",
+    "southwest": "39.550915,-104.884761",
+    "northeast": "39.826859,-104.488906",
+    "regiontype": 6,
+    "regionid": 16846,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Centennial, Colorado",
+    "southwest": "39.565978,-104.988351",
+    "northeast": "39.6385,-104.72669",
+    "regiontype": 6,
+    "regionid": 44515,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Denver, Colorade",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Lakewood, Colorado",
+    "southwest": "39.618304,-105.193664",
+    "northeast": "39.762028,-105.053173",
+    "regiontype": 6,
+    "regionid": 5519,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Thornton, Colorado",
+    "southwest": "39.830859,-105.015535",
+    "northeast": "40.000515,-104.884064",
+    "regiontype": 6,
+    "regionid": 20793,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Westminster, Colorado",
+    "southwest": "39.816369,-105.165542",
+    "northeast": "39.968186,-104.987761",
+    "regiontype": 6,
+    "regionid": 34781,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Berkley, Colorado",
+    "southwest": "39.79093,-105.053222",
+    "northeast": "39.82409,-105.006156",
+    "regiontype": 6,
+    "regionid": 119221,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Brighton, Colorado",
+    "southwest": "39.899616,-104.883816",
+    "northeast": "40.018542,-104.718275",
+    "regiontype": 6,
+    "regionid": 17163,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Broomfield, Colorado",
+    "southwest": "39.889063,-105.165683",
+    "northeast": "40.044226,-104.96115",
+    "regiontype": 6,
+    "regionid": 10574,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Castle Rock, Colorado",
+    "southwest": "39.187693,-104.949653",
+    "northeast": "39.507429,-104.736994",
+    "regiontype": 6,
+    "regionid": 23984,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Commerce City, Colorado",
+    "southwest": "39.783755,-104.968941",
+    "northeast": "39.928817,-104.659163",
+    "regiontype": 6,
+    "regionid": 17545,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Englewood, Colorado",
+    "southwest": "39.565885,-105.034954",
+    "northeast": "39.67866,-104.785431",
+    "regiontype": 6,
+    "regionid": 4592,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Federal Heights, Colorado",
+    "southwest": "39.849043,-105.025115",
+    "northeast": "39.885251,-104.996533",
+    "regiontype": 6,
+    "regionid": 52003,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Golden, Colorado",
+    "southwest": "39.699808,-105.24196",
+    "northeast": "39.80947,-105.161859",
+    "regiontype": 6,
+    "regionid": 45470,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Greenwood Village, Colorado",
+    "southwest": "39.587586,-104.980636",
+    "northeast": "39.646133,-104.847943",
+    "regiontype": 6,
+    "regionid": 38807,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Littleton, Colorado",
+    "southwest": "39.470238,-105.124097",
+    "northeast": "39.629955,-104.972789",
+    "regiontype": 6,
+    "regionid": 19055,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Northglenn, Colorado",
+    "southwest": "39.867812,-105.015842",
+    "northeast": "40.014327,-104.942315",
+    "regiontype": 6,
+    "regionid": 26213,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Parker, Colorado",
+    "southwest": "39.412833,-104.86773",
+    "northeast": "39.580187,-104.549744",
+    "regiontype": 6,
+    "regionid": 33334,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Wheat Ridge, Colorado",
+    "southwest": "39.754715,-105.143407",
+    "northeast": "39.793398,-105.059348",
+    "regiontype": 6,
+    "regionid": 50547,
+    "regiontype_name": "city",
+    "msa": "Denver-Aurora-Lakewood, CO MSA"
+  },
+  {
+    "region": "Charlotte, South Carolina",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Concord, South Carolina",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Rock Hill, South Carolina",
+    "southwest": "34.806933,-81.191341",
+    "northeast": "35.034088,-80.865038",
+    "regiontype": 6,
+    "regionid": 13554,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Huntersville, North Carolina",
+    "southwest": "35.342866,-80.986364",
+    "northeast": "35.475338,-80.740791",
+    "regiontype": 6,
+    "regionid": 5239,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Kannapolis, North Carolina",
+    "southwest": "35.43695,-80.737619",
+    "northeast": "35.547728,-80.510881",
+    "regiontype": 6,
+    "regionid": 32262,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Hickory, North Carolina",
+    "southwest": "35.61386,-81.505847",
+    "northeast": "35.814043,-81.226385",
+    "regiontype": 6,
+    "regionid": 25108,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Indian Trail, North Carolina",
+    "southwest": "35.01717,-80.726896",
+    "northeast": "35.132731,-80.576789",
+    "regiontype": 6,
+    "regionid": 43646,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Mooresville, North Carolina",
+    "southwest": "35.485978,-80.964078",
+    "northeast": "35.670738,-80.676081",
+    "regiontype": 6,
+    "regionid": 46604,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Monroe, North Carolina",
+    "southwest": "34.944379,-80.647943",
+    "northeast": "35.086621,-80.475248",
+    "regiontype": 6,
+    "regionid": 53381,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Salisbury, North Carolina",
+    "southwest": "35.511628,-80.652893",
+    "northeast": "35.786244,-80.241219",
+    "regiontype": 6,
+    "regionid": 20323,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Matthews, North Carolina",
+    "southwest": "35.080975,-80.763453",
+    "northeast": "35.173344,-80.654168",
+    "regiontype": 6,
+    "regionid": 12614,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Cornelius, North Carolina",
+    "southwest": "35.439268,-80.951746",
+    "northeast": "35.514825,-80.828874",
+    "regiontype": 6,
+    "regionid": 51550,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Mint Hill, North Carolina",
+    "southwest": "35.130218,-80.713175",
+    "northeast": "35.224089,-80.591403",
+    "regiontype": 6,
+    "regionid": 53352,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Statesville, North Carolina",
+    "southwest": "35.568003,-81.09043",
+    "northeast": "36.025618,-80.702469",
+    "regiontype": 6,
+    "regionid": 41054,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Shelby, North Carolina",
+    "southwest": "35.171691,-81.715842",
+    "northeast": "35.323236,-81.456263",
+    "regiontype": 6,
+    "regionid": 54387,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Fort Mill, South Carolina",
+    "southwest": "34.897044,-81.036802",
+    "northeast": "35.107409,-80.788518",
+    "regiontype": 6,
+    "regionid": 31612,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Albemarle, North Carolina",
+    "southwest": "35.236183,-80.367957",
+    "northeast": "35.44408,-80.053458",
+    "regiontype": 6,
+    "regionid": 16704,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Harrisburg, North Carolina",
+    "southwest": "35.248604,-80.693697",
+    "northeast": "35.347789,-80.593502",
+    "regiontype": 6,
+    "regionid": 56048,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Stallings, North Carolina",
+    "southwest": "35.058198,-80.736755",
+    "northeast": "35.147411,-80.602133",
+    "regiontype": 6,
+    "regionid": 27238,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Mount Holly, North Carolina",
+    "southwest": "35.257209,-81.117894",
+    "northeast": "35.387936,-80.922882",
+    "regiontype": 6,
+    "regionid": 26009,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Waxhaw, North Carolina",
+    "southwest": "34.818217,-80.797486",
+    "northeast": "34.975949,-80.62574",
+    "regiontype": 6,
+    "regionid": 22819,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Newton, North Carolina",
+    "southwest": "35.578094,-81.388246",
+    "northeast": "35.704047,-81.090364",
+    "regiontype": 6,
+    "regionid": 33112,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Davidson, North Carolina",
+    "southwest": "35.440735,-80.87237",
+    "northeast": "35.526639,-80.710788",
+    "regiontype": 6,
+    "regionid": 11048,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Belmont, North Carolina",
+    "southwest": "35.147978,-81.083967",
+    "northeast": "35.287175,-81.001958",
+    "regiontype": 6,
+    "regionid": 23664,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Kings Mountain, North Carolina",
+    "southwest": "35.162918,-81.474009",
+    "northeast": "35.349125,-81.304323",
+    "regiontype": 6,
+    "regionid": 12202,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Lincolnton, North Carolina",
+    "southwest": "35.447178,-81.284045",
+    "northeast": "35.524315,-81.203101",
+    "regiontype": 6,
+    "regionid": 12391,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Weddington, North Carolina",
+    "southwest": "34.981485,-80.789722",
+    "northeast": "35.060065,-80.688315",
+    "regiontype": 6,
+    "regionid": 22847,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Tega Cay, South Carolina",
+    "southwest": "35.018852,-81.039288",
+    "northeast": "35.059129,-80.98517",
+    "regiontype": 6,
+    "regionid": 29454,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Lancaster, South Carolina",
+    "southwest": "34.473039,-80.904035",
+    "northeast": "34.945567,-80.45192",
+    "regiontype": 6,
+    "regionid": 25496,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Wesley Chapel, North Carolina",
+    "southwest": "34.963678,-80.742073",
+    "northeast": "35.041631,-80.643538",
+    "regiontype": 6,
+    "regionid": 29556,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Pineville, North Carolina",
+    "southwest": "35.053482,-80.919947",
+    "northeast": "35.109216,-80.853949",
+    "regiontype": 6,
+    "regionid": 47121,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Conover, North Carolina",
+    "southwest": "35.687789,-81.265686",
+    "northeast": "35.754828,-81.161268",
+    "regiontype": 6,
+    "regionid": 51528,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "York, South Carolina",
+    "southwest": "34.883749,-81.377559",
+    "northeast": "35.117376,-81.037536",
+    "regiontype": 6,
+    "regionid": 29470,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Unionville, North Carolina",
+    "southwest": "35.022275,-80.57837",
+    "northeast": "35.121592,-80.454345",
+    "regiontype": 6,
+    "regionid": 396622,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Marvin, North Carolina",
+    "southwest": "34.950548,-80.840302",
+    "northeast": "35.022566,-80.765107",
+    "regiontype": 6,
+    "regionid": 35940,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Cherryville, North Carolina",
+    "southwest": "35.300336,-81.478119",
+    "northeast": "35.488852,-81.296022",
+    "regiontype": 6,
+    "regionid": 10801,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Clover, South Carolina",
+    "southwest": "34.982929,-81.390006",
+    "northeast": "35.164568,-81.032469",
+    "regiontype": 6,
+    "regionid": 4140,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Wadesboro, North Carolina",
+    "southwest": "34.820119,-80.205548",
+    "northeast": "35.068071,-79.966525",
+    "regiontype": 6,
+    "regionid": 56678,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Bessemer City, North Carolina",
+    "southwest": "35.232427,-81.365866",
+    "northeast": "35.392759,-81.222774",
+    "regiontype": 6,
+    "regionid": 30441,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Chester, South Carolina",
+    "southwest": "34.690789,-81.23528",
+    "northeast": "34.719385,-81.190792",
+    "regiontype": 6,
+    "regionid": 4077,
+    "regiontype_name": "city",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC MSA"
+  },
+  {
+    "region": "Orlando, Florida",
+    "southwest": "28.346361,-81.508888",
+    "northeast": "28.614351,-80.965892",
+    "regiontype": 6,
+    "regionid": 13121,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Kissimmee, Florida",
+    "southwest": "28.081578,-81.544338",
+    "northeast": "28.348126,-81.238256",
+    "regiontype": 6,
+    "regionid": 18847,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Daytona Beach, Florida",
+    "southwest": "29.127476,-81.210309",
+    "northeast": "29.293057,-80.982909",
+    "regiontype": 6,
+    "regionid": 17718,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Sanford, Florida",
+    "southwest": "28.707412,-81.420549",
+    "northeast": "28.87667,-81.135686",
+    "regiontype": 6,
+    "regionid": 33865,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Alafaya, Florida",
+    "southwest": "28.451472,-81.244416",
+    "northeast": "28.568668,-81.108273",
+    "regiontype": 8,
+    "regionid": 15046,
+    "regiontype_name": "neighborhood",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Altamonte Springs, Florida",
+    "southwest": "28.640065,-81.450164",
+    "northeast": "28.690577,-81.343279",
+    "regiontype": 6,
+    "regionid": 50704,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Apopka, Florida",
+    "southwest": "28.595716,-81.634281",
+    "northeast": "28.786089,-81.42237",
+    "regiontype": 6,
+    "regionid": 50741,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Azalea Park, Florida",
+    "southwest": "28.51588,-81.310889",
+    "northeast": "28.568178,-81.285389",
+    "regiontype": 8,
+    "regionid": 23566,
+    "regiontype_name": "neighborhood",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Buenaventura Lakes, Florida",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Casselberry, Florida",
+    "southwest": "28.625081,-81.405333",
+    "northeast": "28.698043,-81.278549",
+    "regiontype": 6,
+    "regionid": 51302,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Clermont, Florida",
+    "southwest": "28.453976,-81.84232",
+    "northeast": "28.595256,-81.65728",
+    "regiontype": 6,
+    "regionid": 17472,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Conway, Florida",
+    "southwest": "28.480381,-81.35169",
+    "northeast": "28.51468,-81.310186",
+    "regiontype": 6,
+    "regionid": 396842,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Debary, Florida",
+    "southwest": "28.83453,-81.38596",
+    "northeast": "28.939717,-81.275732",
+    "regiontype": 6,
+    "regionid": 11057,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "DeLand, Florida",
+    "southwest": "28.946032,-81.506403",
+    "northeast": "29.17499,-81.175811",
+    "regiontype": 6,
+    "regionid": 11076,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Deltona, Florida",
+    "southwest": "28.845409,-81.285858",
+    "northeast": "28.976425,-81.143895",
+    "regiontype": 6,
+    "regionid": 24359,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Doctor Phillips, Florida",
+    "southwest": "28.420784,-81.507593",
+    "northeast": "28.474476,-81.474893",
+    "regiontype": 6,
+    "regionid": 124185,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Eustis, Florida",
+    "southwest": "28.820221,-81.728845",
+    "northeast": "29.017077,-81.343081",
+    "regiontype": 6,
+    "regionid": 4621,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Fairview Shores, Florida",
+    "southwest": "28.582082,-81.424265",
+    "northeast": "28.617777,-81.369091",
+    "regiontype": 6,
+    "regionid": 124342,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Four Corners, Florida",
+    "southwest": "28.23255,-81.709125",
+    "northeast": "28.434787,-81.586984",
+    "regiontype": 6,
+    "regionid": 395474,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Goldenrod, Florida",
+    "southwest": "28.596977,-81.309609",
+    "northeast": "28.625487,-81.275585",
+    "regiontype": 8,
+    "regionid": 29651,
+    "regiontype_name": "neighborhood",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Horizon West, Florida",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Hunter's Creek, Florida",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Lady Lake, Florida",
+    "southwest": "28.886593,-81.97836",
+    "northeast": "28.960322,-81.832726",
+    "regiontype": 6,
+    "regionid": 5474,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Lake Butler, Orange County, Florida",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Lake Mary, Florida",
+    "southwest": "28.719622,-81.416801",
+    "northeast": "28.795605,-81.296693",
+    "regiontype": 6,
+    "regionid": 32390,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Leesburg, Florida",
+    "southwest": "28.64389,-81.954617",
+    "northeast": "28.846849,-81.771161",
+    "regiontype": 6,
+    "regionid": 28595,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Lockhart, Florida",
+    "southwest": "28.610077,-81.454575",
+    "northeast": "28.640751,-81.414791",
+    "regiontype": 6,
+    "regionid": 19063,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Longwood, Florida",
+    "southwest": "28.677072,-81.459631",
+    "northeast": "28.78547,-81.30586",
+    "regiontype": 6,
+    "regionid": 25646,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Maitland, Florida",
+    "southwest": "28.610377,-81.410639",
+    "northeast": "28.640541,-81.328261",
+    "regiontype": 6,
+    "regionid": 53115,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Meadow Woods, Florida",
+    "southwest": "28.347886,-81.385191",
+    "northeast": "28.400284,-81.31089",
+    "regiontype": 8,
+    "regionid": 125257,
+    "regiontype_name": "neighborhood",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Mount Dora, Florida",
+    "southwest": "28.65892,-81.703682",
+    "northeast": "28.851823,-81.576781",
+    "regiontype": 6,
+    "regionid": 6067,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Oak Ridge, Florida",
+    "southwest": "28.450083,-81.440288",
+    "northeast": "28.486981,-81.396689",
+    "regiontype": 6,
+    "regionid": 125507,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Ocoee, Florida",
+    "southwest": "28.519053,-81.574254",
+    "northeast": "28.621695,-81.496325",
+    "regiontype": 6,
+    "regionid": 22517,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Orange City, Florida",
+    "southwest": "28.897168,-81.361721",
+    "northeast": "28.983864,-81.255414",
+    "regiontype": 6,
+    "regionid": 6333,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Oviedo, Florida",
+    "southwest": "28.601148,-81.27907",
+    "northeast": "28.742896,-80.986868",
+    "regiontype": 6,
+    "regionid": 6365,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Palm Coast, Florida",
+    "southwest": "29.413788,-81.316279",
+    "northeast": "29.673956,-81.143209",
+    "regiontype": 6,
+    "regionid": 26366,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Pine Castle, Florida",
+    "southwest": "28.450583,-81.387791",
+    "northeast": "28.48357,-81.359291",
+    "regiontype": 6,
+    "regionid": 47102,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Pine Hills, Florida",
+    "southwest": "28.552379,-81.477592",
+    "northeast": "28.613777,-81.434192",
+    "regiontype": 6,
+    "regionid": 6507,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Poinciana, Florida",
+    "southwest": "28.085095,-81.551336",
+    "northeast": "28.26359,-81.375475",
+    "regiontype": 6,
+    "regionid": 40387,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "St. Cloud, Florida",
+    "southwest": "27.95528,-81.398562",
+    "northeast": "28.372084,-80.817346",
+    "regiontype": 6,
+    "regionid": 13653,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Southchase, Florida",
+    "southwest": "28.368054,-81.391391",
+    "northeast": "28.407684,-81.372791",
+    "regiontype": 8,
+    "regionid": 126242,
+    "regiontype_name": "neighborhood",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Tavares, Florida",
+    "southwest": "28.725107,-81.803375",
+    "northeast": "28.852565,-81.644648",
+    "regiontype": 6,
+    "regionid": 47954,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Titusville, Florida",
+    "southwest": "28.452789,-80.946444",
+    "northeast": "28.666252,-80.749768",
+    "regiontype": 6,
+    "regionid": 7433,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "University, Orange County, Florida",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Wekiva Springs, Florida",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Winter Garden, Florida",
+    "southwest": "28.492421,-81.65755",
+    "northeast": "28.595143,-81.55646",
+    "regiontype": 6,
+    "regionid": 27991,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Winter Park, Florida",
+    "southwest": "28.567844,-81.389855",
+    "northeast": "28.642365,-81.266055",
+    "regiontype": 6,
+    "regionid": 34884,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "Winter Springs, Florida",
+    "southwest": "28.641145,-81.327004",
+    "northeast": "28.719789,-81.208824",
+    "regiontype": 6,
+    "regionid": 34885,
+    "regiontype_name": "city",
+    "msa": "Orlando-Kissimmee-Sanford, FL MSA"
+  },
+  {
+    "region": "San Francisco County",
+    "southwest": "37.693065,-123.108027",
+    "northeast": "37.863426,-122.327905",
+    "regiontype": 4,
+    "regionid": 3227,
+    "regiontype_name": "county",
+    "msa": "San Francisco-Oakland-Hayward, CA MSA"
+  },
+  {
+    "region": "Oakland, California",
+    "southwest": "37.699279,-122.342648",
+    "northeast": "37.884725,-122.114933",
+    "regiontype": 6,
+    "regionid": 13072,
+    "regiontype_name": "city",
+    "msa": "San Francisco-Oakland-Hayward, CA MSA"
+  },
+  {
+    "region": "Hayward, California",
+    "southwest": "37.545834,-122.219137",
+    "northeast": "37.69593,-121.922069",
+    "regiontype": 6,
+    "regionid": 18518,
+    "regiontype_name": "city",
+    "msa": "San Francisco-Oakland-Hayward, CA MSA"
+  },
+  {
+    "region": "San Antonio",
+    "southwest": "29.122506,-98.886577",
+    "northeast": "29.749,-98.250031",
+    "regiontype": 6,
+    "regionid": 6915,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "New Braunfels, Texas",
+    "southwest": "29.587451,-98.347286",
+    "northeast": "29.912843,-97.99927",
+    "regiontype": 6,
+    "regionid": 39966,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Schertz, Texas",
+    "southwest": "29.471796,-98.306533",
+    "northeast": "29.637895,-98.195543",
+    "regiontype": 6,
+    "regionid": 237555,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Seguin, Texas",
+    "southwest": "29.377237,-98.137704",
+    "northeast": "29.765462,-97.739638",
+    "regiontype": 6,
+    "regionid": 20414,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Boerne, Texas",
+    "southwest": "29.654423,-98.918661",
+    "northeast": "30.089855,-98.548634",
+    "regiontype": 6,
+    "regionid": 8154,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Canyon Lake, Texas",
+    "southwest": "29.806811,-98.36831",
+    "northeast": "29.976805,-98.151748",
+    "regiontype": 6,
+    "regionid": 3964,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Cibolo, Texas",
+    "southwest": "29.498054,-98.267692",
+    "northeast": "29.64361,-98.170795",
+    "regiontype": 6,
+    "regionid": 51410,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Converse, Texas",
+    "southwest": "29.444676,-98.352939",
+    "northeast": "29.538635,-98.223067",
+    "regiontype": 6,
+    "regionid": 44738,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Leon Valley, Texas",
+    "southwest": "29.476636,-98.632112",
+    "northeast": "29.515645,-98.586099",
+    "regiontype": 6,
+    "regionid": 5610,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Live Oak, Texas",
+    "southwest": "29.530446,-98.361305",
+    "northeast": "29.580214,-98.318264",
+    "regiontype": 6,
+    "regionid": 32539,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Pleasanton, Texas",
+    "southwest": "28.751703,-98.561315",
+    "northeast": "29.14065,-98.280555",
+    "regiontype": 6,
+    "regionid": 19991,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Selma, Texas",
+    "southwest": "29.560723,-98.342139",
+    "northeast": "29.607614,-98.284546",
+    "regiontype": 6,
+    "regionid": 22717,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Timberwood Park, Texas",
+    "southwest": "29.651396,-98.522556",
+    "northeast": "29.742856,-98.442692",
+    "regiontype": 6,
+    "regionid": 238329,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Universal City, Texas",
+    "southwest": "29.5259,-98.334161",
+    "northeast": "29.58247,-98.272923",
+    "regiontype": 6,
+    "regionid": 20894,
+    "regiontype_name": "city",
+    "msa": "San Antonio-New Braunfels, TX MSA"
+  },
+  {
+    "region": "Portland, Oregon",
+    "southwest": "45.432393,-122.878128",
+    "northeast": "45.654424,-122.471849",
+    "regiontype": 6,
+    "regionid": 13373,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Vancouver, Washington",
+    "southwest": "45.58265,-122.77451",
+    "northeast": "45.707139,-122.463952",
+    "regiontype": 6,
+    "regionid": 48215,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Hillsboro, Oregon",
+    "southwest": "45.332511,-123.091842",
+    "northeast": "45.655487,-122.859193",
+    "regiontype": 6,
+    "regionid": 11914,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Gresham, Oregon",
+    "southwest": "45.459156,-122.496755",
+    "northeast": "45.527898,-122.2814",
+    "regiontype": 6,
+    "regionid": 24967,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Beaverton, Oregon",
+    "southwest": "45.426265,-122.902126",
+    "northeast": "45.543015,-122.743407",
+    "regiontype": 6,
+    "regionid": 30381,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Amity, Oregon",
+    "southwest": "45.03213,-123.372713",
+    "northeast": "45.183144,-123.092097",
+    "regiontype": 6,
+    "regionid": 48638,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Battle Ground, Washington",
+    "southwest": "45.734857,-122.625483",
+    "northeast": "45.881211,-122.337597",
+    "regiontype": 6,
+    "regionid": 50889,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Banks, Oregon",
+    "southwest": "45.592759,-123.240536",
+    "northeast": "45.754453,-123.028505",
+    "regiontype": 6,
+    "regionid": 3531,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Barlow, Oregon",
+    "southwest": "45.249896,-122.727478",
+    "northeast": "45.254194,-122.716569",
+    "regiontype": 6,
+    "regionid": 50859,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Camas, Washington",
+    "southwest": "45.563585,-122.478096",
+    "northeast": "45.749464,-122.235825",
+    "regiontype": 6,
+    "regionid": 44411,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Canby, Oregon",
+    "southwest": "45.248279,-122.714507",
+    "northeast": "45.29413,-122.665303",
+    "regiontype": 6,
+    "regionid": 3955,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Carlton, Oregon",
+    "southwest": "45.236976,-123.409194",
+    "northeast": "45.341491,-123.077289",
+    "regiontype": 6,
+    "regionid": 30762,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Clatskanie, Oregon",
+    "southwest": "45.883352,-123.569175",
+    "northeast": "46.212948,-123.043489",
+    "regiontype": 6,
+    "regionid": 24095,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Columbia City, Oregon",
+    "southwest": "45.879345,-122.823632",
+    "northeast": "45.909665,-122.795268",
+    "regiontype": 6,
+    "regionid": 36861,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Cornelius, Oregon",
+    "southwest": "45.436006,-123.093863",
+    "northeast": "45.612262,-122.988174",
+    "regiontype": 6,
+    "regionid": 17582,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Dayton, Oregon",
+    "southwest": "45.090123,-123.157931",
+    "northeast": "45.288846,-122.962299",
+    "regiontype": 6,
+    "regionid": 51669,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Dundee, Oregon",
+    "southwest": "45.229018,-123.08998",
+    "northeast": "45.320558,-122.974567",
+    "regiontype": 6,
+    "regionid": 24449,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Durham, Oregon",
+    "southwest": "45.385441,-122.765007",
+    "northeast": "45.40254,-122.751079",
+    "regiontype": 6,
+    "regionid": 51771,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Estacada, Oregon",
+    "southwest": "44.989891,-122.436392",
+    "northeast": "45.343842,-121.936208",
+    "regiontype": 6,
+    "regionid": 24619,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Fairview, Oregon",
+    "southwest": "45.526925,-122.459915",
+    "northeast": "45.566657,-122.417692",
+    "regiontype": 6,
+    "regionid": 8638,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Forest Grove, Oregon",
+    "southwest": "45.474208,-123.322464",
+    "northeast": "45.743678,-123.066282",
+    "regiontype": 6,
+    "regionid": 15449,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Gaston, Oregon",
+    "southwest": "45.371494,-123.438412",
+    "northeast": "45.616769,-123.062887",
+    "regiontype": 6,
+    "regionid": 42235,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Gladstone, Oregon",
+    "southwest": "45.372342,-122.619277",
+    "northeast": "45.404032,-122.571078",
+    "regiontype": 6,
+    "regionid": 45444,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Happy Valley, Oregon",
+    "southwest": "45.424316,-122.582587",
+    "northeast": "45.462063,-122.478277",
+    "regiontype": 6,
+    "regionid": 31937,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Johnson City, Oregon",
+    "southwest": "45.401524,-122.582908",
+    "northeast": "45.406508,-122.576375",
+    "regiontype": 6,
+    "regionid": 29665,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "King City, Oregon",
+    "southwest": "45.389313,-122.818531",
+    "northeast": "45.411484,-122.793802",
+    "regiontype": 6,
+    "regionid": 5428,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "La Center, Washington",
+    "southwest": "45.815729,-122.721636",
+    "northeast": "45.933092,-122.511552",
+    "regiontype": 6,
+    "regionid": 12231,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Lafayette, Oregon",
+    "southwest": "45.236286,-123.122521",
+    "northeast": "45.253742,-123.099721",
+    "regiontype": 6,
+    "regionid": 25456,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Lake Oswego, Oregon",
+    "southwest": "45.381084,-122.750515",
+    "northeast": "45.440282,-122.636703",
+    "regiontype": 6,
+    "regionid": 5504,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Maywood Park, Oregon",
+    "southwest": "45.54645,-122.56824",
+    "northeast": "45.55679,-122.55775",
+    "regiontype": 6,
+    "regionid": 53210,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "McMinnville, Oregon",
+    "southwest": "45.075056,-123.416559",
+    "northeast": "45.289171,-123.118532",
+    "regiontype": 6,
+    "regionid": 32789,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Milwaukie, Oregon",
+    "southwest": "45.424491,-122.652075",
+    "northeast": "45.461644,-122.588643",
+    "regiontype": 6,
+    "regionid": 12751,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Molalla, Oregon",
+    "southwest": "44.908733,-122.707672",
+    "northeast": "45.201432,-122.379157",
+    "regiontype": 6,
+    "regionid": 6004,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Newberg, Oregon",
+    "southwest": "45.251947,-123.139623",
+    "northeast": "45.382537,-122.848225",
+    "regiontype": 6,
+    "regionid": 46734,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "North Bonneville, Washington",
+    "southwest": "45.626584,-122.001193",
+    "northeast": "45.657353,-121.914999",
+    "regiontype": 6,
+    "regionid": 49686,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "North Plains, Oregon",
+    "southwest": "45.579887,-123.149434",
+    "northeast": "45.807379,-122.901879",
+    "regiontype": 6,
+    "regionid": 49691,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Oregon City, Oregon",
+    "southwest": "45.235049,-122.66629",
+    "northeast": "45.409603,-122.381106",
+    "regiontype": 6,
+    "regionid": 9662,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Prescott, Oregon",
+    "southwest": "46.045979,-122.890961",
+    "northeast": "46.050979,-122.885417",
+    "regiontype": 6,
+    "regionid": 207389,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Rainier, Oregon",
+    "southwest": "45.907587,-123.112564",
+    "northeast": "46.163368,-122.838571",
+    "regiontype": 6,
+    "regionid": 23256,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Ridgefield, Washington",
+    "southwest": "45.724367,-122.795963",
+    "northeast": "45.873346,-122.599592",
+    "regiontype": 6,
+    "regionid": 6760,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Rivergrove, Oregon",
+    "southwest": "45.382614,-122.751207",
+    "northeast": "45.388241,-122.720252",
+    "regiontype": 6,
+    "regionid": 207427,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "St. Helens, Oregon",
+    "southwest": "45.808327,-123.069796",
+    "northeast": "45.938565,-122.785025",
+    "regiontype": 6,
+    "regionid": 50247,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Sandy, Oregon",
+    "southwest": "45.258148,-122.338992",
+    "northeast": "45.496252,-121.985692",
+    "regiontype": 6,
+    "regionid": 43010,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Scappoose, Oregon",
+    "southwest": "45.693235,-123.144777",
+    "northeast": "45.949721,-122.788816",
+    "regiontype": 6,
+    "regionid": 56628,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Sheridan, Oregon",
+    "southwest": "44.911708,-123.62534",
+    "northeast": "45.248229,-123.317137",
+    "regiontype": 6,
+    "regionid": 27077,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Sherwood, Oregon",
+    "southwest": "45.284667,-122.949896",
+    "northeast": "45.426376,-122.783633",
+    "regiontype": 6,
+    "regionid": 7053,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Stevenson, Washington",
+    "southwest": "45.681013,-121.918756",
+    "northeast": "45.707889,-121.86941",
+    "regiontype": 6,
+    "regionid": 34140,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Tigard, Oregon",
+    "southwest": "45.393471,-122.846642",
+    "northeast": "45.456178,-122.743596",
+    "regiontype": 6,
+    "regionid": 14138,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Troutdale, Oregon",
+    "southwest": "45.461337,-122.430956",
+    "northeast": "45.575941,-122.272336",
+    "regiontype": 6,
+    "regionid": 43253,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Tualatin, Oregon",
+    "southwest": "45.33184,-122.818158",
+    "northeast": "45.398718,-122.702145",
+    "regiontype": 6,
+    "regionid": 54754,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Vernonia, Oregon",
+    "southwest": "45.754829,-123.434871",
+    "northeast": "46.01624,-123.090946",
+    "regiontype": 6,
+    "regionid": 9310,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Washougal, Washington",
+    "southwest": "45.543542,-122.386439",
+    "northeast": "45.779971,-122.079068",
+    "regiontype": 6,
+    "regionid": 43207,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "West Linn, Oregon",
+    "southwest": "45.283329,-122.722788",
+    "northeast": "45.398329,-122.602789",
+    "regiontype": 6,
+    "regionid": 34749,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Willamina, Oregon",
+    "southwest": "44.970352,-123.630192",
+    "northeast": "45.362441,-123.383072",
+    "regiontype": 6,
+    "regionid": 21304,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Wilsonville, Oregon",
+    "southwest": "45.259584,-122.868112",
+    "northeast": "45.357282,-122.692782",
+    "regiontype": 6,
+    "regionid": 48521,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Wood Village, Oregon",
+    "southwest": "45.527715,-122.433692",
+    "northeast": "45.54796,-122.407596",
+    "regiontype": 6,
+    "regionid": 43776,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Woodland, Washington",
+    "southwest": "45.847087,-122.804492",
+    "northeast": "46.030227,-122.431349",
+    "regiontype": 6,
+    "regionid": 29446,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Yacolt, Washington",
+    "southwest": "45.690939,-122.520082",
+    "northeast": "45.945542,-122.146588",
+    "regiontype": 6,
+    "regionid": 21404,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Yamhill, Oregon",
+    "southwest": "45.288065,-123.46377",
+    "northeast": "45.477493,-123.107294",
+    "regiontype": 6,
+    "regionid": 28041,
+    "regiontype_name": "city",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA MSA"
+  },
+  {
+    "region": "Sacramento, California",
+    "southwest": "38.437574,-121.56012",
+    "northeast": "38.706312,-121.297542",
+    "regiontype": 6,
+    "regionid": 20288,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Elk Grove, California",
+    "southwest": "38.25964,-121.510558",
+    "northeast": "38.505559,-121.18812",
+    "regiontype": 6,
+    "regionid": 17950,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Roseville, California",
+    "southwest": "38.716561,-121.447825",
+    "northeast": "38.846291,-121.217838",
+    "regiontype": 6,
+    "regionid": 13594,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Citrus Heights, California",
+    "southwest": "38.663536,-121.332984",
+    "northeast": "38.723406,-121.242795",
+    "regiontype": 6,
+    "regionid": 51414,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Davis, California",
+    "southwest": "38.534878,-121.794273",
+    "northeast": "38.578756,-121.676069",
+    "regiontype": 6,
+    "regionid": 51659,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Folsom, California",
+    "southwest": "38.614612,-121.210142",
+    "northeast": "38.717117,-121.082172",
+    "regiontype": 6,
+    "regionid": 11462,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Rancho Cordova, California",
+    "southwest": "38.499882,-121.336485",
+    "northeast": "38.640097,-121.071123",
+    "regiontype": 6,
+    "regionid": 26679,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Rocklin, California",
+    "southwest": "38.770238,-121.331244",
+    "northeast": "38.84884,-121.192076",
+    "regiontype": 6,
+    "regionid": 6809,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Woodland, California",
+    "southwest": "38.551727,-122.008213",
+    "northeast": "38.903695,-121.629201",
+    "regiontype": 6,
+    "regionid": 48569,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Yuba City, California",
+    "southwest": "38.896893,-121.80261",
+    "northeast": "39.20523,-121.576818",
+    "regiontype": 6,
+    "regionid": 34940,
+    "regiontype_name": "city",
+    "msa": "Sacramento–Roseville–Arden-Arcade, CA MSA"
+  },
+  {
+    "region": "Cincinnati, Ohio",
+    "southwest": "39.012625,-84.712047",
+    "northeast": "39.220758,-84.244987",
+    "regiontype": 6,
+    "regionid": 4099,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Hamilton, Ohio",
+    "southwest": "39.304655,-84.761367",
+    "northeast": "39.557071,-84.400965",
+    "regiontype": 6,
+    "regionid": 11786,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Middletown, Ohio",
+    "southwest": "39.459857,-84.554489",
+    "northeast": "39.591023,-84.292514",
+    "regiontype": 6,
+    "regionid": 53304,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Fairfield, Ohio",
+    "southwest": "39.301563,-84.655985",
+    "northeast": "39.372485,-84.466016",
+    "regiontype": 6,
+    "regionid": 45221,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Covington, Kentucky",
+    "southwest": "38.964556,-84.554788",
+    "northeast": "39.097747,-84.479709",
+    "regiontype": 6,
+    "regionid": 4232,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Mason, Ohio",
+    "southwest": "39.292287,-84.353208",
+    "northeast": "39.412423,-84.248673",
+    "regiontype": 6,
+    "regionid": 5834,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Florence, Kentucky",
+    "southwest": "38.93167,-84.708255",
+    "northeast": "39.0415,-84.604357",
+    "regiontype": 6,
+    "regionid": 18124,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Independence, Kentucky",
+    "southwest": "38.914548,-84.611756",
+    "northeast": "38.980707,-84.473113",
+    "regiontype": 6,
+    "regionid": 18679,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Oxford, Ohio",
+    "southwest": "39.39131,-84.817409",
+    "northeast": "39.575996,-84.609288",
+    "regiontype": 6,
+    "regionid": 33291,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Lebanon, Ohio",
+    "southwest": "39.364386,-84.341405",
+    "northeast": "39.536818,-84.111116",
+    "regiontype": 6,
+    "regionid": 5586,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Norwood, Ohio",
+    "southwest": "39.1448,-84.473768",
+    "northeast": "39.178227,-84.434598",
+    "regiontype": 6,
+    "regionid": 19698,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Forest Park, Ohio",
+    "southwest": "39.266155,-84.564422",
+    "northeast": "39.304835,-84.485655",
+    "regiontype": 6,
+    "regionid": 52056,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Erlanger, Kentucky",
+    "southwest": "38.973124,-84.622023",
+    "northeast": "39.062299,-84.532609",
+    "regiontype": 6,
+    "regionid": 4603,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Springboro, Ohio",
+    "southwest": "39.491009,-84.276662",
+    "northeast": "39.588725,-84.155975",
+    "regiontype": 6,
+    "regionid": 22553,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Fort Thomas, Kentucky",
+    "southwest": "39.048899,-84.474328",
+    "northeast": "39.111334,-84.429343",
+    "regiontype": 6,
+    "regionid": 52081,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Newport, Kentucky",
+    "southwest": "39.065174,-84.506105",
+    "northeast": "39.103948,-84.461138",
+    "regiontype": 6,
+    "regionid": 12976,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Sharonville, Ohio",
+    "southwest": "39.254478,-84.44961",
+    "northeast": "39.303758,-84.35258",
+    "regiontype": 6,
+    "regionid": 20448,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Blue Ash, Ohio",
+    "southwest": "39.216821,-84.415241",
+    "northeast": "39.280559,-84.354659",
+    "regiontype": 6,
+    "regionid": 44208,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Wilmington, Ohio",
+    "southwest": "39.355639,-83.987005",
+    "northeast": "39.569169,-83.664713",
+    "regiontype": 6,
+    "regionid": 22624,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Loveland, Ohio",
+    "southwest": "39.196881,-84.324106",
+    "northeast": "39.320723,-84.15866",
+    "regiontype": 6,
+    "regionid": 5710,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Springdale, Ohio",
+    "southwest": "39.270237,-84.512773",
+    "northeast": "39.305957,-84.447217",
+    "regiontype": 6,
+    "regionid": 36194,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Maysville, Kentucky",
+    "southwest": "38.460479,-83.96852",
+    "northeast": "38.723113,-83.52462",
+    "regiontype": 6,
+    "regionid": 19251,
+    "regiontype_name": "city",
+    "msa": "Cincinnati, OH-KY-IN MSA"
+  },
+  {
+    "region": "Kansas City MO",
+    "southwest": "38.827176,-94.765916",
+    "northeast": "39.356662,-94.385521",
+    "regiontype": 6,
+    "regionid": 18795,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Overland Park, Kansas",
+    "southwest": "38.760301,-94.761044",
+    "northeast": "39.044073,-94.60767",
+    "regiontype": 6,
+    "regionid": 40202,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Kansas City, Kansas",
+    "southwest": "39.043559,-94.908464",
+    "northeast": "39.202911,-94.588386",
+    "regiontype": 6,
+    "regionid": 39191,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Olathe, Kansas",
+    "southwest": "38.781818,-95.015123",
+    "northeast": "38.957055,-94.714048",
+    "regiontype": 6,
+    "regionid": 33230,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Independence, Missouri",
+    "southwest": "39.017678,-94.481499",
+    "northeast": "39.139787,-94.215922",
+    "regiontype": 6,
+    "regionid": 12038,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Lee's Summit, Missouri",
+    "southwest": "38.824396,-94.471676",
+    "northeast": "39.026715,-94.303808",
+    "regiontype": 6,
+    "regionid": 39398,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Shawnee, Kansas",
+    "southwest": "38.970923,-94.909462",
+    "northeast": "39.061361,-94.705036",
+    "regiontype": 6,
+    "regionid": 7039,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Blue Springs, Missouri",
+    "southwest": "38.943728,-94.337106",
+    "northeast": "39.066243,-94.221198",
+    "regiontype": 6,
+    "regionid": 37464,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Lenexa, Kansas",
+    "southwest": "38.915035,-94.908962",
+    "northeast": "38.992992,-94.705003",
+    "regiontype": 6,
+    "regionid": 25550,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Leavenworth, Kansas",
+    "southwest": "39.172328,-95.133701",
+    "northeast": "39.41944,-94.862864",
+    "regiontype": 6,
+    "regionid": 32459,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Leawood, Kansas",
+    "southwest": "38.847336,-94.649237",
+    "northeast": "38.984216,-94.607868",
+    "regiontype": 6,
+    "regionid": 46194,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Liberty, Missouri",
+    "southwest": "39.175747,-94.479854",
+    "northeast": "39.295987,-94.371965",
+    "regiontype": 6,
+    "regionid": 5624,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Raytown, Missouri",
+    "southwest": "38.963647,-94.499177",
+    "northeast": "39.029681,-94.437635",
+    "regiontype": 6,
+    "regionid": 13453,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Gladstone, Missouri",
+    "southwest": "39.174028,-94.593391",
+    "northeast": "39.234602,-94.529892",
+    "regiontype": 6,
+    "regionid": 52216,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Grandview, Missouri",
+    "southwest": "38.841707,-94.56384",
+    "northeast": "38.910472,-94.488568",
+    "regiontype": 6,
+    "regionid": 18357,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Belton, Missouri",
+    "southwest": "38.783814,-94.591037",
+    "northeast": "38.8462,-94.49003",
+    "regiontype": 6,
+    "regionid": 44124,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Prairie Village, Kansas",
+    "southwest": "38.956764,-94.661285",
+    "northeast": "39.015402,-94.607863",
+    "regiontype": 6,
+    "regionid": 13385,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Gardner, Kansas",
+    "southwest": "38.738278,-95.019231",
+    "northeast": "38.884198,-94.853278",
+    "regiontype": 6,
+    "regionid": 11575,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Raymore, Missouri",
+    "southwest": "38.748087,-94.498593",
+    "northeast": "38.841713,-94.3998",
+    "regiontype": 6,
+    "regionid": 33599,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Grain Valley, Missouri",
+    "southwest": "38.987198,-94.233454",
+    "northeast": "39.065676,-94.160856",
+    "regiontype": 6,
+    "regionid": 4946,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Ottawa, Kansas",
+    "southwest": "38.50643,-95.416691",
+    "northeast": "38.738849,-95.121062",
+    "regiontype": 6,
+    "regionid": 33280,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Lansing, Kansas",
+    "southwest": "39.223123,-94.933072",
+    "northeast": "39.288803,-94.850556",
+    "regiontype": 6,
+    "regionid": 52891,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Excelsior Springs, Missouri",
+    "southwest": "39.31497,-94.290935",
+    "northeast": "39.37868,-94.192449",
+    "regiontype": 6,
+    "regionid": 24638,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  },
+  {
+    "region": "Merriam, Kansas",
+    "southwest": "38.992965,-94.705804",
+    "northeast": "39.044054,-94.676903",
+    "regiontype": 6,
+    "regionid": 25863,
+    "regiontype_name": "city",
+    "msa": "Kansas City, MO-KS MSA"
+  }
+]

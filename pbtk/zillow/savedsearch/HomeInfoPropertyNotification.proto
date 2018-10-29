@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package HomeInfoPropertyNotification;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "HomeInfoPropertyNotification";
+option java_package = "com.zillow.mobile.webservices.notification";
+
+message HomeInfoNotification {
+    optional string changeStatusDisplay = 1;
+    optional bool read = 2;
+}

@@ -1,0 +1,21 @@
+syntax = "proto2";
+
+package UpdateVideoResult;
+
+option objc_class_prefix = "ProtobufVideoData";
+option java_outer_classname = "UpdateVideoResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message VideoData {
+    optional int32 videoId = 1;
+    optional int32 externalId = 2;
+    optional int32 externalIdTypeId = 3;
+    optional bool autoApprove = 4;
+}
+
+message Result {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional VideoData videoData = 4;
+}

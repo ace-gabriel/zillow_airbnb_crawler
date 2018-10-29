@@ -1,0 +1,45 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdsg
+ * com.google.android.gms.internal.zzdsm
+ * com.google.android.gms.internal.zzdsc
+ * com.google.android.gms.internal.zzdsa
+ * com.google.android.gms.internal.zzdso
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdsq.proto";
+import "com/google/android/gms/internal/zzdtd.proto";
+
+message Zzdsg {
+    optional Zzdsm zzlut = 1;
+    message Zzdsm {
+        optional Zzdso zzlvc = 1;
+        enum Zzdso {
+            UNKNOWN_CURVE = 0;
+            NIST_P224 = 1;
+            NIST_P256 = 2;
+            NIST_P384 = 3;
+            NIST_P521 = 4;
+        }
+        
+        optional Zzdsq zzlvd = 2;
+        optional bytes zzlve = 11;
+    }
+    
+    optional Zzdsc zzluu = 2;
+    message Zzdsc {
+        optional Zzdtd zzlup = 2;
+    }
+    
+    optional Zzdsa zzluv = 3;
+    enum Zzdsa {
+        UNKNOWN_FORMAT = 0;
+        UNCOMPRESSED = 1;
+        COMPRESSED = 2;
+    }
+}

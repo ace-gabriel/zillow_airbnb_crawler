@@ -1,0 +1,17 @@
+syntax = "proto2";
+
+package ProfessionalUserActivity;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "ProfessionalUserActivity";
+option java_package = "com.zillow.mobile.webservices";
+
+message ProUserActivity {
+    optional int32 newReviewsCount = 1;
+    optional int32 totalReviewsCount = 2;
+    optional int32 unreadContactsCount = 3;
+    optional int32 totalContactsCount = 4;
+    optional int32 pendingPastSalesCount = 5;
+    optional int32 totalPastSalesCount = 6;
+    optional int32 totalListingsCount = 7;
+}

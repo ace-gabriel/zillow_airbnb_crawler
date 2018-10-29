@@ -1,0 +1,15 @@
+syntax = "proto2";
+
+package VrsJsonResponses;
+
+option java_outer_classname = "VrsJsonResponses";
+option java_package = "com.zillow.mobile.webservices";
+
+message VrsJsonResponse {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional int32 vrsResponseCode = 4;
+    optional string vrsJsonResponse = 5;
+    optional string vrsResponseHeaers = 6;
+}

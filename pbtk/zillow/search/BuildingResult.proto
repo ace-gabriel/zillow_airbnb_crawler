@@ -1,0 +1,43 @@
+syntax = "proto2";
+
+package SearchResults;
+
+import "search/GroupResult.proto";
+import "home-info/HomeInfo.proto";
+import "home-info/RentalInfo.proto";
+import "property-images/PropertyImageResults.proto";
+import "home-info/HomeFacts.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "BuildingResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message BuildingDetailsImageList {
+    repeated PropertyImageResults.Image images = 2;
+    optional PropertyImageResults.HighResImages highResImages = 3;
+}
+
+message BuildingDetails {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string streetAddress = 4;
+    optional string zipcode = 5;
+    optional string city = 6;
+    optional string state = 7;
+    optional double latitude = 8;
+    optional double longitude = 9;
+    optional string buildingName = 10;
+    optional BuildingDetailsImageList imageList = 11;
+    optional string description = 12;
+    repeated HomeFacts.Fact facts = 13;
+    optional int32 matchingHomeCount = 14;
+    optional int32 availableHomeCount = 15;
+    repeated HomeInfo.Home matchingHomes = 16;
+    repeated HomeInfo.Home availableHomes = 17;
+    optional int32 bestResultZpid = 18;
+    optional bool displayBAL = 19;
+    optional string contactPhone = 20;
+    optional string contactPhoneExtension = 21;
+    optional string bdpTemplateJsonString = 22;
+}

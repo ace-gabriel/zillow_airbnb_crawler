@@ -1,0 +1,33 @@
+syntax = "proto2";
+
+package VideoDetailsResults;
+
+import "PropertyImageResults.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "VideoDetailsResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message VideoDetailsResult {
+    repeated Video videos = 1;
+}
+
+message Video {
+    optional VideoStatusType status = 1;
+    enum VideoStatusType {
+        DRAFT = 0;
+        PUBLIC = 1;
+        PROCESSING = 2;
+        PRIVATE = 3;
+        DELETED = 4;
+        ERROR = 5;
+    }
+    
+    optional string hlsStreamUrl = 2;
+    optional PropertyImageResults.Image coverImage = 3;
+    optional string publisherName = 4;
+    optional string publisherImageUrl = 5;
+    optional int64 createDateTime = 6;
+    optional string videoIdEncoded = 7;
+    optional bool isVideoCreator = 8;
+}

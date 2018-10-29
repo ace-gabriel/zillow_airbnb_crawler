@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+package PageCount;
+
+option objc_class_prefix = "ProtobufPageCount";
+option java_outer_classname = "PageCount";
+option java_package = "com.zillow.mobile.webservices.pagecount";
+
+message Response {
+    required int32 api_version = 1;
+    required int32 response_code = 2;
+    optional string response_message = 3;
+}

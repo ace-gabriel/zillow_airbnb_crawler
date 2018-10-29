@@ -1,0 +1,30 @@
+syntax = "proto2";
+
+package VrTaskResults;
+
+option java_outer_classname = "VrTaskResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message VrTaskResult {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    repeated VrTask vrTask = 4;
+}
+
+message VrTask {
+    optional string vrTaskId = 1;
+    optional string vrModelId = 2;
+    optional string vrModelGuid = 3;
+    optional int32 taskTypeId = 4;
+    optional string entityId = 5;
+    optional int32 taskPriority = 6;
+    optional string taskHost = 7;
+    optional int32 taskStatusTypeId = 8;
+    optional int32 taskProgressPct = 9;
+    optional int32 taskEtaMins = 10;
+    optional string startDateTimeUtc = 11;
+    optional string endDateTimeUtc = 12;
+    optional string createDateTimeUtc = 13;
+    optional string lastUpdateDateTimeUtc = 14;
+}

@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package SavedSearchCounts;
+
+option objc_class_prefix = "ProtobufSavedSearch";
+option java_outer_classname = "SavedSearchCounts";
+option java_package = "com.zillow.mobile.webservices.notification";
+
+message Counts {
+    optional string identifier = 1;
+    optional int32 count = 2;
+}

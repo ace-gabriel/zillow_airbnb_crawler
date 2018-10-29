@@ -1,0 +1,140 @@
+syntax = "proto2";
+
+package RenterProfileResults;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "RenterProfileResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message RenterProfileResponse {
+    optional int32 apiVersion = 1;
+    optional int32 responseCode = 2;
+    optional string responseMessage = 3;
+    
+    optional GetRenterProfileResponse getRenterProfileResponse = 4;
+    message GetRenterProfileResponse {
+        optional RenterProfile renterProfile = 1;
+        message RenterProfile {
+            optional string userName = 1;
+            optional string phoneNumber = 2;
+            optional string selfDescription = 3;
+            optional int32 householdSize = 4;
+            optional CurrentHousingType currentHousingType = 5;
+            optional int64 currentHousingSinceDate = 6;
+            optional string currentHousingPostalCode = 7;
+            repeated DesiredHousingType desiredHousingTypes = 8;
+            optional string reasonToMove = 9;
+            optional string jobTitle = 10;
+            optional string employerDescription = 11;
+            optional int64 employedSinceDate = 12;
+            optional string pastEmployersDescription = 13;
+            optional CreditScoreType creditScoreType = 14;
+            optional int32 monthlyIncome = 15;
+            optional MoveInPeriodType moveInPeriodType = 16;
+            optional LeaseDurationType leaseDuration = 17;
+            optional int32 minBedroomCount = 18;
+            optional int32 maxBedroomCount = 19;
+            optional ParkingNeedType parkingNeedType = 20;
+            repeated RenterProfilePet pets = 21;
+            repeated RenterProfileRegion regions = 22;
+        }
+        
+        repeated ProgressPoint progressPointMap = 2;
+        message ProgressPoint {
+            repeated RenterProfileField renterProfileFields = 1;
+            optional int32 progressPoint = 2;
+        }
+    }
+    
+    optional UpdateRenterProfileResponse updateRenterProfileResponse = 5;
+    message UpdateRenterProfileResponse {
+        repeated ErrorPerField errors = 1;
+        message ErrorPerField {
+            optional RenterProfileField fieldName = 1;
+            optional string errorMsg = 2;
+        }
+    }
+}
+
+message RenterProfilePet {
+    optional int32 accountId = 1;
+    optional int32 petId = 2;
+    optional string descriptionOther = 3;
+    optional PetType petType = 4;
+}
+
+message RenterProfileRegion {
+    optional string regionName = 1;
+}
+
+enum CurrentHousingType {
+    RENT = 0;
+    OWN = 1;
+    FAMILY = 2;
+    DORM = 3;
+}
+
+enum CreditScoreType {
+    SCORE_BELOW_600 = 0;
+    SCORE_600_TO_700 = 1;
+    SCORE_ABOVE_700 = 2;
+}
+
+enum MoveInPeriodType {
+    AS_SOON_AS_POSSIBLE = 0;
+    WITHIN_A_WEEK = 1;
+    WITHIN_A_MONTH = 2;
+    FLEXIBLE = 3;
+}
+
+enum LeaseDurationType {
+    SHORT = 0;
+    MEDIUM = 1;
+    LONG = 2;
+}
+
+enum ParkingNeedType {
+    NEED = 0;
+    DO_NOT_NEED = 1;
+    NICE_TO_HAVE = 2;
+}
+
+enum DesiredHousingType {
+    HOUSE = 0;
+    APARTMENT = 1;
+    CONDO = 2;
+    TOWNHOUSE = 3;
+}
+
+enum PetType {
+    DOG_SMALL = 0;
+    DOG_MEDIUM = 1;
+    DOG_LARGE = 2;
+    CAT = 3;
+    OTHER = 4;
+}
+
+enum RenterProfileField {
+    USER_NAME = 0;
+    PHONE_NUMBER = 1;
+    SELF_DESCRIPTION = 2;
+    HOUSEHOLD_SIZE = 3;
+    CURRENT_HOUSING_TYPE = 4;
+    CURRENT_HOUSING_SINCE_DATE = 5;
+    CURRENT_HOUSING_POSTAL_CODE = 6;
+    DESIRED_HOUSING_TYPES = 7;
+    REASON_TO_MOVE_DESCRIPTION = 8;
+    JOB_TITLE_DESCRIPTION = 9;
+    EMPLOYER_DESCRIPTION = 10;
+    EMPLOYED_SINCE_DATE = 11;
+    PAST_EMPLOYERS_DESCRIPTION = 12;
+    CREDIT_SCORE_TYPE = 13;
+    MONTHLY_INCOME_AMOUNT = 14;
+    MOVE_IN_PERIOD_TYPE = 15;
+    LEASE_DURATION_TYPE = 16;
+    BEDROOM_NUMBER_MIN = 17;
+    BEDROOM_NUMBER_MAX = 18;
+    PARKING_NEED_TYPE = 19;
+    PETS = 20;
+    REGIONS = 21;
+}

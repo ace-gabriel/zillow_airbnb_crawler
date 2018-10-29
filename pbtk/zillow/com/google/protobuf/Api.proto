@@ -1,0 +1,42 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.Api
+ * com.google.protobuf.Method
+ * com.google.protobuf.Mixin
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+import "com/google/protobuf/Option.proto";
+import "com/google/protobuf/SourceContext.proto";
+import "com/google/protobuf/Syntax.proto";
+
+message Api {
+    optional string name = 1;
+    
+    repeated Method_ methods = 2;
+    message Method_ {
+        optional string name = 1;
+        optional string request_type_url = 2;
+        optional bool request_streaming = 3;
+        optional string response_type_url = 4;
+        optional bool response_streaming = 5;
+        repeated Option options = 6;
+        optional Syntax syntax = 7;
+    }
+    
+    repeated Option options = 3;
+    optional string version = 4;
+    optional SourceContext source_context = 5;
+    
+    repeated Mixin_ mixins = 6;
+    message Mixin_ {
+        optional string name = 1;
+        optional string root = 2;
+    }
+    
+    optional Syntax syntax = 7;
+}

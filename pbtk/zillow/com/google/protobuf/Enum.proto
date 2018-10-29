@@ -1,0 +1,29 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.Enum
+ * com.google.protobuf.EnumValue
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+import "com/google/protobuf/Option.proto";
+import "com/google/protobuf/SourceContext.proto";
+import "com/google/protobuf/Syntax.proto";
+
+message Enum {
+    optional string name = 1;
+    
+    repeated EnumValue_ enumvalue = 2;
+    message EnumValue_ {
+        optional string name = 1;
+        optional int32 number = 2;
+        repeated Option options = 3;
+    }
+    
+    repeated Option options = 3;
+    optional SourceContext source_context = 4;
+    optional Syntax syntax = 5;
+}

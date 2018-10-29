@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package HomeFacts;
+
+option objc_class_prefix = "ProtobufHome";
+option java_outer_classname = "HomeFacts";
+option java_package = "com.zillow.mobile.webservices";
+
+message Fact {
+    optional string factsLabel = 1;
+    optional string factsValue = 2;
+}

@@ -1,0 +1,30 @@
+syntax = "proto2";
+
+package HomeDetails;
+
+import "PropertyImageResults.proto";
+import "VideoDetailsResults.proto";
+import "VrModelDisplayDetailsResults.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "HomeDetails";
+option java_package = "com.zillow.mobile.webservices";
+
+message HomeMediaDetails {
+    optional PropertyImageResults.PropertyImageResult imageResults = 1;
+    optional VideoDetailsResults.VideoDetailsResult videoResults = 2;
+    optional VrModelDisplayDetailsResults.VrModelDisplayDetailsResult vrModelDisplayResults = 3;
+}
+
+message InstantOffer {
+    optional string instantOfferUrl = 1;
+}
+
+message HomeDetailsResult {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional HomeMediaDetails mediaDetails = 4;
+    optional string hdpTemplateJsonString = 5;
+    optional InstantOffer instantOffer = 6;
+}

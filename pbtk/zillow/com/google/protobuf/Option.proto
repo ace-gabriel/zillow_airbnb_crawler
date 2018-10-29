@@ -1,0 +1,20 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.Option
+ * com.google.protobuf.Any
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message Option {
+    optional string name = 1;
+    
+    optional Any_ value = 2;
+    message Any_ {
+        optional string type_url = 1;
+        optional bytes value = 2;
+    }
+}

@@ -1,0 +1,23 @@
+syntax = "proto2";
+
+package GetPropertyImagesListResults;
+
+import "PropertyImageResults.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "PropertyImageListResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message PropertyImageList {
+    required int32 zpid = 1;
+    repeated PropertyImageResults.Image images = 2;
+    optional PropertyImageResults.HighResImages highResImages = 3;
+    optional PropertyImageResults.WatchImages watchImages = 4;
+}
+
+message ImageListResults {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    repeated PropertyImageList homes = 4;
+}

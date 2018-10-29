@@ -1,0 +1,39 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdmd
+ * com.google.android.gms.internal.zzdme
+ * com.google.android.gms.internal.zzdmc
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzdmd {
+    required int32 type = 1 [default = 1];
+    
+    optional Zzdme zzlmm = 2;
+    message Zzdme {
+        optional bytes zzlmn = 1;
+        optional string zzlmo = 2;
+        optional double zzlmp = 3;
+        optional float zzlmq = 4;
+        optional int64 zzlmr = 5;
+        optional int32 zzlms = 6;
+        optional uint32 zzlmt = 7;
+        optional bool zzlmu = 8;
+        
+        repeated Zzdmc zzlmv = 9;
+        message Zzdmc {
+            required string name = 1;
+            optional Zzdmd zzlmk = 2;
+        }
+        
+        repeated Zzdmd zzlmw = 10;
+        repeated string zzlmx = 11;
+        repeated int64 zzlmy = 12;
+        optional int64 zzlna = 13;
+        repeated float zzlmz = 14;
+    }
+}

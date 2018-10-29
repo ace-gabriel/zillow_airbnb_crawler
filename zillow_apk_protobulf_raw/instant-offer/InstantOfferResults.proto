@@ -1,0 +1,18 @@
+syntax = "proto2";
+
+package InstantOffers;
+
+option objc_class_prefix = "ProtobufInstantOffer";
+option java_outer_classname = "InstantOffers";
+option java_package = "com.zillow.mobile.webservices";
+
+message InstantOffer {
+    optional string instantOfferUrl = 1;
+}
+
+message InstantOfferResult {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional InstantOffer instantOffer = 4;
+}

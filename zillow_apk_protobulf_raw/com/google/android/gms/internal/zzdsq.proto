@@ -1,0 +1,17 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdsq
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+enum Zzdsq {
+    UNKNOWN_HASH = 0;
+    SHA1 = 1;
+    SHA224 = 2;
+    SHA256 = 3;
+    SHA512 = 4;
+}

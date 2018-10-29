@@ -1,0 +1,30 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzfku
+ * com.google.android.gms.internal.zzfkt
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzfku {
+    optional string zzpri = 1;
+    optional string zzprj = 2;
+    optional int64 zzprk = 3;
+    optional string zzprl = 4;
+    optional int64 zzprm = 5;
+    optional int64 zzghq = 6;
+    optional string zzprn = 7;
+    optional string zzpro = 8;
+    optional string zzprp = 9;
+    optional string zzprq = 10;
+    optional string zzprr = 11;
+    optional int32 zzprs = 12;
+    
+    repeated Zzfkt zzprt = 13;
+    message Zzfkt {
+        optional string zzpri = 1;
+    }
+}

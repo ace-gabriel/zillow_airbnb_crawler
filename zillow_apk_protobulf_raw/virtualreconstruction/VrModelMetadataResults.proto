@@ -1,0 +1,22 @@
+syntax = "proto2";
+
+package VrModelMetadataResults;
+
+option java_outer_classname = "VrModelMetadataResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message VrModelMetadataResult {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string appVersion = 4;
+    optional string appPlatform = 5;
+    optional string appPlatformVersion = 6;
+    optional string deviceModel = 7;
+    optional string deviceModelName = 8;
+    optional string createTime = 9;
+    optional string lastModified = 10;
+    optional string projectId = 11;
+    optional string dataSchemaVersion = 12;
+    optional string vrsVersion = 13;
+}

@@ -1,0 +1,39 @@
+syntax = "proto2";
+
+package PropertyImageResults;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "PropertyImageResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message Image {
+    optional string url = 1;
+    optional string caption = 2;
+    optional string imageId = 3;
+    optional string highResUrl = 4;
+    optional bool is_owner = 5;
+    optional bool is_private = 6;
+    optional string subject = 7;
+    optional string watchUrl = 8;
+    optional string tvUrl = 9;
+    optional string tvCollectionUrl = 10;
+    optional string tvHdpUrl = 11;
+}
+
+message HighResImages {
+    repeated Image images = 1;
+}
+
+message WatchImages {
+    repeated Image images = 1;
+}
+
+message PropertyImageResult {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    repeated Image images = 4;
+    optional HighResImages highResImages = 5;
+    optional string zpid = 6;
+    optional WatchImages watchImages = 7;
+}

@@ -1,0 +1,66 @@
+syntax = "proto2";
+
+package Coshopping;
+
+import "auth/GetUserInfoResult.proto";
+
+option objc_class_prefix = "ProtobufCoshoppingApi";
+option java_outer_classname = "CoshoppingApiResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message Result {
+    optional int32 apiVersion = 1;
+    optional int32 responseCode = 2;
+    optional string responseMessage = 3;
+    
+    oneof response {
+        InviteCoshoppersResult inviteResponse = 4;
+        UpdateCoshopperResult updateResponse = 5;
+        ListCoshoppersResult listResponse = 6;
+        DeleteCoshopperResult deleteResponse = 7;
+        GetOutgoingLinkStatusResult getOutgoingLinkStatusResult = 8;
+    }
+}
+
+message InviteCoshoppersResult {
+    repeated Coshopper coshoppers = 1;
+    map<string, string> errors = 2;
+}
+
+message UpdateCoshopperResult {
+    optional Coshopper coshopper = 1;
+}
+
+message ListCoshoppersResult {
+    repeated Coshopper coshoppers = 1;
+}
+
+message DeleteCoshopperResult {
+    optional Coshopper deletedCoshopper = 1;
+}
+
+message GetOutgoingLinkStatusResult {
+    optional GetUserInfoResult.UserInfo owner = 1;
+    optional GetUserInfoResult.UserInfo linkedUser = 2;
+    optional LinkStatus outgoingLinkStatus = 3;
+}
+
+message Coshopper {
+    optional GetUserInfoResult.UserInfo user = 1;
+    optional Link outgoingLink = 2;
+    optional Link incomingLink = 3;
+}
+
+message Link {
+    optional bool isInitiator = 1;
+    optional LinkStatus linkStatus = 2;
+}
+
+enum LinkStatus {
+    None = 1;
+    Pending = 2;
+    Linked = 3;
+    Declined = 4;
+    Rescinded = 5;
+    Cancelled = 6;
+}

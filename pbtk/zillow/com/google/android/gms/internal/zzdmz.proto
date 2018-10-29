@@ -1,0 +1,15 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdmz
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzdmz {
+    repeated string zzlof = 1;
+    repeated int32 zzlog = 2;
+    repeated bytes zzloh = 3;
+}

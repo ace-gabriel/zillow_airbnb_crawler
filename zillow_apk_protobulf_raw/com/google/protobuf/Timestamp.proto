@@ -1,0 +1,14 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.protobuf.Timestamp
+ */
+
+syntax = "proto2";
+
+package com.google.protobuf;
+
+message Timestamp {
+    optional int64 seconds = 1;
+    optional int32 nanos = 2;
+}

@@ -1,0 +1,32 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdrc
+ * com.google.android.gms.internal.zzdrg
+ * com.google.android.gms.internal.zzdss
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdrk.proto";
+import "com/google/android/gms/internal/zzdsw.proto";
+
+message Zzdrc {
+    optional uint32 zzltn = 1;
+    
+    optional Zzdrg zzlto = 2;
+    message Zzdrg {
+        optional uint32 zzltn = 1;
+        optional Zzdrk zzltu = 2;
+        optional bytes zzltv = 3;
+    }
+    
+    optional Zzdss zzltp = 3;
+    message Zzdss {
+        optional uint32 zzltn = 1;
+        optional Zzdsw zzlvu = 2;
+        optional bytes zzltv = 3;
+    }
+}

@@ -1,0 +1,23 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdtv
+ * com.google.android.gms.internal.zzdtf
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzdtv {
+    optional string zzlxz = 1;
+    
+    repeated Zzdtf zzlya = 2;
+    message Zzdtf {
+        optional string zzlwt = 1;
+        optional string zzlwa = 2;
+        optional uint32 zzlwu = 3;
+        optional bool zzlwv = 4;
+        optional string zzlww = 5;
+    }
+}

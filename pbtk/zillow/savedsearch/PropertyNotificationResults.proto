@@ -1,0 +1,37 @@
+syntax = "proto2";
+
+package PropertyNofiticationResults;
+
+import "savedsearch/SavedSearchCounts.proto";
+import "savedsearch/PropertyNotification.proto";
+
+option objc_class_prefix = "ProtobufPropertyNotification";
+option java_outer_classname = "PropertyNotificationResults";
+option java_package = "com.zillow.mobile.webservices.notification";
+
+message MarkRead {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+}
+
+message GetList {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+}
+
+message GetNotificationStream {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string identifier = 4;
+    repeated PropertyNotification.Notification notifications = 5;
+}
+
+message GetCounts {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    repeated SavedSearchCounts.Counts counts = 4;
+}

@@ -1,0 +1,17 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdtd
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzdtt.proto";
+
+message Zzdtd {
+    optional string zzlwa = 1;
+    optional bytes zzlwb = 2;
+    optional Zzdtt zzlwr = 3;
+}

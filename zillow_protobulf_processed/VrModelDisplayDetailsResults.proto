@@ -1,0 +1,35 @@
+syntax = "proto2";
+
+package VrModelDisplayDetailsResults;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "VrModelDisplayDetailsResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message VrModelDisplayDetailsResult {
+    repeated VrModel vrModels = 1;
+}
+
+message VrModel {
+    optional bool autoApprove = 1;
+    optional int64 createDateTimeUtc = 2;
+    optional string creatorZuid = 3;
+    optional int64 lastUpdateDateTimeUtc = 4;
+    optional string revisionId = 5;
+    optional string vrModelIdGuid = 6;
+    optional string vrModelId = 7;
+    
+    optional StatusType statusType = 8;
+    enum StatusType {
+        PRIVATE = 1;
+        DRAFT = 2;
+        PUBLIC = 3;
+        NOT_EDITABLE = 4;
+        DELETED = 5;
+        ERROR = 100;
+    }
+    
+    optional int32 zpid = 9;
+    optional string viewerUrl = 10;
+    optional string cdnHost = 11;
+}

@@ -1,0 +1,18 @@
+syntax = "proto2";
+
+package NeighborhoodDetails;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "NeighborhoodDetails";
+option java_package = "com.zillow.mobile.webservices";
+
+message NeighborhoodInfo {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string neighborhoodName = 4;
+    optional int32 regionId = 5;
+    optional int32 regionType = 6;
+    optional int32 zhvi = 7;
+    optional int32 rentalZhvi = 8;
+}

@@ -1,0 +1,14 @@
+syntax = "proto2";
+
+package FBConnectAccountResult;
+
+option objc_class_prefix = "ProtobufFBConnectAccount";
+option java_outer_classname = "FBConnectAccountResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message Result {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string zuid = 4;
+}

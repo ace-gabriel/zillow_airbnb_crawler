@@ -1,0 +1,16 @@
+syntax = "proto2";
+
+package OpenHouseDetails;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "OpenHouseDetails";
+option java_package = "com.zillow.mobile.webservices";
+
+message OpenHouseInfo {
+    repeated OpenHouseShowing open_house_showing = 1;
+}
+
+message OpenHouseShowing {
+    optional int64 open_house_start = 1;
+    optional int64 open_house_end = 2;
+}

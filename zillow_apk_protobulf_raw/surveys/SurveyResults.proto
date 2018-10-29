@@ -1,0 +1,19 @@
+syntax = "proto2";
+
+package surveys;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "SurveyResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message Survey {
+    optional string type = 1;
+    optional string url = 2;
+}
+
+message SurveyList {
+    required int32 api_version = 1;
+    required int32 response_code = 2;
+    optional string response_message = 3;
+    repeated Survey surveyList = 4;
+}

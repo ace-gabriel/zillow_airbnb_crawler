@@ -1,0 +1,14 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzdry
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzdry {
+    optional uint32 zzltn = 1;
+    optional bytes zzltv = 2;
+}

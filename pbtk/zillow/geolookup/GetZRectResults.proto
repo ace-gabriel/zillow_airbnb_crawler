@@ -1,0 +1,25 @@
+syntax = "proto2";
+
+package GetZRectResults;
+
+import "home-info/HomeInfo.proto";
+import "schools/SchoolInfo.proto";
+
+option objc_class_prefix = "ProtobufGetZRect";
+option java_outer_classname = "GetZRectResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message Results {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional int32 pageNumber = 4;
+    optional int32 totalHomes = 5;
+    optional int32 fmrTotalHomes = 6;
+    optional int32 fmrSubsetCount = 7;
+    optional string adCounty = 8;
+    repeated HomeInfo.Home homes = 9;
+    optional string dma = 10;
+    optional int64 ordinal = 11;
+    optional Schools.SchoolSearchResults schoolSearchResults = 12;
+}

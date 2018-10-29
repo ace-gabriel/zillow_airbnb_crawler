@@ -1,0 +1,28 @@
+syntax = "proto2";
+
+package RentalInfo;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "RentalInfo";
+option java_package = "com.zillow.mobile.webservices";
+
+message RentalPropertyInfo {
+    optional bool in_unit_laundry = 1;
+    optional bool assigned_parking = 2;
+    
+    optional Appliances appliances = 3;
+    message Appliances {
+        optional bool dishwasher = 1;
+        optional bool dryer = 2;
+        optional bool freezer = 3;
+        optional bool garbage_disposal = 4;
+        optional bool microwave = 5;
+        optional bool range_or_oven = 6;
+        optional bool refrigerator = 7;
+        optional bool trash_compactor = 8;
+        optional bool washer = 9;
+    }
+    
+    optional bool income_restricted = 4;
+    optional bool community_pillar = 5;
+}

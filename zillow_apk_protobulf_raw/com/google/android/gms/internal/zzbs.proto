@@ -1,0 +1,24 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzbs
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzbs {
+    required int32 type = 1 [default = 1];
+    optional string string = 2;
+    repeated Zzbs zzyl = 3;
+    repeated Zzbs zzym = 4;
+    repeated Zzbs zzyn = 5;
+    optional string zzyo = 6;
+    optional string zzyp = 7;
+    optional int64 zzyq = 8;
+    repeated bool zzyu = 9;
+    repeated int32 zzyt = 10;
+    repeated Zzbs zzys = 11;
+    optional bool zzyr = 12;
+}

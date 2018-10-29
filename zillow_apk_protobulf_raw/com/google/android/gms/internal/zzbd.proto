@@ -1,0 +1,16 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzbd
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzbd {
+    optional bytes data = 1;
+    optional bytes zzgl = 2;
+    optional bytes zzgm = 3;
+    optional bytes zzgn = 4;
+}

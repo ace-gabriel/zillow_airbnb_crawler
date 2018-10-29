@@ -1,0 +1,16 @@
+syntax = "proto2";
+
+package SignInResult;
+
+option objc_class_prefix = "ProtobufSignIn";
+option java_outer_classname = "SignInResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message Result {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string zuid = 4;
+    optional bool isProfessionalUser = 5;
+    optional string emailAddress = 6;
+}

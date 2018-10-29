@@ -1,0 +1,17 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzclu
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzclu {
+    optional int32 zzjkg = 1;
+    optional bool zzjkh = 2;
+    optional string zzjki = 3;
+    optional string zzjkj = 4;
+    optional string zzjkk = 5;
+}

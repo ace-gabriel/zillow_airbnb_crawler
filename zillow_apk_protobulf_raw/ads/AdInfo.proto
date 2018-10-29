@@ -1,0 +1,17 @@
+syntax = "proto2";
+
+package Ads;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "Ads";
+option java_package = "com.zillow.mobile.webservices";
+
+message MobileAdParam {
+    optional string key = 1;
+    optional string value = 2;
+}
+
+message MobileAdInfo {
+    optional string adUnit = 1;
+    repeated MobileAdParam adParams = 2;
+}

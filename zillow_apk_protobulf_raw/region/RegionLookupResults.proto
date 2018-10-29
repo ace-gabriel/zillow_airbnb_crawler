@@ -1,0 +1,22 @@
+syntax = "proto2";
+
+package region;
+
+import "geolookup/LocationLookup.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "RegionLookupResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message RegionLookup {
+    optional int32 apiVersion = 1;
+    optional int32 responseCode = 2;
+    optional string responseMessage = 3;
+    repeated RegionInfo regions = 4;
+}
+
+message RegionInfo {
+    optional int32 regionId = 1;
+    optional LocationAPI.RegionType regionType = 2;
+    optional string regionName = 3;
+}

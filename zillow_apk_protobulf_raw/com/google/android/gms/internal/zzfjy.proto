@@ -1,0 +1,14 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzfjy
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+message Zzfjy {
+    required bytes zzpom = 1;
+    optional bytes zzohg = 2;
+}

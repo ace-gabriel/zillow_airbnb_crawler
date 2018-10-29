@@ -1,0 +1,99 @@
+/**
+ * Messages defined in this file:
+
+ * com.google.android.gms.internal.zzfjw
+ * com.google.android.gms.internal.zzfke
+ * com.google.android.gms.internal.zzfjx
+ * com.google.android.gms.internal.zzfkd
+ * com.google.android.gms.internal.zzfkf
+ * com.google.android.gms.internal.zzfka
+ * com.google.android.gms.internal.zzfkc
+ * com.google.android.gms.internal.zzfjz
+ * com.google.android.gms.internal.zzfkb
+ */
+
+syntax = "proto2";
+
+package com.google.android.gms.internal;
+
+import "com/google/android/gms/internal/zzfjy.proto";
+
+message Zzfjw {
+    optional string url = 1;
+    optional string zzpny = 2;
+    optional string zzpnz = 3;
+    
+    repeated Zzfke zzpob = 4;
+    message Zzfke {
+        required int32 zzjjw = 1;
+        optional string url = 2;
+        
+        optional Zzfjz zzppa = 3;
+        message Zzfjz {
+            optional Zzfka zzpon = 1;
+            message Zzfka {
+                optional bytes zzpor = 1;
+                optional bytes zzpos = 2;
+                optional bytes zzpot = 3;
+            }
+            
+            repeated Zzfjy zzpoo = 2;
+            optional bytes body = 3;
+            optional bytes zzpop = 4;
+            optional int32 zzpoq = 5;
+        }
+        
+        optional Zzfkb zzppb = 4;
+        message Zzfkb {
+            optional Zzfkc zzpou = 1;
+            message Zzfkc {
+                optional int32 zzpow = 1;
+                optional bytes zzpox = 2;
+                optional bytes zzpot = 3;
+            }
+            
+            repeated Zzfjy zzpoo = 2;
+            optional bytes body = 3;
+            optional bytes zzpop = 4;
+            optional int32 zzpoq = 5;
+            optional bytes zzpov = 6;
+        }
+        
+        optional int32 zzppc = 5;
+        repeated int32 zzppd = 6;
+        optional string zzppe = 7;
+        optional int32 zzppf = 8;
+        repeated string zzppg = 9;
+    }
+    
+    repeated bool zzpoe = 5;
+    repeated string zzpof = 6;
+    optional string zzpog = 7;
+    optional bool zzpoh = 8;
+    optional bool zzpoi = 9;
+    optional int32 zzpnw = 10;
+    optional int32 zzpnx = 11;
+    
+    optional Zzfjx zzpoa = 12;
+    message Zzfjx {
+        optional string zzcwp = 1;
+    }
+    
+    optional string zzpoc = 13;
+    
+    optional Zzfkd zzpod = 14;
+    message Zzfkd {
+        optional int32 zzpnw = 1;
+        optional string mime_type = 2;
+        optional bytes zzpoy = 3;
+    }
+    
+    optional bytes zzpoj = 15;
+    
+    optional Zzfkf zzpok = 17;
+    message Zzfkf {
+        optional string zzpph = 1;
+        optional int64 zzppi = 2;
+        optional bool zzppj = 3;
+    }
+}

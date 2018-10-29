@@ -1,0 +1,40 @@
+syntax = "proto2";
+
+package SearchResults;
+
+import "schools/SchoolInfo.proto";
+import "search/GroupResult.proto";
+import "home-info/HomeInfo.proto";
+import "ads/AdInfo.proto";
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "SearchResults";
+option java_package = "com.zillow.mobile.webservices";
+
+message MobilePropertyInfo {
+    required PropertyInfoType type = 1;
+    enum PropertyInfoType {
+        HOME = 0;
+        GROUP = 1;
+    }
+    
+    optional HomeInfo.Home home = 2;
+    optional PropertyGroup group = 3;
+}
+
+message MobileSearchResults {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional int32 pageNumber = 4;
+    optional int32 nonZestimateResultsAvailable = 5;
+    optional int32 nonZestimateResultsReturned = 6;
+    optional string adCounty = 7;
+    repeated MobilePropertyInfo result = 8;
+    optional string dma = 9;
+    optional int64 ordinal = 10;
+    optional Schools.SchoolSearchResults schoolSearchResults = 11;
+    optional int32 notificationCount = 12;
+    repeated string zipcodesForNavAds = 13;
+    optional Ads.MobileAdInfo adInfo = 14;
+}

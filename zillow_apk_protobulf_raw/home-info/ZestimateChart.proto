@@ -1,0 +1,14 @@
+syntax = "proto2";
+
+package ZestimateChartResult;
+
+option objc_class_prefix = "Protobuf";
+option java_outer_classname = "ZestimateChartResult";
+option java_package = "com.zillow.mobile.webservices";
+
+message ZestimateChart {
+    required int32 apiVersion = 1;
+    required int32 responseCode = 2;
+    optional string responseMessage = 3;
+    optional string chartData = 4;
+}
